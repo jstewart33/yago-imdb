@@ -1,0 +1,989 @@
+ym143145	wasCreatedOnDate	1992-11-25
+ym143166	hasLabel	El Norte (film)
+ym143227	wasCreatedOnDate	1915-##-##
+ym143494	wasCreatedOnDate	1963-06-12
+ym143550	hasLabel	Ronin (film)
+ym143583	hasGender	male
+ym143583	hasLabel	Men in Black (film)
+ym143674	wasCreatedOnDate	1942-10-22
+ym143871	wasCreatedOnDate	1987-03-06
+ym144120	hasLabel	Beethoven (film)
+ym144244	hasLabel	Peeping Tom (film)
+ym144379	hasLabel	In the Company of Men
+ym144379	wasCreatedOnDate	1997-08-01
+ym144433	wasCreatedOnDate	1989-08-04
+ym144730	wasCreatedOnDate	2002-11-01
+ym144966	hasLabel	Posse (1993 film)
+ym145023	hasLabel	Woman in the Moon
+ym145023	wasCreatedOnDate	1929-##-##
+ym145087	hasLabel	Tommy Boy
+ym145159	hasLabel	Stray Dog (film)
+ym145159	wasCreatedOnDate	1949-10-17
+ym145447	hasLabel	Wimbledon (film)
+ym145447	wasCreatedOnDate	2004-09-17
+ym145664	hasLabel	Alfie (2004 film)
+ym145664	wasCreatedOnDate	2004-11-05
+ym145782	wasCreatedOnDate	2003-06-18
+ym145953	hasLabel	Across 110th Street
+ym145953	wasCreatedOnDate	1972-12-19
+ym146037	hasLabel	Polyester (film)
+ym146037	wasCreatedOnDate	1981-05-29
+ym146073	hasLabel	The Replacement Killers
+ym146073	wasCreatedOnDate	1998-02-06
+ym146100	hasLabel	Sphere (film)
+ym146237	wasCreatedOnDate	1958-##-##
+ym146492	hasLabel	Dragon Seed (film)
+ym146650	hasLabel	Lenin in Paris
+ym146650	wasCreatedOnDate	1981-10-18
+ym146817	hasLabel	A Generation
+ym146894	hasLabel	Jeepers Creepers (2001 film)
+ym146903	hasLabel	Kansas City (1996 film)
+ym146957	wasCreatedOnDate	1978-03-10
+ym147093	hasLabel	Phantasm (film)
+ym147093	wasCreatedOnDate	1979-03-28
+ym147210	hasLabel	Paheli
+ym147210	wasCreatedOnDate	2005-06-22
+ym147250	hasLabel	V for Vendetta (film)
+ym147688	hasLabel	The Optimists (1973 film)
+ym147688	wasCreatedOnDate	1973-##-##
+ym147728	hasLabel	Khuda Kay Liye
+ym147728	wasCreatedOnDate	2007-07-20
+ym148045	hasLabel	The Killer That Stalked New York
+ym148045	wasCreatedOnDate	1950-12-01
+ym148156	hasLabel	The Karate Kid, Part III
+ym148261	wasCreatedOnDate	2005-04-01
+ym148385	hasLabel	Hell Comes to Frogtown
+ym148448	hasLabel	The Undead (film)
+ym148448	wasCreatedOnDate	1957-##-##
+ym148533	wasCreatedOnDate	2006-10-13
+ym148540	hasLabel	This Is the Night (film)
+ym148606	hasLabel	Don't Bother to Knock
+ym149001	hasLabel	Apoorva Raagangal
+ym149106	wasCreatedOnDate	1999-10-22
+ym149235	wasCreatedOnDate	1975-##-##
+ym149336	hasLabel	The Beast Within
+ym149418	wasCreatedOnDate	1969-##-##
+ym149556	hasLabel	Blue Denim
+ym150078	hasLabel	The Mummy's Curse
+ym150394	wasCreatedOnDate	1995-12-15
+ym150493	wasCreatedOnDate	2005-08-05
+ym151035	hasLabel	Broadway (1942 film)
+ym151035	wasCreatedOnDate	1942-##-##
+ym151130	hasLabel	Cast a Dark Shadow
+ym151130	wasCreatedOnDate	1955-##-##
+ym151588	wasCreatedOnDate	1979-##-##
+ym151597	hasLabel	All Quiet on the Western Front (1930 film)
+ym152000	hasLabel	Away from Her
+ym152168	hasLabel	Lying (film)
+ym152168	wasCreatedOnDate	2006-05-28
+ym152212	wasCreatedOnDate	2000-03-08
+ym152386	hasLabel	Steel Dawn
+ym152437	hasLabel	Bossa Nova (film)
+ym152473	wasCreatedOnDate	1966-12-18
+ym152736	hasLabel	Yakeen (1969 film)
+ym152736	wasCreatedOnDate	1969-##-##
+ym153663	hasLabel	Don't Fool Me
+ym153663	wasCreatedOnDate	1991-03-02
+ym153749	hasLabel	The Desert Rats (film)
+ym154167	wasCreatedOnDate	1963-03-26
+ym154507	hasLabel	And God Created Woman (1988 film)
+ym154507	wasCreatedOnDate	1988-01-01
+ym154615	hasLabel	True Confessions (film)
+ym154615	wasCreatedOnDate	1981-##-##
+ym154804	wasCreatedOnDate	1912-11-03
+ym154976	hasLabel	The Old Garden
+ym154983	hasLabel	Imtihaan
+ym154983	wasCreatedOnDate	1995-##-##
+ym155043	hasLabel	Trapped in a Forest Fire
+ym155615	wasCreatedOnDate	1915-03-24
+ym155626	hasLabel	The Buzzard's Shadow
+ym155654	hasLabel	One Shot Sam
+ym155654	wasCreatedOnDate	2006-##-##
+ym155854	hasLabel	Adventures of Red Ryder
+ym155854	wasCreatedOnDate	1940-06-28
+ym155972	wasCreatedOnDate	2003-##-##
+ym156276	hasLabel	Tarzan Finds a Son!
+ym156276	wasCreatedOnDate	1939-06-16
+ym156323	hasLabel	Zona J (film)
+ym156323	wasCreatedOnDate	1998-12-11
+ym156371	hasLabel	The Atlantis Interceptors
+ym156371	wasCreatedOnDate	1983-11-25
+ym156374	hasLabel	Return to Horror High
+ym156465	hasLabel	Book of Love (1990 film)
+ym156465	wasCreatedOnDate	1990-10-15
+ym156477	wasCreatedOnDate	1970-02-##
+ym156503	wasCreatedOnDate	1976-09-09
+ym156590	hasLabel	Journey from the Fall
+ym156710	hasLabel	All the Invisible Children
+ym156710	wasCreatedOnDate	2005-09-01
+ym156795	wasCreatedOnDate	1972-09-20
+ym156831	wasCreatedOnDate	1953-11-26
+ym156943	wasCreatedOnDate	1955-07-06
+ym157003	hasLabel	The Seduction of Joe Tynan
+ym157003	wasCreatedOnDate	1979-08-17
+ym157111	hasLabel	Tristar (film)
+ym157111	wasCreatedOnDate	1996-##-##
+ym157503	wasCreatedOnDate	1973-##-##
+ym157819	wasCreatedOnDate	1990-12-21
+ym157880	hasLabel	Nuestra tierra de paz
+ym157880	wasCreatedOnDate	1939-07-04
+ym157990	wasCreatedOnDate	1989-##-##
+ym158022	wasCreatedOnDate	1932-##-##
+ym158157	wasCreatedOnDate	2006-12-29
+ym158222	wasCreatedOnDate	2002-02-28
+ym158340	hasLabel	House on Fire
+ym158340	wasCreatedOnDate	1986-04-12
+ym158343	wasCreatedOnDate	2006-##-##
+ym158542	wasCreatedOnDate	1934-01-26
+ym158898	wasCreatedOnDate	1966-##-##
+ym158981	hasLabel	Fakira (film)
+ym158981	wasCreatedOnDate	1976-09-06
+ym159253	wasCreatedOnDate	1975-##-##
+ym159797	hasLabel	Mabel's Married Life
+ym159869	hasLabel	The Little Thief
+ym159908	hasLabel	Aeg elada, aeg armastada
+ym160411	hasLabel	Battle of the Last Panzer
+ym160411	wasCreatedOnDate	1969-##-##
+ym160504	hasLabel	Traitor (film)
+ym160504	wasCreatedOnDate	2008-08-27
+ym160648	wasCreatedOnDate	2004-##-##
+ym160649	wasCreatedOnDate	2007-11-11
+ym160735	hasLabel	Adieu poulet
+ym160974	wasCreatedOnDate	1997-11-07
+ym160999	hasLabel	Safe Passage (film)
+ym161048	hasLabel	The Last Legion
+ym161141	wasCreatedOnDate	1995-03-31
+ym161264	hasLabel	Rang
+ym161264	wasCreatedOnDate	1993-07-09
+ym161270	wasCreatedOnDate	2009-03-06
+ym161359	hasLabel	The Pest (1917 film)
+ym161669	wasCreatedOnDate	2000-##-##
+ym161732	hasLabel	Coqueta
+ym161911	hasLabel	Return to Paradise (1953 film)
+ym161911	wasCreatedOnDate	1953-07-10
+ym162188	wasCreatedOnDate	2000-08-24
+ym162270	hasLabel	In Love We Trust
+ym162270	wasCreatedOnDate	2008-02-08
+ym162552	hasLabel	Agonia (1969 film)
+ym162676	wasCreatedOnDate	1915-05-19
+ym162703	wasCreatedOnDate	1915-12-08
+ym162759	hasLabel	Perils of the Royal Mounted
+ym162759	wasCreatedOnDate	1942-05-29
+ym162856	wasCreatedOnDate	2007-11-13
+ym162928	hasLabel	Lonesome Luke's Wild Women
+ym162928	wasCreatedOnDate	1917-09-02
+ym163206	hasLabel	Gang War
+ym163206	wasCreatedOnDate	1928-09-02
+ym163238	wasCreatedOnDate	1995-09-07
+ym163271	wasCreatedOnDate	1942-11-28
+ym163354	hasLabel	Mischief Night (film)
+ym163354	wasCreatedOnDate	2006-11-03
+ym163682	hasLabel	Every Sunday
+ym163682	wasCreatedOnDate	1936-##-##
+ym163815	wasCreatedOnDate	2008-01-19
+ym163895	hasLabel	Hero (2007 film)
+ym163991	hasLabel	Sure Fire
+ym164157	hasLabel	Leoni Leo
+ym164168	hasLabel	The Leopard (1918 film)
+ym164518	hasLabel	Sunken Silver
+ym164590	hasLabel	Old Dogs (film)
+ym164590	wasCreatedOnDate	2009-11-25
+ym164675	hasLabel	Pirates of the Pines
+ym164699	wasCreatedOnDate	1968-07-24
+ym165127	wasCreatedOnDate	1941-08-21
+ym165213	hasLabel	The Golden Web
+ym165213	wasCreatedOnDate	1926-##-##
+ym165343	wasCreatedOnDate	2009-06-06
+ym165383	hasLabel	On Hostile Ground
+ym165383	wasCreatedOnDate	2000-06-11
+ym165864	hasLabel	Born to Be Bad (1950 film)
+ym165962	hasLabel	Poor Jake's Demise
+ym166243	wasCreatedOnDate	1918-08-03
+ym166253	hasLabel	Dreams with Sharp Teeth
+ym166270	hasLabel	The Devil's Daughter (1915 film)
+ym166270	wasCreatedOnDate	1915-06-16
+ym166334	hasLabel	Choosing a Husband
+ym166516	hasLabel	Legion (2010 film)
+ym166705	wasCreatedOnDate	1992-05-13
+ym166718	hasLabel	The Hunchback of Notre Dame (1911 film)
+ym166844	wasCreatedOnDate	1968-##-##
+ym167101	hasLabel	Heart o' the Hills
+ym167251	wasCreatedOnDate	1967-07-14
+ym167504	wasCreatedOnDate	1935-06-14
+ym167559	wasCreatedOnDate	2004-##-##
+ym167592	wasCreatedOnDate	1990-05-23
+ym167708	hasLabel	Pyaasa (2002 film)
+ym167708	wasCreatedOnDate	2002-10-11
+ym168263	hasLabel	The True Story of Jesse James
+ym168464	hasLabel	My Friend Joe
+ym168464	wasCreatedOnDate	1996-08-29
+ym168715	hasLabel	Double Cross (1972 film)
+ym168715	wasCreatedOnDate	1972-##-##
+ym168794	hasLabel	Seven Women from Hell
+ym168794	wasCreatedOnDate	1961-10-##
+ym168835	hasLabel	Shorts (film)
+ym168835	wasCreatedOnDate	2009-08-21
+ym168888	hasLabel	Konchem Ishtam Konchem Kashtam
+ym169496	wasCreatedOnDate	1982-12-10
+ym169521	hasLabel	The Last of the Knucklemen
+ym169606	hasLabel	Father Sergius (film)
+ym169724	wasCreatedOnDate	1987-06-05
+ym169870	hasLabel	Sucker Punch (film)
+ym169870	wasCreatedOnDate	2011-03-25
+ym170237	wasCreatedOnDate	1967-##-##
+ym170367	hasLabel	The Crazies (2010 film)
+ym170476	hasLabel	Christmas Miracle in Caufield, U.S.A.
+ym170476	wasCreatedOnDate	1977-12-26
+ym170543	wasCreatedOnDate	1994-11-25
+ym170570	wasCreatedOnDate	2007-11-02
+ym170591	wasCreatedOnDate	1989-03-17
+ym170697	hasLabel	Independencia (film)
+ym170697	wasCreatedOnDate	2009-05-##
+ym170722	wasCreatedOnDate	2000-11-03
+ym171129	hasLabel	Inside Detroit
+ym171273	wasCreatedOnDate	1965-08-16
+ym171313	hasLabel	Soul Mates (film)
+ym171313	wasCreatedOnDate	1925-12-20
+ym171323	hasLabel	Subway to the Stars
+ym171447	hasLabel	Ten Cents a Dance (1945 film)
+ym171447	wasCreatedOnDate	1945-##-##
+ym171604	hasLabel	Road to the Stage
+ym171610	wasCreatedOnDate	1988-##-##
+ym171629	hasLabel	Unstoppable (2010 film)
+ym171629	wasCreatedOnDate	2010-11-12
+ym171737	hasLabel	I Hate Luv Storys
+ym171953	wasCreatedOnDate	1974-03-07
+ym172597	wasCreatedOnDate	1971-01-15
+ym172761	wasCreatedOnDate	1973-09-26
+ym173501	hasLabel	The Girl from Corfu
+ym173501	wasCreatedOnDate	1956-##-##
+ym173903	hasLabel	Thacholi Varghese Chekavar
+ym174013	wasCreatedOnDate	1983-##-##
+ym174224	hasLabel	Windom's Way
+ym174224	wasCreatedOnDate	1957-12-##
+ym174247	wasCreatedOnDate	1966-07-##
+ym174317	hasLabel	Mr. Hex
+ym174317	wasCreatedOnDate	1946-11-09
+ym174569	hasLabel	Housekeeping (film)
+ym174771	hasLabel	Inspector Balram
+ym174886	hasLabel	Hailesa
+ym174886	wasCreatedOnDate	2009-##-##
+ym175339	wasCreatedOnDate	1960-07-15
+ym175537	wasCreatedOnDate	1973-12-01
+ym175783	hasLabel	Deadly Voyage
+ym176100	wasCreatedOnDate	2010-##-##
+ym176177	hasLabel	Tell It to the Judge
+ym176209	hasLabel	Charlie Valentine
+ym176209	wasCreatedOnDate	2009-03-01
+ym176255	wasCreatedOnDate	2009-##-##
+ym176367	hasLabel	La pecora nera
+ym176905	wasCreatedOnDate	1991-##-##
+ym176906	wasCreatedOnDate	1957-##-##
+ym176915	hasLabel	Before Sunset
+ym176915	wasCreatedOnDate	2004-02-10
+ym176964	hasLabel	Mayor of the Sunset Strip
+ym177092	hasLabel	Popeye the Sailor Meets Sindbad the Sailor
+ym177189	wasCreatedOnDate	1953-08-08
+ym177462	hasLabel	Street Fight (film)
+ym177477	hasLabel	Eat Hot Tofu Slowly
+ym177477	wasCreatedOnDate	2005-##-##
+ym177909	wasCreatedOnDate	1985-12-20
+ym177917	hasLabel	Quentin Quail
+ym177917	wasCreatedOnDate	1946-03-02
+ym178011	hasLabel	The Case of the Stuttering Pig
+ym178011	wasCreatedOnDate	1937-10-30
+ym178267	wasCreatedOnDate	2003-03-13
+ym178569	hasLabel	The Bowling Alley Cat
+ym178859	wasCreatedOnDate	1943-##-##
+ym179191	hasLabel	Les Aventures des Schtroumpfs
+ym179191	wasCreatedOnDate	1965-##-##
+ym179264	wasCreatedOnDate	1966-##-##
+ym179945	hasLabel	Zomerhitte
+ym179945	wasCreatedOnDate	2008-03-20
+ym180122	hasLabel	Under the Counter Spy
+ym180122	wasCreatedOnDate	1954-05-10
+ym180259	hasLabel	The Fighting Gringo (1939 film)
+ym180259	wasCreatedOnDate	1939-08-08
+ym180409	wasCreatedOnDate	-1970-01-05
+ym180604	hasLabel	The Murder of Fred Hampton
+ym180909	hasLabel	Wicket Wacky
+ym180942	hasLabel	A Place in the Land
+ym180943	wasCreatedOnDate	1972-##-##
+ym181707	hasLabel	Home (2009 film)
+ym181707	wasCreatedOnDate	2009-06-05
+ym181740	wasCreatedOnDate	1909-11-27
+ym181785	wasCreatedOnDate	1980-##-##
+ym182255	wasCreatedOnDate	1942-08-07
+ym182770	wasCreatedOnDate	1937-06-30
+ym182925	wasCreatedOnDate	1932-08-18
+ym182995	hasLabel	Olivier, Olivier
+ym183755	hasLabel	Desamuduru
+ym183867	hasLabel	Cosmic Zoom
+ym183867	wasCreatedOnDate	1968-##-##
+ym184246	wasCreatedOnDate	1974-##-##
+ym443336	wasCreatedOnDate	1993-02-26
+ym524444	wasCreatedOnDate	1975-##-##
+ym567844	wasCreatedOnDate	2006-03-##
+yp10005	hasFamilyName	Weitz
+yp10005	wasBornOnDate	1965-##-##
+yp100762	hasLabel	Moneca Stori
+yp1018644	hasFamilyName	Reineman
+yp1018644	hasGender	male
+yp10189	hasFamilyName	Brundin
+yp10189	hasGender	male
+yp10189	hasGivenName	Bo
+yp10189	hasLabel	Bo Brundin
+yp10189	wasBornOnDate	1937-04-25
+yp10227	hasFamilyName	Chhabria
+yp10227	hasGender	female
+yp10227	hasGivenName	Aarti
+yp10227	wasBornOnDate	1982-11-21
+yp1023292	hasGivenName	Salima
+yp1023292	hasLabel	Salima Saxton
+yp10255	hasGender	female
+yp10255	hasGivenName	Betsy
+yp10255	hasLabel	Betsy King Ross
+yp10255	wasBornOnDate	1921-##-##
+yp10262	hasGivenName	Tomas
+yp10333	diedOnDate	1983-##-##
+yp10333	hasFamilyName	Dunning
+yp10333	hasGender	female
+yp1037576	hasFamilyName	Christiansen
+yp1037576	hasGender	female
+yp1037576	hasGivenName	Kerry
+yp1037576	hasLabel	Kerry Ann Christiansen
+yp1044985	hasGender	female
+yp1044985	hasLabel	Maria Giese
+yp1045	hasFamilyName	Dreyfuss
+yp1045	hasGender	male
+yp1045	hasLabel	Richard Dreyfuss
+yp1046870	hasFamilyName	Berke
+yp1052024	hasFamilyName	Sen
+yp1052024	hasGender	male
+yp1052024	hasGivenName	Palash
+yp1052024	hasLabel	Palash Sen
+yp10615	hasLabel	Bong Tae-gyu
+yp10615	wasBornOnDate	1981-05-19
+yp10666	hasFamilyName	Williams
+yp10666	hasGender	male
+yp10666	hasGivenName	Robert
+yp10666	hasLabel	Robert Williams (actor)
+yp10666	wasBornOnDate	1897-09-15
+yp10713	hasGivenName	Tullio
+yp10713	wasBornOnDate	1928-##-##
+yp1088255	hasGender	male
+yp1088255	hasGivenName	John
+yp1088255	hasLabel	John Fricke
+yp10901	hasFamilyName	Kosugi
+yp10901	hasGivenName	Sho
+yp10901	hasLabel	Sho Kosugi
+yp10901	wasBornOnDate	1948-06-17
+yp1115201	hasFamilyName	Sardesai
+yp11319	hasFamilyName	Peck
+yp11319	hasGender	female
+yp11319	hasLabel	Mizuo Peck
+yp11319	wasBornOnDate	1977-08-18
+yp1134979	hasGender	female
+yp11501	hasFamilyName	Socha
+yp11501	hasGivenName	Lauren
+yp11501	hasLabel	Lauren Socha
+yp11501	wasBornOnDate	1990-06-09
+yp11563	hasFamilyName	Flaherty
+yp11563	hasGivenName	Joe
+yp11563	hasLabel	Joe Flaherty
+yp1161363	hasFamilyName	Bryar
+yp1164266	hasGender	female
+yp1164266	hasLabel	Gunilla Knutsson
+yp1177608	hasFamilyName	Houvardas
+yp11884	hasFamilyName	Norton
+yp11884	hasLabel	Cliff Norton
+yp11899	hasGender	male
+yp11899	hasGivenName	Ryan
+yp11899	hasLabel	Ryan Agoncillo
+yp11899	wasBornOnDate	1979-04-10
+yp12006	hasLabel	Andrea Marcovicci
+yp1206374	hasFamilyName	Boyce
+yp1206374	hasGivenName	Rodger
+yp1210207	hasLabel	Takeshi Furukawa
+yp1210779	hasLabel	Travis Bowen
+yp12191	hasGender	male
+yp12191	wasBornOnDate	1947-##-##
+yp12233	hasFamilyName	Leighton
+yp12233	hasGender	female
+yp12233	hasLabel	Laura Leighton
+yp12335	hasGivenName	Ronnie
+yp12335	hasLabel	Ronnie Warner
+yp12366	hasFamilyName	Wang
+yp12366	hasGivenName	Jimmy
+yp12366	hasLabel	Jimmy Wang (actor)
+yp12441	hasFamilyName	Cedar
+yp12441	hasGender	male
+yp12441	hasLabel	Larry Cedar
+yp1245139	hasGivenName	Lynn
+yp12477	hasGivenName	Ali
+yp12477	wasBornOnDate	1978-12-29
+yp12602	hasFamilyName	Giftos
+yp12602	hasGender	female
+yp12602	hasGivenName	Elaine
+yp12602	hasLabel	Elaine Giftos
+yp12602	wasBornOnDate	1945-01-24
+yp1285854	hasGivenName	Adam
+yp12859	wasBornOnDate	1909-07-11
+yp1288186	hasGivenName	Brian
+yp1289581	hasGender	female
+yp1289581	hasGivenName	Camille
+yp1289581	hasLabel	Camille Ford
+yp12918	diedOnDate	1971-##-##
+yp12918	hasGender	female
+yp12918	hasGivenName	Nella
+yp12918	hasLabel	Nella Walker
+yp1294	diedOnDate	2001-08-03
+yp1294	hasLabel	Christopher Hewett
+yp1294	wasBornOnDate	1922-04-05
+yp1297208	hasLabel	Kat Lehmer
+yp1317	hasFamilyName	Geer
+yp1317	hasLabel	Will Geer
+yp1317	wasBornOnDate	1902-03-09
+yp13206	hasLabel	Juanita Hansen
+yp13206	wasBornOnDate	1895-03-03
+yp13408	hasGender	female
+yp13408	hasGivenName	Noel
+yp1340	hasGender	female
+yp1340	hasLabel	Debra Paget
+yp1341	diedOnDate	1998-05-22
+yp1341	hasFamilyName	Derek
+yp1341	hasGivenName	John
+yp1341	wasBornOnDate	1926-08-12
+yp13478	wasBornOnDate	1943-08-02
+yp13499	hasFamilyName	Yevstigneyev
+yp13499	hasGender	male
+yp13499	hasLabel	Yevgeniy Yevstigneyev
+yp13499	wasBornOnDate	1926-10-09
+yp13720	diedOnDate	1992-##-##
+yp13720	hasFamilyName	Mayehoff
+yp13720	hasGender	male
+yp13720	hasGivenName	Eddie
+yp13720	wasBornOnDate	1909-##-##
+yp13838	hasGender	male
+yp13838	wasBornOnDate	1967-05-05
+yp14017	hasFamilyName	McNamara
+yp14017	hasLabel	William McNamara
+yp14017	wasBornOnDate	1965-03-31
+yp14079	hasFamilyName	Thomas
+yp14079	hasGivenName	Patrick
+yp14079	hasLabel	Patrick Thomas (actor)
+yp14127	hasFamilyName	Arditi
+yp14127	hasLabel	Pierre Arditi
+yp14127	wasBornOnDate	1944-12-01
+yp14399	diedOnDate	1995-##-##
+yp14399	hasFamilyName	Pillai
+yp14399	hasGender	male
+yp14714	hasLabel	Mohammed Chaara
+yp14714	wasBornOnDate	1980-08-16
+yp14940	hasGender	male
+yp14940	wasBornOnDate	1908-##-##
+yp1512	hasFamilyName	Stiller
+yp1512	hasGender	male
+yp1512	hasGivenName	Ben
+yp1512	hasLabel	Ben Stiller
+yp15145	hasFamilyName	Morris
+yp15145	hasGivenName	Garrett
+yp15145	wasBornOnDate	1937-02-01
+yp15369	diedOnDate	1969-07-18
+yp15369	hasGivenName	Barbara
+yp15404	hasFamilyName	Horney
+yp15404	hasGender	female
+yp15404	hasGivenName	Brigitte
+yp15534	hasGender	female
+yp15534	wasBornOnDate	1984-07-27
+yp1563	hasFamilyName	Berkley
+yp1563	hasGender	female
+yp1563	hasLabel	Elizabeth Berkley
+yp15649	hasFamilyName	Turgoose
+yp15649	hasGender	male
+yp15649	wasBornOnDate	1992-02-11
+yp15665	hasLabel	Melissa De Sousa
+yp15665	wasBornOnDate	1967-09-25
+yp16072	hasFamilyName	Allan
+yp16072	hasGender	female
+yp16072	hasGivenName	Marie
+yp1607	hasFamilyName	Woodward
+yp1607	hasGivenName	Joanne
+yp1607	wasBornOnDate	1930-02-27
+yp16142	hasGender	male
+yp16142	wasBornOnDate	1936-##-##
+yp16182	hasGivenName	Sharifah
+yp16182	wasBornOnDate	1986-##-##
+yp16343	hasGender	male
+yp16343	hasGivenName	Michel
+yp16343	hasLabel	Michel Auclair
+yp16345	hasGender	male
+yp16345	hasLabel	Sachin (actor)
+yp16359	hasGender	female
+yp16359	hasGivenName	Takayo
+yp16391	hasGivenName	Jolina
+yp16391	wasBornOnDate	1978-11-06
+yp1654	hasFamilyName	Spall
+yp1654	wasBornOnDate	1957-02-27
+yp1655	diedOnDate	2000-05-21
+yp1655	hasGivenName	John
+yp1655	hasLabel	John Gielgud
+yp16821	hasFamilyName	Gheorghiu
+yp16821	wasBornOnDate	1992-08-12
+yp16848	hasFamilyName	Tolentino
+yp16848	hasLabel	Lorna Tolentino
+yp16860	hasFamilyName	Herlitzka
+yp16860	hasGivenName	Roberto
+yp16860	hasLabel	Roberto Herlitzka
+yp16913	hasFamilyName	Lampanelli
+yp16913	wasBornOnDate	1961-07-19
+yp17109	hasGender	male
+yp17109	hasLabel	Larry Pennell
+yp17109	wasBornOnDate	1928-##-##
+yp17379	wasBornOnDate	1955-01-07
+yp1744	hasFamilyName	Atkins
+yp17504	hasFamilyName	Youngman
+yp17504	hasGivenName	Henny
+yp17594	hasLabel	Tony Dalton
+yp17931	hasFamilyName	Cole
+yp17931	hasGender	female
+yp17931	hasGivenName	Taylor
+yp1798	hasFamilyName	Whaley
+yp1798	wasBornOnDate	1963-07-20
+yp18034	hasFamilyName	Gaft
+yp18034	hasLabel	Valentin Gaft
+yp18057	hasFamilyName	Eigenmann
+yp18057	hasGender	male
+yp18057	wasBornOnDate	1985-03-24
+yp18129	diedOnDate	1960-09-04
+yp18129	hasFamilyName	Tenbrook
+yp18129	hasGivenName	Harry
+yp18129	wasBornOnDate	1887-10-09
+yp18152	hasGivenName	Sunnyi
+yp18152	hasLabel	Sunnyi Melles
+yp18245	hasFamilyName	Deshmukh
+yp18260	hasGivenName	Eileen
+yp18260	hasLabel	Eileen Herlie
+yp18260	wasBornOnDate	1918-03-08
+yp18310	diedOnDate	1989-03-21
+yp18310	hasFamilyName	Frome
+yp18374	hasLabel	Kit DeZolt
+yp18374	wasBornOnDate	1989-08-02
+yp18578	hasGivenName	Anne
+yp18578	wasBornOnDate	1954-07-04
+yp1874	hasGender	female
+yp1874	hasGivenName	Nicoletta
+yp1874	hasLabel	Nicoletta Braschi
+yp18857	hasFamilyName	Bowlby
+yp18857	hasLabel	April Bowlby
+yp18857	wasBornOnDate	1980-07-30
+yp19218	hasFamilyName	Bissett
+yp19218	wasBornOnDate	1969-10-05
+yp19332	hasLabel	Lucy Gaskell
+yp19459	hasFamilyName	Mullen
+yp19459	hasGender	female
+yp19459	hasGivenName	Marie
+yp19459	hasLabel	Marie Mullen
+yp19460	hasLabel	Brid Brennan
+yp19460	wasBornOnDate	1955-##-##
+yp19481	hasFamilyName	Murray
+yp19481	hasGivenName	James
+yp19481	wasBornOnDate	1975-01-22
+yp19551	diedOnDate	2006-##-##
+yp19551	hasGivenName	Mae
+yp19551	wasBornOnDate	1910-##-##
+yp19580	hasGender	male
+yp19580	hasLabel	Robert Pugh
+yp19592	hasFamilyName	Jason
+yp19592	hasGender	male
+yp19592	hasLabel	Rick Jason
+yp19720	hasLabel	Charlotte Salt
+yp19720	wasBornOnDate	1985-##-##
+yp19795	hasFamilyName	Skene
+yp19795	hasGivenName	Rick
+yp19802	hasGender	male
+yp19961	hasFamilyName	Edwards
+yp19961	hasGivenName	Glynn
+yp19961	hasLabel	Glynn Edwards
+yp20061	wasBornOnDate	1947-07-06
+yp20161	hasFamilyName	Betts
+yp20161	hasGender	male
+yp20161	hasGivenName	Jack
+yp20175	hasFamilyName	Szohr
+yp20175	hasGender	female
+yp20175	hasLabel	Jessica Szohr
+yp20175	wasBornOnDate	1985-03-31
+yp2038	diedOnDate	1975-##-##
+yp2038	hasFamilyName	Strauss
+yp2038	hasLabel	Robert Strauss (actor)
+yp2038	wasBornOnDate	1913-##-##
+yp20503	hasFamilyName	Jackson
+yp20503	wasBornOnDate	1938-03-29
+yp20559	diedOnDate	1978-07-14
+yp20559	hasGender	male
+yp20559	hasGivenName	Jack
+yp20559	wasBornOnDate	1913-09-15
+yp20716	hasGender	female
+yp20828	hasFamilyName	Alcroft
+yp2103	hasFamilyName	Geer
+yp2103	wasBornOnDate	1941-08-29
+yp21123	hasFamilyName	Casta
+yp21123	wasBornOnDate	1978-05-11
+yp21292	hasFamilyName	Stewart
+yp21292	wasBornOnDate	1977-02-06
+yp2133	wasBornOnDate	1947-01-21
+yp21496	hasFamilyName	Feldman
+yp21496	hasGender	male
+yp21496	hasGivenName	Tibor
+yp21496	wasBornOnDate	1947-04-25
+yp2164	hasGivenName	Anne
+yp21775	hasGender	female
+yp21775	hasGivenName	Genevieve
+yp21775	hasLabel	Genevieve Nnaji
+yp2179	diedOnDate	1973-10-06
+yp2179	hasFamilyName	Price
+yp2179	hasLabel	Dennis Price
+yp22093	hasFamilyName	Tena
+yp22093	hasGender	female
+yp22093	hasGivenName	Natalia
+yp22093	wasBornOnDate	1984-11-01
+yp22493	hasFamilyName	Bomer
+yp22493	wasBornOnDate	1977-10-11
+yp22545	hasFamilyName	Sheikh
+yp22545	wasBornOnDate	1970-##-##
+yp22730	hasFamilyName	Trachtenburg
+yp22730	hasLabel	Rachel Trachtenburg
+yp22730	wasBornOnDate	1993-12-10
+yp2275	hasFamilyName	Foxx
+yp2275	hasLabel	Jamie Foxx
+yp2280	hasFamilyName	Magnuson
+yp2280	hasGender	female
+yp2280	hasLabel	Ann Magnuson
+yp2331	diedOnDate	1981-11-25
+yp2331	hasGivenName	Jack
+yp2340	hasFamilyName	Paratene
+yp2388	hasGender	male
+yp2388	wasBornOnDate	1925-07-01
+yp24065	hasFamilyName	Robinson
+yp24065	hasGivenName	Casey
+yp24065	hasLabel	Casey Robinson
+yp24065	wasBornOnDate	1903-##-##
+yp24894	hasGivenName	Chris
+yp25061	hasFamilyName	Park
+yp25061	hasLabel	Nick Park
+yp25061	wasBornOnDate	1958-12-06
+yp25096	hasFamilyName	Wise
+yp25096	hasGender	male
+yp25096	hasGivenName	David
+yp25582	hasFamilyName	Dean
+yp26230	hasLabel	Makoto Shinkai
+yp26230	wasBornOnDate	1973-##-##
+yp26625	hasFamilyName	Chopra
+yp26625	hasLabel	Aditya Chopra
+yp26625	wasBornOnDate	1971-05-21
+yp2738	hasFamilyName	Eyer
+yp2738	hasLabel	Richard Eyer
+yp2763	hasGivenName	Jan
+yp2763	hasLabel	Jan Schweiterman
+yp2763	wasBornOnDate	1972-09-30
+yp28880	hasFamilyName	Milligan
+yp28880	hasLabel	Peter Milligan
+yp28994	diedOnDate	1984-##-##
+yp28994	hasFamilyName	Gilling
+yp28994	hasGender	male
+yp28994	wasBornOnDate	1912-##-##
+yp29821	hasFamilyName	Morrissey
+yp29821	hasGender	male
+yp3020	hasFamilyName	Harvey
+yp3020	hasGivenName	Forrester
+yp3020	hasLabel	Forrester Harvey
+yp3020	wasBornOnDate	1884-06-27
+yp3033	hasGender	male
+yp3033	wasBornOnDate	1950-05-07
+yp3110	hasFamilyName	Matsumoto
+yp3110	wasBornOnDate	1965-11-30
+yp3140	wasBornOnDate	1965-10-28
+yp31906	wasBornOnDate	1946-05-02
+yp32508	hasLabel	Irwin Yablans
+yp32508	wasBornOnDate	1934-##-##
+yp32769	hasFamilyName	Pollak
+yp32769	hasGender	male
+yp3298	hasGivenName	Jan
+yp330	hasGender	male
+yp330	wasBornOnDate	1929-03-30
+yp33216	hasFamilyName	Kinugasa
+yp33216	hasGivenName	Teinosuke
+yp33245	hasLabel	Timbaland
+yp334	hasFamilyName	McConaughey
+yp334	hasGivenName	Matthew
+yp334	hasLabel	Matthew McConaughey
+yp33757	hasGivenName	Benito
+yp34308	hasFamilyName	Burgess
+yp34308	hasGender	male
+yp34308	hasGivenName	Mitchell
+yp35488	hasGender	male
+yp36308	hasFamilyName	Grant
+yp36308	hasGivenName	Gil
+yp36308	hasLabel	Gil Grant
+yp3631	hasGivenName	Steve
+yp3631	hasLabel	Steve Harvey
+yp3631	wasBornOnDate	1957-01-17
+yp3647	wasBornOnDate	1971-08-12
+yp37050	hasGender	female
+yp37050	wasBornOnDate	1958-09-22
+yp3754	hasGender	female
+yp3754	hasGivenName	Kim
+yp376	hasGender	female
+yp376	hasLabel	Jeanne Moreau
+yp38284	hasLabel	Suzanne Schiffman
+yp38284	wasBornOnDate	1929-09-27
+yp38830	diedOnDate	1914-03-51
+yp38830	hasFamilyName	Lewton
+yp38830	hasLabel	Val Lewton
+yp38830	wasBornOnDate	197-05-04
+yp3925	hasGender	female
+yp401	hasGender	male
+yp401	hasGivenName	John
+yp401	wasBornOnDate	1930-01-01
+yp4100	diedOnDate	1987-09-11
+yp4100	hasFamilyName	Greene
+yp4100	hasGender	male
+yp4100	hasGivenName	Lorne
+yp4100	hasLabel	Lorne Greene
+yp41097	hasFamilyName	Raja
+yp41097	hasGender	male
+yp41097	hasLabel	Yuvan Shankar Raja
+yp41097	wasBornOnDate	1979-08-31
+yp4154	hasGender	female
+yp4154	wasBornOnDate	1992-08-02
+yp41722	hasGivenName	Adam
+yp41722	hasLabel	Adam Reed
+yp4299	hasFamilyName	Newman
+yp4299	hasLabel	Alec Newman
+yp43440	wasBornOnDate	1973-05-02
+yp43495	diedOnDate	1954-12-10
+yp43495	hasGender	male
+yp45529	hasGender	male
+yp45529	hasGivenName	Arthur
+yp45529	hasLabel	Arthur Robison
+yp46086	hasGivenName	Malcolm
+yp46086	wasBornOnDate	1961-##-##
+yp468	hasFamilyName	Hoffmann
+yp468	hasGender	female
+yp468	hasLabel	Gaby Hoffmann
+yp468	wasBornOnDate	1982-01-08
+yp4730	hasLabel	Corbin Bernsen
+yp4805	hasFamilyName	Winfrey
+yp4805	hasGivenName	Oprah
+yp4805	hasLabel	Oprah Winfrey
+yp4805	wasBornOnDate	1954-01-29
+yp4912	hasFamilyName	Farr
+yp4912	hasGender	male
+yp4912	wasBornOnDate	1934-07-01
+yp4920	hasGender	male
+yp4920	wasBornOnDate	1961-##-##
+yp4957	hasFamilyName	Rae
+yp4957	hasGender	female
+yp4957	hasLabel	Charlotte Rae
+yp5023	hasFamilyName	Watson
+yp5023	wasBornOnDate	1974-04-23
+yp5093	hasGivenName	Helge
+yp5093	wasBornOnDate	1946-##-##
+yp5158	hasFamilyName	Manheim
+yp5158	wasBornOnDate	1961-03-08
+yp51603	hasLabel	Jon Kinnally
+yp5321	hasFamilyName	Ryan
+yp5321	hasGender	female
+yp5321	wasBornOnDate	1967-01-12
+yp5341	hasFamilyName	Wyss
+yp5341	hasGender	female
+yp5341	wasBornOnDate	1960-11-24
+yp53470	wasBornOnDate	1956-##-##
+yp5380	hasFamilyName	Playten
+yp5380	hasLabel	Alice Playten
+yp5380	wasBornOnDate	1947-08-28
+yp54262	hasGender	male
+yp5453	diedOnDate	2002-03-27
+yp5453	hasGender	male
+yp5453	hasLabel	Milton Berle
+yp5461	hasLabel	Desmond Harrington
+yp5461	wasBornOnDate	1976-10-19
+yp56159	hasGender	male
+yp56159	hasLabel	Elmir Jukić
+yp56483	hasGender	male
+yp57696	diedOnDate	1972-02-19
+yp57696	hasFamilyName	Grierson
+yp57990	hasGender	male
+yp57990	hasLabel	Henning Carlsen
+yp57990	wasBornOnDate	1927-07-04
+yp58397	hasFamilyName	Baldanello
+yp58397	hasLabel	Gianfranco Baldanello
+yp58397	wasBornOnDate	1928-11-13
+yp5874	diedOnDate	2005-02-20
+yp5874	hasFamilyName	Dee
+yp5874	hasLabel	Sandra Dee
+yp5874	wasBornOnDate	1942-04-23
+yp58960	hasFamilyName	Stoller
+yp58960	hasGender	male
+yp6003	hasFamilyName	Leung
+yp6003	hasGender	female
+yp60144	hasGivenName	Luigi
+yp60144	hasLabel	Luigi Capuano
+yp60144	wasBornOnDate	1904-##-##
+yp60401	diedOnDate	1994-10-16
+yp60401	hasFamilyName	Danischewsky
+yp60401	wasBornOnDate	1911-04-28
+yp60648	hasGender	male
+yp60648	hasGivenName	Jerzy
+yp6115	hasFamilyName	Norris
+yp6115	hasLabel	Daran Norris
+yp6115	wasBornOnDate	1964-##-##
+yp6354	hasFamilyName	Lloyd
+yp6354	hasGender	male
+yp6354	wasBornOnDate	1989-03-05
+yp6392	hasLabel	Alessandra Martines
+yp6392	wasBornOnDate	1963-##-##
+yp6481	hasFamilyName	Jones
+yp6481	hasGender	female
+yp6481	hasGivenName	Tamala
+yp6481	hasLabel	Tamala Jones
+yp6481	wasBornOnDate	1974-11-12
+yp6785	hasFamilyName	Young
+yp6785	hasGender	female
+yp6785	hasLabel	Connie Young
+yp6785	wasBornOnDate	1969-09-09
+yp6840	hasFamilyName	Welland
+yp6866	hasGender	male
+yp7193	hasGivenName	Marcus
+yp7409	hasFamilyName	Manesse
+yp7409	hasLabel	Gaspard Manesse
+yp7409	wasBornOnDate	1975-##-##
+yp7538	hasFamilyName	Hutcherson
+yp7538	hasGender	male
+yp7538	hasGivenName	Josh
+yp7538	hasLabel	Josh Hutcherson
+yp7719	hasFamilyName	Yang
+yp7719	wasBornOnDate	1974-01-07
+yp7733	diedOnDate	2010-01-05
+yp7733	hasGivenName	Beverly
+yp7733	wasBornOnDate	1942-09-16
+yp779	wasBornOnDate	196#-##-##
+yp7848	hasGender	female
+yp7848	wasBornOnDate	1965-05-06
+yp8095	hasGivenName	James
+yp8095	hasLabel	James Nesbitt
+yp8217	hasGivenName	Elaine
+yp8280	hasGender	female
+yp8280	hasLabel	Purva Bedi
+yp8280	wasBornOnDate	1974-##-##
+yp86316	diedOnDate	1992-##-##
+yp86316	hasFamilyName	Kinney
+yp8635	hasFamilyName	Hader
+yp8635	hasGender	male
+yp8635	hasLabel	Josef Hader
+yp8635	wasBornOnDate	1962-02-14
+yp86428	hasFamilyName	Schlamme
+yp86428	hasGender	male
+yp86428	hasLabel	Thomas Schlamme
+yp86428	wasBornOnDate	1950-05-22
+yp86487	hasFamilyName	Greenwald
+yp86487	hasGivenName	Robert
+yp86487	hasLabel	Robert Greenwald
+yp86603	wasBornOnDate	1958-##-##
+yp86690	hasGender	male
+yp86690	wasBornOnDate	1942-03-28
+yp8700	hasGender	female
+yp8700	hasLabel	Carey Mulligan
+yp87160	hasFamilyName	Woods
+yp87160	hasGender	male
+yp87160	wasBornOnDate	1959-##-##
+yp87485	hasFamilyName	Sathyu
+yp87507	hasGender	male
+yp87507	hasGivenName	David
+yp87547	hasFamilyName	Sachs
+yp87547	hasGender	male
+yp87587	hasGender	male
+yp87587	hasLabel	Ladislas Starevich
+yp87708	hasGivenName	Rajnesh
+yp87894	hasGender	male
+yp87894	hasLabel	Luc Moullet
+yp87942	diedOnDate	2001-12-30
+yp87942	hasFamilyName	Patterson
+yp87942	hasGender	male
+yp87942	hasGivenName	Ray
+yp87942	hasLabel	Ray Patterson (animator)
+yp87942	wasBornOnDate	1911-11-23
+yp88026	diedOnDate	2010-01-03
+yp88026	hasLabel	Geoffrey Reeve
+yp88059	diedOnDate	1998-##-##
+yp88059	hasFamilyName	Wrede
+yp88059	hasLabel	Caspar Wrede
+yp88198	hasFamilyName	Vuorensola
+yp88198	hasGender	male
+yp88198	hasGivenName	Timo
+yp88198	hasLabel	Timo Vuorensola
+yp88198	wasBornOnDate	1979-11-29
+yp88730	hasFamilyName	Yuen
+yp89199	hasFamilyName	Brymova
+yp89199	hasLabel	Ester Brymova
+yp89242	hasFamilyName	Lucas
+yp89242	hasGender	male
+yp89242	hasGivenName	Michael
+yp89242	hasLabel	Michael Lucas (director)
+yp89383	hasFamilyName	Samples
+yp89472	hasFamilyName	Maze
+yp89472	hasGender	male
+yp89472	hasLabel	Daniel Maze
+yp89472	wasBornOnDate	1972-06-16
+yp90149	hasFamilyName	Cohn
+yp90149	wasBornOnDate	1927-##-##
+yp90186	diedOnDate	2007-##-##
+yp90186	hasGender	male
+yp90186	hasLabel	Tony Tenser
+yp90186	wasBornOnDate	1920-##-##
+yp90515	hasLabel	Lee Seung-jae
+yp9065	hasFamilyName	Fulford-Wierzbicki
+yp9065	hasLabel	Alicia Fulford-Wierzbicki
+yp90672	hasFamilyName	Douglas
+yp90672	hasGender	male
+yp9080	diedOnDate	1985-05-15
+yp9080	hasFamilyName	Curtis
+yp9080	hasGivenName	Jackie
+yp9080	hasLabel	Jackie Curtis
+yp91151	hasFamilyName	Johnson Jr.
+yp91151	hasLabel	Mel Johnson, Jr.
+yp91229	hasGivenName	Nial
+yp91233	hasGender	male
+yp91233	hasGivenName	Far
+yp91233	hasLabel	Far Shariat
+yp91233	wasBornOnDate	1958-04-06
+yp9137	hasLabel	Suchitra Krishnamoorthi
+yp930120	hasGender	female
+yp930120	hasGivenName	Fredi
+yp930138	hasLabel	Robert Hales (director)
+yp934754	hasGender	female
+yp934754	hasGivenName	Selina
+yp957031	hasGender	female
+yp957031	hasLabel	Asako Kozuki
+yp9646	hasFamilyName	Ghouse
+yp9646	hasGender	male
+yp9646	hasGivenName	Salim
+yp9646	hasLabel	Salim Ghouse
+yp9682	hasFamilyName	Scolari
+yp9682	hasGivenName	Peter
+yp9682	wasBornOnDate	1955-09-12
+yp969542	hasGender	female
+yp969542	hasGivenName	Heather
+yp969542	hasLabel	Heather Peace
+yp970412	hasFamilyName	Dale
+yp973086	hasGivenName	Jean
+yp973086	hasLabel	Jean Mathieson
+yp978750	hasFamilyName	Mercedes
+yp978750	hasGivenName	Maria
+yp978750	hasLabel	Maria Mercedes (actor)
+yp982628	hasGender	male
+yp982628	hasLabel	Nico Lathouris
+yp990714	hasLabel	Maria McErlane
+yp995341	hasGender	male
+yp995341	hasGivenName	Willi
+yp995341	hasLabel	Willi One Blood

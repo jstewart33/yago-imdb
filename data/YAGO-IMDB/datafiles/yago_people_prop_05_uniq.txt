@@ -1,0 +1,744 @@
+yp100762	hasFamilyName	Stori
+yp100762	hasGender	female
+yp100762	hasGivenName	Moneca
+yp100762	hasLabel	Moneca Stori
+yp1018644	hasFamilyName	Reineman
+yp1018644	hasGender	male
+yp1018644	hasGivenName	Peter
+yp1018644	hasLabel	Peter J. Reineman
+yp10227	hasFamilyName	Chhabria
+yp10227	hasGender	female
+yp10227	hasGivenName	Aarti
+yp10227	hasHeight	1.651#m
+yp10227	hasLabel	Aarti Chhabria
+yp10227	wasBornOnDate	1982-11-21
+yp10255	diedOnDate	1989-##-##
+yp10255	hasFamilyName	Ross
+yp10255	hasGender	female
+yp10255	hasGivenName	Betsy
+yp10255	hasLabel	Betsy King Ross
+yp10255	wasBornOnDate	1921-##-##
+yp10262	hasFamilyName	Arana
+yp10262	hasGender	male
+yp10262	hasGivenName	Tomas
+yp10262	hasLabel	Tomas Arana
+yp10262	wasBornOnDate	1955-04-03
+yp1037576	hasFamilyName	Christiansen
+yp1037576	hasGender	female
+yp1037576	hasGivenName	Kerry
+yp1037576	hasLabel	Kerry Ann Christiansen
+yp1044985	hasFamilyName	Giese
+yp1044985	hasGender	female
+yp1044985	hasGivenName	Maria
+yp1044985	hasLabel	Maria Giese
+yp1045	hasFamilyName	Dreyfuss
+yp1045	hasGender	male
+yp1045	hasGivenName	Richard
+yp1045	hasLabel	Richard Dreyfuss
+yp1045	wasBornOnDate	1947-10-29
+yp1052024	hasFamilyName	Sen
+yp1052024	hasGender	male
+yp1052024	hasGivenName	Palash
+yp1052024	hasLabel	Palash Sen
+yp10615	hasLabel	Bong Tae-gyu
+yp10615	wasBornOnDate	1981-05-19
+yp10713	diedOnDate	2009-##-##
+yp10713	hasFamilyName	Kezich
+yp10713	hasGender	male
+yp10713	hasGivenName	Tullio
+yp10713	hasLabel	Tullio Kezich
+yp10713	wasBornOnDate	1928-##-##
+yp1115201	hasFamilyName	Sardesai
+yp1115201	hasGender	female
+yp1115201	hasGivenName	Hema
+yp1115201	hasLabel	Hema Sardesai
+yp11501	hasFamilyName	Socha
+yp11501	hasGender	female
+yp11501	hasGivenName	Lauren
+yp11501	hasLabel	Lauren Socha
+yp11501	wasBornOnDate	1990-06-09
+yp1161363	hasFamilyName	Bryar
+yp1161363	hasGender	female
+yp1161363	hasGivenName	Claudia
+yp1161363	hasLabel	Claudia Bryar
+yp1164266	hasFamilyName	Knutsson
+yp1164266	hasGender	female
+yp1164266	hasGivenName	Gunilla
+yp1164266	hasLabel	Gunilla Knutsson
+yp1177608	hasFamilyName	Houvardas
+yp1177608	hasGivenName	George
+yp1177608	hasLabel	George Houvardas
+yp11884	diedOnDate	2003-01-25
+yp11884	hasFamilyName	Norton
+yp11884	hasGender	male
+yp11884	hasGivenName	Cliff
+yp11884	hasLabel	Cliff Norton
+yp11884	wasBornOnDate	1918-03-21
+yp12006	hasFamilyName	Marcovicci
+yp12006	hasGender	female
+yp12006	hasGivenName	Andrea
+yp12006	hasLabel	Andrea Marcovicci
+yp12006	wasBornOnDate	1948-11-18
+yp1206374	hasFamilyName	Boyce
+yp1206374	hasGender	male
+yp1206374	hasGivenName	Rodger
+yp1206374	hasLabel	Rodger Boyce
+yp1210779	hasFamilyName	Bowen
+yp1210779	hasGender	male
+yp1210779	hasGivenName	Travis
+yp1210779	hasLabel	Travis Bowen
+yp12191	hasFamilyName	Grace
+yp12191	hasGender	male
+yp12191	hasGivenName	Nickolas
+yp12191	hasLabel	Nickolas Grace
+yp12191	wasBornOnDate	1947-##-##
+yp12441	hasFamilyName	Cedar
+yp12441	hasGender	male
+yp12441	hasGivenName	Larry
+yp12441	hasLabel	Larry Cedar
+yp12441	wasBornOnDate	1955-03-06
+yp1245139	hasFamilyName	Kitch
+yp1245139	hasGender	female
+yp1245139	hasGivenName	Lynn
+yp1245139	hasLabel	Lynn Kitch
+yp12477	hasFamilyName	Hillis
+yp12477	hasGender	female
+yp12477	hasGivenName	Ali
+yp12477	hasLabel	Ali Hillis
+yp12477	wasBornOnDate	1978-12-29
+yp1285854	hasFamilyName	Pallin
+yp1285854	hasGender	male
+yp1285854	hasGivenName	Adam
+yp1285854	hasLabel	Adam Pallin
+yp12859	diedOnDate	1987-11-11
+yp12859	hasGender	male
+yp12859	hasLabel	John 'Dusty' King
+yp12859	wasBornOnDate	1909-07-11
+yp13206	diedOnDate	1961-26-11
+yp13206	hasFamilyName	Hansen
+yp13206	hasGender	female
+yp13206	hasGivenName	Juanita
+yp13206	hasLabel	Juanita Hansen
+yp13206	wasBornOnDate	1895-03-03
+yp13408	hasFamilyName	Neill
+yp13408	hasGender	female
+yp13408	hasGivenName	Noel
+yp13408	hasLabel	Noel Neill
+yp13408	wasBornOnDate	1920-11-25
+yp13499	diedOnDate	1992-03-05
+yp13499	hasFamilyName	Yevstigneyev
+yp13499	hasGender	male
+yp13499	hasGivenName	Yevgeniy
+yp13499	hasLabel	Yevgeniy Yevstigneyev
+yp13499	wasBornOnDate	1926-10-09
+yp13720	diedOnDate	1992-##-##
+yp13720	hasFamilyName	Mayehoff
+yp13720	hasGender	male
+yp13720	hasGivenName	Eddie
+yp13720	hasLabel	Eddie Mayehoff
+yp13720	wasBornOnDate	1909-##-##
+yp13838	hasFamilyName	Koyasu
+yp13838	hasGender	male
+yp13838	hasGivenName	Takehito
+yp13838	hasLabel	Takehito Koyasu
+yp13838	wasBornOnDate	1967-05-05
+yp14714	hasFamilyName	Chaara
+yp14714	hasGivenName	Mohammed
+yp14714	hasLabel	Mohammed Chaara
+yp14714	wasBornOnDate	1980-08-16
+yp1512	hasFamilyName	Stiller
+yp1512	hasGender	male
+yp1512	hasGivenName	Ben
+yp1512	hasLabel	Ben Stiller
+yp1512	wasBornOnDate	1965-11-30
+yp15404	diedOnDate	1988-07-27
+yp15404	hasFamilyName	Horney
+yp15404	hasGender	female
+yp15404	hasGivenName	Brigitte
+yp15404	hasLabel	Brigitte Horney
+yp15404	wasBornOnDate	1911-03-29
+yp15534	hasFamilyName	Schilling
+yp15534	hasGender	female
+yp15534	hasGivenName	Taylor
+yp15534	hasLabel	Taylor Schilling
+yp15534	wasBornOnDate	1984-07-27
+yp15665	hasFamilyName	Sousa
+yp15665	hasGender	female
+yp15665	hasGivenName	Melissa
+yp15665	hasLabel	Melissa De Sousa
+yp15665	wasBornOnDate	1967-09-25
+yp1607	hasFamilyName	Woodward
+yp1607	hasGender	female
+yp1607	hasGivenName	Joanne
+yp1607	hasLabel	Joanne Woodward
+yp1607	wasBornOnDate	1930-02-27
+yp16182	hasFamilyName	Aryana
+yp16182	hasGender	female
+yp16182	hasGivenName	Sharifah
+yp16182	hasLabel	Sharifah Aryana
+yp16182	wasBornOnDate	1986-##-##
+yp16345	hasGender	male
+yp16345	hasLabel	Sachin (actor)
+yp16345	wasBornOnDate	1957-08-17
+yp16821	hasFamilyName	Gheorghiu
+yp16821	hasGender	male
+yp16821	hasGivenName	Teo
+yp16821	hasLabel	Teo Gheorghiu
+yp16821	wasBornOnDate	1992-08-12
+yp16848	hasFamilyName	Tolentino
+yp16848	hasGender	female
+yp16848	hasGivenName	Lorna
+yp16848	hasLabel	Lorna Tolentino
+yp16848	wasBornOnDate	1961-12-23
+yp16860	hasFamilyName	Herlitzka
+yp16860	hasGender	male
+yp16860	hasGivenName	Roberto
+yp16860	hasLabel	Roberto Herlitzka
+yp16860	wasBornOnDate	1937-10-02
+yp16913	hasFamilyName	Lampanelli
+yp16913	hasGender	female
+yp16913	hasGivenName	Lisa
+yp16913	hasLabel	Lisa Lampanelli
+yp16913	wasBornOnDate	1961-07-19
+yp17379	hasFamilyName	Shankar
+yp17379	hasGender	female
+yp17379	hasGivenName	Mamata
+yp17379	hasLabel	Mamata Shankar
+yp17379	wasBornOnDate	1955-01-07
+yp1744	hasFamilyName	Atkins
+yp1744	hasGender	female
+yp1744	hasGivenName	Eileen
+yp1744	hasLabel	Eileen Atkins
+yp1744	wasBornOnDate	1934-06-16
+yp17594	hasFamilyName	Dalton
+yp17594	hasGender	male
+yp17594	hasGivenName	Tony
+yp17594	hasLabel	Tony Dalton
+yp17594	wasBornOnDate	1975-02-13
+yp17931	hasFamilyName	Cole
+yp17931	hasGender	female
+yp17931	hasGivenName	Taylor
+yp17931	hasLabel	Taylor Cole
+yp17931	wasBornOnDate	1984-04-29
+yp1798	hasFamilyName	Whaley
+yp1798	hasGender	male
+yp1798	hasGivenName	Frank
+yp1798	hasLabel	Frank Whaley
+yp1798	wasBornOnDate	1963-07-20
+yp18034	hasFamilyName	Gaft
+yp18034	hasGender	male
+yp18034	hasGivenName	Valentin
+yp18034	hasLabel	Valentin Gaft
+yp18034	wasBornOnDate	1935-09-02
+yp18057	hasFamilyName	Eigenmann
+yp18057	hasGender	male
+yp18057	hasGivenName	Geoff
+yp18057	hasLabel	Geoff Eigenmann
+yp18057	wasBornOnDate	1985-03-24
+yp18152	hasFamilyName	Melles
+yp18152	hasGivenName	Sunnyi
+yp18152	hasLabel	Sunnyi Melles
+yp18152	wasBornOnDate	1958-10-07
+yp18245	diedOnDate	2000-03-03
+yp18245	hasFamilyName	Deshmukh
+yp18245	hasGivenName	Ranjana
+yp18245	hasLabel	Ranjana Deshmukh
+yp18245	wasBornOnDate	1945-##-##
+yp18310	diedOnDate	1989-03-21
+yp18310	hasFamilyName	Frome
+yp18310	hasGender	male
+yp18310	hasGivenName	Milton
+yp18310	hasLabel	Milton Frome
+yp18310	wasBornOnDate	1909-02-24
+yp18578	hasFamilyName	Lambton
+yp18578	hasGivenName	Anne
+yp18578	hasLabel	Anne Lambton
+yp18578	wasBornOnDate	1954-07-04
+yp18613	hasFamilyName	Fiscella
+yp18613	hasGender	male
+yp18613	hasGivenName	Andrew
+yp18613	hasLabel	Andrew Fiscella
+yp18613	wasBornOnDate	1966-05-25
+yp1874	hasFamilyName	Braschi
+yp1874	hasGender	female
+yp1874	hasGivenName	Nicoletta
+yp1874	hasLabel	Nicoletta Braschi
+yp1874	wasBornOnDate	1960-04-19
+yp19332	hasFamilyName	Gaskell
+yp19332	hasGender	female
+yp19332	hasGivenName	Lucy
+yp19332	hasLabel	Lucy Gaskell
+yp19332	wasBornOnDate	1980-##-##
+yp19460	hasFamilyName	Brennan
+yp19460	hasGender	female
+yp19460	hasGivenName	Brid
+yp19460	hasLabel	Brid Brennan
+yp19460	wasBornOnDate	1955-##-##
+yp19551	diedOnDate	2006-##-##
+yp19551	hasFamilyName	Giraci
+yp19551	hasGender	female
+yp19551	hasGivenName	Mae
+yp19551	hasLabel	Mae Giraci
+yp19551	wasBornOnDate	1910-##-##
+yp19592	diedOnDate	2000-10-16
+yp19592	hasFamilyName	Jason
+yp19592	hasGender	male
+yp19592	hasGivenName	Rick
+yp19592	hasLabel	Rick Jason
+yp19592	wasBornOnDate	1923-05-21
+yp19720	hasFamilyName	Salt
+yp19720	hasGender	female
+yp19720	hasGivenName	Charlotte
+yp19720	hasLabel	Charlotte Salt
+yp19720	wasBornOnDate	1985-##-##
+yp19802	diedOnDate	1997-10-19
+yp19802	hasFamilyName	French
+yp19802	hasGender	male
+yp19802	hasGivenName	Harold
+yp19802	hasLabel	Harold French
+yp19802	wasBornOnDate	1897-04-23
+yp1993	hasFamilyName	Gant
+yp1993	hasGender	male
+yp1993	hasGivenName	Richard
+yp1993	hasLabel	Richard Gant
+yp1993	wasBornOnDate	1944-03-10
+yp20061	diedOnDate	1979-03-19
+yp20061	hasFamilyName	Beckinsale
+yp20061	hasGender	male
+yp20061	hasGivenName	Richard
+yp20061	hasLabel	Richard Beckinsale
+yp20061	wasBornOnDate	1947-07-06
+yp20161	hasFamilyName	Betts
+yp20161	hasGender	male
+yp20161	hasGivenName	Jack
+yp20161	hasLabel	Jack Betts
+yp20503	hasFamilyName	Jackson
+yp20503	hasGender	male
+yp20503	hasGivenName	Barry
+yp20503	hasLabel	Barry Jackson (actor)
+yp20503	wasBornOnDate	1938-03-29
+yp20559	diedOnDate	1978-07-14
+yp20559	hasFamilyName	Woolgar
+yp20559	hasGender	male
+yp20559	hasGivenName	Jack
+yp20559	hasLabel	Jack Woolgar
+yp20559	wasBornOnDate	1913-09-15
+yp20828	hasFamilyName	Alcroft
+yp20828	hasGender	male
+yp20828	hasGivenName	Jamie
+yp20828	hasLabel	Jamie Alcroft
+yp20828	wasBornOnDate	1949-01-18
+yp2103	hasFamilyName	Geer
+yp2103	hasGender	female
+yp2103	hasGivenName	Ellen
+yp2103	hasLabel	Ellen Geer
+yp2103	wasBornOnDate	1941-08-29
+yp21123	hasFamilyName	Casta
+yp21123	hasGender	female
+yp21123	hasGivenName	Laetitia
+yp21123	hasLabel	Laetitia Casta
+yp21123	wasBornOnDate	1978-05-11
+yp21292	hasFamilyName	Stewart
+yp21292	hasGender	male
+yp21292	hasGivenName	Josh
+yp21292	hasLabel	Josh Stewart
+yp21292	wasBornOnDate	1977-02-06
+yp2133	hasFamilyName	Eikenberry
+yp2133	hasGender	female
+yp2133	hasGivenName	Jill
+yp2133	hasLabel	Jill Eikenberry
+yp2133	wasBornOnDate	1947-01-21
+yp21496	hasFamilyName	Feldman
+yp21496	hasGender	male
+yp21496	hasGivenName	Tibor
+yp21496	hasLabel	Tibor Feldman
+yp21496	wasBornOnDate	1947-04-25
+yp2164	hasFamilyName	Reid
+yp2164	hasGender	female
+yp2164	hasGivenName	Anne
+yp2164	hasLabel	Anne Reid
+yp2164	wasBornOnDate	1935-05-28
+yp22093	hasFamilyName	Tena
+yp22093	hasGender	female
+yp22093	hasGivenName	Natalia
+yp22093	hasLabel	Natalia Tena
+yp22093	wasBornOnDate	1984-11-01
+yp2263	hasFamilyName	Goggins
+yp2263	hasGender	male
+yp2263	hasGivenName	Walton
+yp2263	hasLabel	Walton Goggins
+yp2263	wasBornOnDate	1971-11-10
+yp22730	hasFamilyName	Trachtenburg
+yp22730	hasGivenName	Rachel
+yp22730	hasLabel	Rachel Trachtenburg
+yp22730	wasBornOnDate	1993-12-10
+yp2280	hasFamilyName	Magnuson
+yp2280	hasGender	female
+yp2280	hasGivenName	Ann
+yp2280	hasLabel	Ann Magnuson
+yp2280	wasBornOnDate	1956-01-04
+yp2340	hasFamilyName	Paratene
+yp2340	hasGender	male
+yp2340	hasGivenName	Rawiri
+yp2340	hasLabel	Rawiri Paratene
+yp2388	hasFamilyName	Granger
+yp2388	hasGender	male
+yp2388	hasGivenName	Farley
+yp2388	hasLabel	Farley Granger
+yp2388	wasBornOnDate	1925-07-01
+yp24894	hasFamilyName	Gerolmo
+yp24894	hasGender	male
+yp24894	hasGivenName	Chris
+yp24894	hasLabel	Chris Gerolmo
+yp25096	hasFamilyName	Wise
+yp25096	hasGender	male
+yp25096	hasGivenName	David
+yp25096	hasLabel	David Wise (composer)
+yp26230	hasFamilyName	Shinkai
+yp26230	hasGender	male
+yp26230	hasGivenName	Makoto
+yp26230	hasLabel	Makoto Shinkai
+yp26230	wasBornOnDate	1973-##-##
+yp26625	hasFamilyName	Chopra
+yp26625	hasGivenName	Aditya
+yp26625	hasLabel	Aditya Chopra
+yp26625	wasBornOnDate	1971-05-21
+yp2738	hasFamilyName	Eyer
+yp2738	hasGender	male
+yp2738	hasGivenName	Richard
+yp2738	hasLabel	Richard Eyer
+yp2738	wasBornOnDate	1945-##-##
+yp28880	hasFamilyName	Milligan
+yp28880	hasGender	male
+yp28880	hasGivenName	Peter
+yp28880	hasLabel	Peter Milligan
+yp28994	diedOnDate	1984-##-##
+yp28994	hasFamilyName	Gilling
+yp28994	hasGender	male
+yp28994	hasGivenName	John
+yp28994	hasLabel	John Gilling
+yp28994	wasBornOnDate	1912-##-##
+yp29821	hasFamilyName	Morrissey
+yp29821	hasGender	male
+yp29821	hasGivenName	Paul
+yp29821	hasLabel	Paul Morrissey
+yp29821	wasBornOnDate	1938-02-23
+yp3020	diedOnDate	1945-12-14
+yp3020	hasFamilyName	Harvey
+yp3020	hasGender	male
+yp3020	hasGivenName	Forrester
+yp3020	hasLabel	Forrester Harvey
+yp3020	wasBornOnDate	1884-06-27
+yp30515	hasFamilyName	Volk
+yp30515	hasGivenName	Stephen
+yp30515	hasLabel	Stephen Volk
+yp31906	hasFamilyName	Robinson
+yp31906	hasGender	male
+yp31906	hasGivenName	Bruce
+yp31906	hasLabel	Bruce Robinson
+yp31906	wasBornOnDate	1946-05-02
+yp32508	hasFamilyName	Yablans
+yp32508	hasGender	male
+yp32508	hasGivenName	Irwin
+yp32508	hasLabel	Irwin Yablans
+yp32508	wasBornOnDate	1934-##-##
+yp32769	hasFamilyName	Pollak
+yp32769	hasGender	male
+yp32769	hasGivenName	Kay
+yp32769	hasLabel	Kay Pollak
+yp32769	wasBornOnDate	1938-##-##
+yp3298	hasFamilyName	Decleir
+yp3298	hasGender	male
+yp3298	hasGivenName	Jan
+yp3298	hasLabel	Jan Decleir
+yp3298	wasBornOnDate	1946-02-14
+yp330	hasFamilyName	Dysart
+yp330	hasGender	male
+yp330	hasGivenName	Richard
+yp330	hasLabel	Richard Dysart
+yp330	wasBornOnDate	1929-03-30
+yp33245	hasGender	male
+yp33245	hasLabel	Timbaland
+yp33245	wasBornOnDate	1971-03-10
+yp34308	hasFamilyName	Burgess
+yp34308	hasGender	male
+yp34308	hasGivenName	Mitchell
+yp34308	hasLabel	Mitchell Burgess
+yp35488	hasFamilyName	Melkonian
+yp35488	hasGender	male
+yp35488	hasGivenName	James
+yp35488	hasLabel	James Melkonian
+yp3751	hasFamilyName	Toufexis
+yp3751	hasGender	male
+yp3751	hasGivenName	Elias
+yp3751	hasLabel	Elias Toufexis
+yp3751	wasBornOnDate	1975-##-##
+yp3754	hasFamilyName	Poirier
+yp3754	hasGender	female
+yp3754	hasGivenName	Kim
+yp3754	hasLabel	Kim Poirier
+yp3754	wasBornOnDate	1980-02-06
+yp3925	hasGender	female
+yp3925	hasLabel	N'Bushe Wright
+yp3925	wasBornOnDate	1970-09-20
+yp401	hasFamilyName	Wood
+yp401	hasGender	male
+yp401	hasGivenName	John
+yp401	hasLabel	John Wood (English actor)
+yp401	wasBornOnDate	1930-01-01
+yp4100	diedOnDate	1987-09-11
+yp4100	hasFamilyName	Greene
+yp4100	hasGender	male
+yp4100	hasGivenName	Lorne
+yp4100	hasLabel	Lorne Greene
+yp4100	wasBornOnDate	1915-02-12
+yp41722	hasFamilyName	Reed
+yp41722	hasGender	male
+yp41722	hasGivenName	Adam
+yp41722	hasLabel	Adam Reed
+yp4299	hasFamilyName	Newman
+yp4299	hasGender	male
+yp4299	hasGivenName	Alec
+yp4299	hasLabel	Alec Newman
+yp4299	wasBornOnDate	1974-11-27
+yp43495	diedOnDate	1954-12-10
+yp43495	hasFamilyName	Pratt
+yp43495	hasGender	male
+yp43495	hasGivenName	Gilbert
+yp43495	hasLabel	Gilbert Pratt
+yp43495	wasBornOnDate	1892-02-16
+yp46086	hasFamilyName	Mowbray
+yp46086	hasGender	male
+yp46086	hasGivenName	Malcolm
+yp46086	hasLabel	Malcolm Mowbray
+yp46086	wasBornOnDate	1961-##-##
+yp468	hasFamilyName	Hoffmann
+yp468	hasGender	female
+yp468	hasGivenName	Gaby
+yp468	hasLabel	Gaby Hoffmann
+yp468	wasBornOnDate	1982-01-08
+yp4805	hasFamilyName	Winfrey
+yp4805	hasGender	female
+yp4805	hasGivenName	Oprah
+yp4805	hasLabel	Oprah Winfrey
+yp4805	wasBornOnDate	1954-01-29
+yp4920	hasFamilyName	Zamachowski
+yp4920	hasGender	male
+yp4920	hasGivenName	Zbigniew
+yp4920	hasLabel	Zbigniew Zamachowski
+yp4920	wasBornOnDate	1961-##-##
+yp4957	hasFamilyName	Rae
+yp4957	hasGender	female
+yp4957	hasGivenName	Charlotte
+yp4957	hasLabel	Charlotte Rae
+yp4957	wasBornOnDate	1926-04-22
+yp5023	hasFamilyName	Watson
+yp5023	hasGender	male
+yp5023	hasGivenName	Barry
+yp5023	hasLabel	Barry Watson (actor)
+yp5023	wasBornOnDate	1974-04-23
+yp5093	hasFamilyName	Jordal
+yp5093	hasGender	male
+yp5093	hasGivenName	Helge
+yp5093	hasLabel	Helge Jordal
+yp5093	wasBornOnDate	1946-##-##
+yp5158	hasFamilyName	Manheim
+yp5158	hasGender	female
+yp5158	hasGivenName	Camryn
+yp5158	hasLabel	Camryn Manheim
+yp5158	wasBornOnDate	1961-03-08
+yp5341	hasFamilyName	Wyss
+yp5341	hasGender	female
+yp5341	hasGivenName	Amanda
+yp5341	hasLabel	Amanda Wyss
+yp5341	wasBornOnDate	1960-11-24
+yp53470	hasFamilyName	Mathias
+yp53470	hasGender	male
+yp53470	hasGivenName	Sean
+yp53470	hasLabel	Sean Mathias
+yp53470	wasBornOnDate	1956-##-##
+yp54262	hasFamilyName	Risan
+yp54262	hasGender	male
+yp54262	hasGivenName	Leidulv
+yp54262	hasLabel	Leidulv Risan
+yp54262	wasBornOnDate	1948-##-##
+yp56483	diedOnDate	1961-06-03
+yp56483	hasFamilyName	Stone
+yp56483	hasGender	male
+yp56483	hasGivenName	John
+yp56483	hasLabel	John Stone (producer)
+yp56483	wasBornOnDate	1888-09-12
+yp57696	diedOnDate	1972-02-19
+yp57696	hasFamilyName	Grierson
+yp57696	hasGender	male
+yp57696	hasGivenName	John
+yp57696	hasLabel	John Grierson
+yp57696	wasBornOnDate	1898-04-26
+yp5874	diedOnDate	2005-02-20
+yp5874	hasFamilyName	Dee
+yp5874	hasGender	female
+yp5874	hasGivenName	Sandra
+yp5874	hasLabel	Sandra Dee
+yp5874	wasBornOnDate	1942-04-23
+yp6003	hasFamilyName	Leung
+yp6003	hasGender	female
+yp6003	hasGivenName	Gigi
+yp6003	hasLabel	Gigi Leung
+yp6003	wasBornOnDate	1976-03-25
+yp60144	hasFamilyName	Capuano
+yp60144	hasGender	male
+yp60144	hasGivenName	Luigi
+yp60144	hasLabel	Luigi Capuano
+yp60144	wasBornOnDate	1904-##-##
+yp6354	hasFamilyName	Lloyd
+yp6354	hasGender	male
+yp6354	hasGivenName	Jake
+yp6354	hasLabel	Jake Lloyd
+yp6354	wasBornOnDate	1989-03-05
+yp6392	hasFamilyName	Martines
+yp6392	hasGender	female
+yp6392	hasGivenName	Alessandra
+yp6392	hasLabel	Alessandra Martines
+yp6392	wasBornOnDate	1963-##-##
+yp6481	hasFamilyName	Jones
+yp6481	hasGender	female
+yp6481	hasGivenName	Tamala
+yp6481	hasLabel	Tamala Jones
+yp6481	wasBornOnDate	1974-11-12
+yp6840	hasFamilyName	Welland
+yp6840	hasGender	male
+yp6840	hasGivenName	Colin
+yp6840	hasLabel	Colin Welland
+yp6840	wasBornOnDate	1934-07-04
+yp6866	hasGender	male
+yp6866	hasLabel	Vishnuvardhan (director)
+yp7193	hasFamilyName	Thomas
+yp7193	hasGivenName	Marcus
+yp7193	hasLabel	Marcus Thomas (actor)
+yp7538	hasFamilyName	Hutcherson
+yp7538	hasGender	male
+yp7538	hasGivenName	Josh
+yp7538	hasLabel	Josh Hutcherson
+yp7538	wasBornOnDate	1992-10-12
+yp76	diedOnDate	1997-11-11
+yp76	hasFamilyName	Alland
+yp76	hasGender	male
+yp76	hasGivenName	William
+yp76	hasLabel	William Alland
+yp76	wasBornOnDate	1916-03-04
+yp7733	diedOnDate	2010-01-05
+yp7733	hasFamilyName	Aadland
+yp7733	hasGender	male
+yp7733	hasGivenName	Beverly
+yp7733	hasLabel	Beverly Aadland
+yp7733	wasBornOnDate	1942-09-16
+yp8095	hasFamilyName	Nesbitt
+yp8095	hasGender	male
+yp8095	hasGivenName	James
+yp8095	hasLabel	James Nesbitt
+yp8095	wasBornOnDate	1965-01-15
+yp8217	hasFamilyName	Devry
+yp8217	hasGivenName	Elaine
+yp8217	hasLabel	Elaine Devry
+yp8217	wasBornOnDate	1930-##-##
+yp8280	hasFamilyName	Bedi
+yp8280	hasGender	female
+yp8280	hasGivenName	Purva
+yp8280	hasLabel	Purva Bedi
+yp8280	wasBornOnDate	1974-##-##
+yp86316	diedOnDate	1992-##-##
+yp86316	hasFamilyName	Kinney
+yp86316	hasGender	male
+yp86316	hasGivenName	Jack
+yp86316	hasLabel	Jack Kinney
+yp86316	wasBornOnDate	1909-##-##
+yp8635	hasFamilyName	Hader
+yp8635	hasGender	male
+yp8635	hasGivenName	Josef
+yp8635	hasLabel	Josef Hader
+yp8635	wasBornOnDate	1962-02-14
+yp86487	hasFamilyName	Greenwald
+yp86487	hasGender	male
+yp86487	hasGivenName	Robert
+yp86487	hasLabel	Robert Greenwald
+yp86487	wasBornOnDate	1945-08-28
+yp86690	hasFamilyName	Newell
+yp86690	hasGender	male
+yp86690	hasGivenName	Mike
+yp86690	hasLabel	Mike Newell (director)
+yp86690	wasBornOnDate	1942-03-28
+yp87160	hasFamilyName	Woods
+yp87160	hasGender	male
+yp87160	hasGivenName	Rowan
+yp87160	hasLabel	Rowan Woods
+yp87160	wasBornOnDate	1959-##-##
+yp87547	hasFamilyName	Sachs
+yp87547	hasGender	male
+yp87547	hasGivenName	Ira
+yp87547	hasLabel	Ira Sachs
+yp87547	wasBornOnDate	1965-##-##
+yp87708	hasFamilyName	Domalpalli
+yp87708	hasGender	male
+yp87708	hasGivenName	Rajnesh
+yp87708	hasLabel	Rajnesh Domalpalli
+yp89242	hasFamilyName	Lucas
+yp89242	hasGender	male
+yp89242	hasGivenName	Michael
+yp89242	hasLabel	Michael Lucas (director)
+yp89242	wasBornOnDate	1972-##-##
+yp89383	hasFamilyName	Samples
+yp89383	hasGender	male
+yp89383	hasGivenName	Keith
+yp89383	hasLabel	Keith Samples
+yp90186	diedOnDate	2007-##-##
+yp90186	hasFamilyName	Tenser
+yp90186	hasGender	male
+yp90186	hasGivenName	Tony
+yp90186	hasLabel	Tony Tenser
+yp90186	wasBornOnDate	1920-##-##
+yp90672	hasFamilyName	Douglas
+yp90672	hasGender	male
+yp90672	hasGivenName	Joel
+yp90672	hasLabel	Joel Douglas
+yp90672	wasBornOnDate	1947-##-##
+yp9080	diedOnDate	1985-05-15
+yp9080	hasFamilyName	Curtis
+yp9080	hasGivenName	Jackie
+yp9080	hasLabel	Jackie Curtis
+yp9080	wasBornOnDate	1947-02-19
+yp91151	hasFamilyName	Johnson Jr.
+yp91151	hasGender	male
+yp91151	hasGivenName	Mel
+yp91151	hasLabel	Mel Johnson, Jr.
+yp91229	hasFamilyName	Fulton
+yp91229	hasGender	male
+yp91229	hasGivenName	Nial
+yp91229	hasLabel	Nial Fulton
+yp9137	hasFamilyName	Krishnamoorthi
+yp9137	hasGender	female
+yp9137	hasGivenName	Suchitra
+yp9137	hasLabel	Suchitra Krishnamoorthi
+yp930120	hasFamilyName	Walker
+yp930120	hasGender	female
+yp930120	hasGivenName	Fredi
+yp930120	hasLabel	Fredi Walker
+yp934754	hasFamilyName	Griffiths
+yp934754	hasGender	female
+yp934754	hasGivenName	Selina
+yp934754	hasLabel	Selina Griffiths
+yp957031	hasFamilyName	Kozuki
+yp957031	hasGender	female
+yp957031	hasGivenName	Asako
+yp957031	hasLabel	Asako Kozuki
+yp9646	hasFamilyName	Ghouse
+yp9646	hasGender	male
+yp9646	hasGivenName	Salim
+yp9646	hasLabel	Salim Ghouse
+yp978750	hasFamilyName	Mercedes
+yp978750	hasGender	female
+yp978750	hasGivenName	Maria
+yp978750	hasLabel	Maria Mercedes (actor)
+yp990714	hasFamilyName	McErlane
+yp990714	hasGender	female
+yp990714	hasGivenName	Maria
+yp990714	hasLabel	Maria McErlane

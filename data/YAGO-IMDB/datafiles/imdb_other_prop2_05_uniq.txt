@@ -1,0 +1,11 @@
+tt0088960	hasLabel	creator
+tt0088960	hasLabel	creator - der professor und die sünde
+tt0088960	hasLabel	der professor oder wie ich meine frau wiedererweck
+tt0088960	hasLabel	dr. creator specialista in miracoli
+tt0088960	hasLabel	the big picture
+tt0107863	hasLabel	posse
+tt0107863	hasLabel	posse - die rache des jessie lee
+tt0107863	hasLabel	posse - la leggenda di jessie lee
+tt0455407	hasLabel	la città verrà distrutta all'alba
+tt0455407	hasLabel	the crazies
+tt0455407	hasLabel	the crazies - fürchte deinen nächsten

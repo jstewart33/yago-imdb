@@ -1,0 +1,11 @@
+yp24065	diedOnDate	1979-##-##
+yp24065	hasFamilyName	Robinson
+yp24065	hasGender	male
+yp24065	hasGivenName	Casey
+yp24065	hasLabel	Casey Robinson
+yp24065	wasBornOnDate	1903-##-##
+yp3140	hasFamilyName	Gertz
+yp3140	hasGender	female
+yp3140	hasGivenName	Jami
+yp3140	hasLabel	Jami Gertz
+yp3140	wasBornOnDate	1965-10-28

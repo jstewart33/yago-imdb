@@ -1,0 +1,8 @@
+#
+# Script to run the YAGO-IMDB example.
+#
+# NOTE: The option -Xshare:off was added in order to run this example
+# with VisualVM for profiling.
+#
+java -Xshare:off -Xms8G -cp ./target/classes:`cat classpath.out`\
+  edu.umd.cs.psl.er.ERYago $1 $2 $3 $4

@@ -1,0 +1,134 @@
+#!/usr/bin/perl
+
+parse_gt_training("training/GT_PEOPLE.txt");
+parse_gt_training("training/GT_MOVIES.txt");
+
+parse_gt_testing("testing/GT_PEOPLE.txt");
+parse_gt_testing("testing/GT_MOVIES.txt");
+
+sub parse_gt_training
+{
+    my $fn = shift;
+
+    open my $fh1, "<", $fn
+      or die "can't open $fn: $OS_ERROR";
+
+    while ($input = <$fh1>) 
+    {
+	$input =~ /^(\t)?(.*)$/;
+	$input = $2;
+
+	my ($yago, $imdb) = split(/\t/, $input);
+	
+	report_training_fields($yago, $imdb);
+    }
+
+    close $fh1;
+}
+
+
+sub parse_gt_testing
+{
+    my $fn = shift;
+
+    open my $fh1, "<", $fn
+      or die "can't open $fn: $OS_ERROR";
+
+    while ($input = <$fh1>) 
+    {
+	$input =~ /^(\t)?(.*)$/;
+	$input = $2;
+
+	my ($yago, $imdb) = split(/\t/, $input);
+	
+	report_testing_fields($yago, $imdb);
+    }
+
+    close $fh1;
+}
+
+
+sub report_training_fields
+{
+    my $yago = shift;
+    my $imdb = shift;
+
+    foreach my $fp (glob("training/yago/*.txt")) 
+    {
+	print "$fp\n";
+	open my $fh, "<", $fp or die "can't read open '$fp': $OS_ERROR";
+	my $input;
+	while ($input = <$fh>) 
+	{
+	    if ($input =~ /$yago\b/)
+	    {
+		print "\t$yago -- $input";
+	    }
+	    if ($input =~ /$imdb\b/)
+	    {
+		print "\t$imdb -- $input";
+	    }
+	}
+    }
+
+    foreach my $fp (glob("training/imdb/*.txt")) 
+    {
+	print "$fp\n";
+	open my $fh, "<", $fp or die "can't read open '$fp': $OS_ERROR";
+	my $input;
+	while ($input = <$fh>) 
+	{
+	    if ($input =~ /$yago\b/)
+	    {
+		print "\t$yago -- $input";
+	    }
+	    if ($input =~ /$imdb\b/)
+	    {
+		print "\t$imdb -- $input";
+	    }
+	}
+    }
+}
+
+sub report_testing_fields
+{
+    my $yago = shift;
+    my $imdb = shift;
+
+    foreach my $fp (glob("testing/yago/*.txt")) 
+    {
+	print "$fp\n";
+	open my $fh, "<", $fp or die "can't read open '$fp': $OS_ERROR";
+	my $input;
+	while ($input = <$fh>) 
+	{
+	    if ($input =~ /$yago\b/)
+	    {
+		print "\t$yago -- $input";
+	    }
+	    if ($input =~ /$imdb\b/)
+	    {
+		print "\t$imdb -- $input";
+	    }
+	}
+    }
+
+    foreach my $fp (glob("testing/imdb/*.txt")) 
+    {
+	print "$fp\n";
+	open my $fh, "<", $fp or die "can't read open '$fp': $OS_ERROR";
+	my $input;
+	while ($input = <$fh>) 
+	{
+	    if ($input =~ /$yago\b/)
+	    {
+		print "\t$yago -- $input";
+	    }
+	    if ($input =~ /$imdb\b/)
+	    {
+		print "\t$imdb -- $input";
+	    }
+	}
+    }
+}
+

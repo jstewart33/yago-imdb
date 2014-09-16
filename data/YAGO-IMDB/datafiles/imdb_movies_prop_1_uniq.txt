@@ -1,0 +1,742 @@
+tt0000826	hasLabel	choosing a husband
+tt0000969	hasLabel	jean valjean
+tt0000969	hasLabel	les misérables
+tt0002429	hasLabel	petticoat camp
+tt0003156	hasLabel	the mistake
+tt0003288	hasLabel	poor jake's demise
+tt0003475	hasLabel	the moth and the flame
+tt0003475	hasLabel	trapped in a forest fire
+tt0003953	hasLabel	the female cop
+tt0004282	hasLabel	mabel's married life
+tt0004282	hasLabel	the squarehead
+tt0004282	hasLabel	when you're married
+tt0005043	hasLabel	the buzzard's shadow
+tt0005192	hasLabel	the devil's daughter
+tt0005192	hasLabel	the vampire
+tt0005342	hasLabel	a foozle at the tee party
+tt0005360	hasLabel	from italy's shores
+tt0005960	hasLabel	la rigenerazione
+tt0005960	hasLabel	regeneration
+tt0005960	hasLabel	the regeneration
+tt0006770	hasLabel	the heart of nora flynn
+tt0008176	hasLabel	leoni leo
+tt0008177	hasLabel	a leopárd
+tt0008177	hasLabel	kûzdelem a létért
+tt0008177	hasLabel	küzdelem a létért
+tt0008177	hasLabel	the leopard
+tt0008209	hasLabel	lonesome luke's wild women
+tt0008395	hasLabel	father sergius
+tt0008395	hasLabel	ïôåã óåòçéê
+tt0008395	hasLabel	otets sergiy
+tt0009550	hasLabel	riddle gawne
+tt0010227	hasLabel	heart of the hills
+tt0010227	hasLabel	heart o' the hills
+tt0012734	hasLabel	a colpo sicuro
+tt0012734	hasLabel	sure fire
+tt0015015	hasLabel	into the net
+tt0015015	hasLabel	wanted by the police
+tt0016407	hasLabel	sunken silver
+tt0016929	hasLabel	the golden web
+tt0017420	hasLabel	soul mates
+tt0018926	hasLabel	all square
+tt0018926	hasLabel	gang war
+tt0019277	hasLabel	pirates of the pines
+tt0019901	hasLabel	by rocket to the moon
+tt0019901	hasLabel	die frau im mond
+tt0019901	hasLabel	frau im mond
+tt0019901	hasLabel	girl in the moon
+tt0019901	hasLabel	una donna nella luna
+tt0019901	hasLabel	woman in the moon
+tt0020629	hasLabel	all'ovest niente di nuovo
+tt0020629	hasLabel	all quiet on the western front
+tt0020629	hasLabel	im westen nichts neues
+tt0022811	hasLabel	detective lloyd
+tt0022811	hasLabel	lloyd of the c.i.d.
+tt0023584	hasLabel	madame verliert ihr kleid
+tt0023584	hasLabel	this is the night
+tt0023657	hasLabel	amore in gabbia
+tt0023657	hasLabel	die verkaufte braut
+tt0023657	hasLabel	la sposa venduta
+tt0023657	hasLabel	the bartered bride
+tt0025134	hasLabel	four frightened people
+tt0025134	hasLabel	quattro persone spaventate
+tt0027147	hasLabel	two for tonight
+tt0027585	hasLabel	every sunday
+tt0027698	hasLabel	der große ziegfeld
+tt0027698	hasLabel	der könig der frauen
+tt0027698	hasLabel	il paradiso delle fanciulle
+tt0027698	hasLabel	the great ziegfeld
+tt0028119	hasLabel	popeye the sailor meets sindbad the sailor
+tt0028471	hasLabel	ein schrei in der nacht
+tt0028471	hasLabel	the voice of bugle ann
+tt0028696	hasLabel	the case of the stuttering pig
+tt0029462	hasLabel	range defenders
+tt0029734	hasLabel	königin viktoria
+tt0029734	hasLabel	la grande imperatrice
+tt0029734	hasLabel	victoria the great
+tt0030817	hasLabel	sweethearts
+tt0031304	hasLabel	the fighting gringo
+tt0032007	hasLabel	il figlio di tarzan
+tt0032007	hasLabel	tarzan finds a son!
+tt0032007	hasLabel	tarzan in exile
+tt0032007	hasLabel	tarzan und sein sohn
+tt0032184	hasLabel	adventures of red ryder
+tt0033836	hasLabel	die kleinen füchse
+tt0033836	hasLabel	le piccole volpi
+tt0033836	hasLabel	the little foxes
+tt0034428	hasLabel	abenteuer in panama
+tt0034428	hasLabel	across the pacific
+tt0034428	hasLabel	agguato ai tropici
+tt0034428	hasLabel	aloha means goodbye
+tt0034547	hasLabel	the bowling alley-cat
+tt0034549	hasLabel	broadway
+tt0034549	hasLabel	ombre di broadway
+tt0034780	hasLabel	george washington slept here
+tt0034780	hasLabel	mia moglie ha sempre ragione
+tt0034780	hasLabel	unser trautes heim
+tt0035140	hasLabel	now, voyager
+tt0035140	hasLabel	perdutamente tua
+tt0035140	hasLabel	reise aus der vergangenheit
+tt0035182	hasLabel	perils of the royal mounted
+tt0035345	hasLabel	smart alecks
+tt0035819	hasLabel	don winslow of the coast guard
+tt0036349	hasLabel	sherlock holmes in washington
+tt0036349	hasLabel	verhängnisvolle reise
+tt0036777	hasLabel	drachensaat
+tt0036777	hasLabel	dragon seed
+tt0036777	hasLabel	la stirpe del drago
+tt0037098	hasLabel	the mummy's curse
+tt0038753	hasLabel	hex marks the spot
+tt0038753	hasLabel	mr. hex
+tt0038865	hasLabel	quentin quail
+tt0039016	hasLabel	dancing ladies
+tt0039016	hasLabel	ten cents a dance
+tt0041699	hasLabel	cane randagio
+tt0041699	hasLabel	ein herrenloser hund
+tt0041699	hasLabel	ein streunender hund
+tt0041699	hasLabel	nora inu
+tt0041699	hasLabel	stray dog
+tt0041949	hasLabel	flitterwochen mit hindernissen
+tt0041949	hasLabel	nessuna pietà per i mariti
+tt0041949	hasLabel	tell it to the judge
+tt0042275	hasLabel	all kneeling
+tt0042275	hasLabel	bed of roses
+tt0042275	hasLabel	born to be bad
+tt0042275	hasLabel	christabel caine
+tt0042275	hasLabel	la seduttrice
+tt0042643	hasLabel	frightened city
+tt0042643	hasLabel	la città del terrore
+tt0042643	hasLabel	the killer that stalked new york
+tt0044557	hasLabel	don't bother to knock
+tt0044557	hasLabel	la tua bocca brucia
+tt0044557	hasLabel	night without sleep
+tt0044557	hasLabel	versuchung auf 809
+tt0045585	hasLabel	bully for bugs
+tt0045679	hasLabel	die wüstenratten
+tt0045679	hasLabel	i topi del deserto
+tt0045679	hasLabel	the desert rats
+tt0046238	hasLabel	return to paradise
+tt0046238	hasLabel	rückkehr ins paradies
+tt0046238	hasLabel	samoa
+tt0047376	hasLabel	flammen über fernost
+tt0047376	hasLabel	glühender dschungel
+tt0047376	hasLabel	pianura rossa
+tt0047376	hasLabel	staffelkapitän forester
+tt0047376	hasLabel	the purple plain
+tt0048209	hasLabel	inside detroit
+tt0048209	hasLabel	la città corrotta
+tt0048500	hasLabel	a generation
+tt0048500	hasLabel	eine generation
+tt0048500	hasLabel	generazione
+tt0048500	hasLabel	pokolenie
+tt0048542	hasLabel	die ratten
+tt0048542	hasLabel	i topi
+tt0048542	hasLabel	the rats
+tt0048649	hasLabel	speedy gonzales
+tt0049315	hasLabel	high terrace
+tt0050233	hasLabel	angel
+tt0050233	hasLabel	cast a dark shadow
+tt0050233	hasLabel	dämon der frauen
+tt0050233	hasLabel	la poltrona vuota
+tt0051114	hasLabel	jesse james
+tt0051114	hasLabel	la vera storia di jess il bandito
+tt0051114	hasLabel	rächer der enterbten
+tt0051114	hasLabel	the james brothers
+tt0051114	hasLabel	the true story of jesse james
+tt0051128	hasLabel	la sopravvissuta
+tt0051128	hasLabel	the trance of diana love
+tt0051128	hasLabel	the undead
+tt0051435	hasLabel	die brüder karamasov
+tt0051435	hasLabel	i fratelli karamazov
+tt0051435	hasLabel	karamazov
+tt0051435	hasLabel	the brothers karamazov
+tt0051435	hasLabel	the murderer dmitri karamazov
+tt0051532	hasLabel	desert patrol
+tt0051532	hasLabel	die schwarzen teufel von el alamein
+tt0051532	hasLabel	mare di sabbia
+tt0051532	hasLabel	sea of sand
+tt0052199	hasLabel	das singende, klingende bäumchen
+tt0052199	hasLabel	the singing ringing tree
+tt0052398	hasLabel	der mann im feuer
+tt0052398	hasLabel	terra di ribellione
+tt0052398	hasLabel	windom's way
+tt0052564	hasLabel	invasion of mars
+tt0052564	hasLabel	journey to planet four
+tt0052564	hasLabel	marte distruggerà la terra
+tt0052564	hasLabel	the angry red planet
+tt0052564	hasLabel	weltraumschiff mr-1 gibt keine antwort
+tt0052639	hasLabel	blue denim
+tt0052639	hasLabel	blue jeans
+tt0052639	hasLabel	die unverstandenen
+tt0052639	hasLabel	innamorati in blue jeans
+tt0054004	hasLabel	black cross
+tt0054004	hasLabel	die kreuzritter
+tt0054004	hasLabel	die letzte schlacht der kreuzritter
+tt0054004	hasLabel	i cavalieri teutonici
+tt0054004	hasLabel	knights of the black cross
+tt0054004	hasLabel	knights of the teutonic order
+tt0054004	hasLabel	krzyzacy
+tt0054167	hasLabel	augen der angst
+tt0054167	hasLabel	face of fear
+tt0054167	hasLabel	l'occhio che uccide
+tt0054167	hasLabel	peeping tom
+tt0055436	hasLabel	7 donne dall'inferno
+tt0055436	hasLabel	seven women from hell
+tt0055436	hasLabel	womanhunt
+tt0057007	hasLabel	die hafenkneipe von tahiti
+tt0057007	hasLabel	donovan's reef
+tt0057007	hasLabel	i tre della croce del sud
+tt0057238	hasLabel	kyonetsu no kisetsu
+tt0057238	hasLabel	the warped ones
+tt0057238	hasLabel	the weird love makers
+tt0057238	hasLabel	wild love-makers
+tt0057521	hasLabel	sparrows can't sing
+tt0058610	hasLabel	la spia dai due volti
+tt0058610	hasLabel	spion mit meinem gesicht
+tt0058610	hasLabel	the spy with my face
+tt0059575	hasLabel	der pfandleiher
+tt0059575	hasLabel	l'uomo del banco dei pegni
+tt0059575	hasLabel	the pawnbroker
+tt0060310	hasLabel	dil diya dard liya
+tt0060345	hasLabel	come il grinch rubò il natale
+tt0060345	hasLabel	die gestohlenen weihnachtsgeschenke
+tt0060345	hasLabel	dr. seuss' how the grinch stole christmas!
+tt0060345	hasLabel	how the grinch stole christmas!
+tt0060532	hasLabel	hier war ich glücklich
+tt0060532	hasLabel	i was happy here
+tt0060532	hasLabel	passage of love
+tt0060532	hasLabel	time lost and time remembered
+tt0060869	hasLabel	puss 'n' boats
+tt0061565	hasLabel	devil's angels
+tt0061565	hasLabel	facce senza dio
+tt0061565	hasLabel	rebellen in lederjacken
+tt0062408	hasLabel	tätowierung
+tt0062408	hasLabel	tattoo
+tt0062673	hasLabel	anzio
+tt0062673	hasLabel	lo sbarco di anzio
+tt0062673	hasLabel	schlacht um anzio
+tt0062673	hasLabel	the battle for anzio
+tt0064542	hasLabel	kevade
+tt0064542	hasLabel	vesna
+tt0066728	hasLabel	die millionen-dollar-ente
+tt0066728	hasLabel	the $1,000,000 duck
+tt0066728	hasLabel	the million dollar duck
+tt0066728	hasLabel	un papero da 1 milione di dollari
+tt0067456	hasLabel	hampton
+tt0067456	hasLabel	l'assassino di fred hampton
+tt0067456	hasLabel	the murder of fred hampton
+tt0068168	hasLabel	across 110th street
+tt0068168	hasLabel	rubare alla mafia è un suicidio
+tt0068168	hasLabel	straße zum jenseits
+tt0068658	hasLabel	die gruft der dämonen
+tt0068658	hasLabel	die gruft des grauens
+tt0068658	hasLabel	grave of the vampire
+tt0068658	hasLabel	seed of terror
+tt0068673	hasLabel	b j hammer
+tt0068673	hasLabel	hammer
+tt0069282	hasLabel	jackpot
+tt0069282	hasLabel	l'inseguito
+tt0069282	hasLabel	schleuderpartie
+tt0069282	hasLabel	slither
+tt0069786	hasLabel	begrabt die wölfe in der schlucht
+tt0069786	hasLabel	billy two hats
+tt0069786	hasLabel	la mia pistola per billy
+tt0069786	hasLabel	the lady and the outlaw
+tt0070488	hasLabel	gli ottimisti
+tt0070488	hasLabel	the optimists
+tt0070488	hasLabel	the optimists of nine elms
+tt0070704	hasLabel	slam! colpo forte
+tt0070704	hasLabel	the slams
+tt0070825	hasLabel	dreckiges gold
+tt0070825	hasLabel	quel maledetto colpo al rio grande express
+tt0070825	hasLabel	the train robbers
+tt0071206	hasLabel	beniamino
+tt0071206	hasLabel	benji
+tt0071206	hasLabel	benji - auf heißer fährte
+tt0072034	hasLabel	das nervenbündel
+tt0072034	hasLabel	il prigioniero della seconda strada
+tt0072034	hasLabel	the prisoner of second avenue
+tt0072228	hasLabel	2 supercolt a brooklyn
+tt0072228	hasLabel	die supercops - zwei irre hunde
+tt0072228	hasLabel	the super cops
+tt0072405	hasLabel	das phantom mit der stahlmaske
+tt0072405	hasLabel	der mann aus metall
+tt0072405	hasLabel	robo man
+tt0072405	hasLabel	the man with the steel mask
+tt0072405	hasLabel	who?
+tt0072405	hasLabel	who? l'uomo dai due volti
+tt0072603	hasLabel	adieu bulle
+tt0072603	hasLabel	adieu, poulet
+tt0072603	hasLabel	dai sbirro
+tt0072603	hasLabel	the french detective
+tt0072603	hasLabel	ungleiches duell
+tt0073578	hasLabel	probes in space
+tt0075393	hasLabel	das gesetz sind wir
+tt0075393	hasLabel	squadra d'assalto antirapina
+tt0075393	hasLabel	vigilante force
+tt0075393	hasLabel	vigilante force - das gesetz sind wir
+tt0075846	hasLabel	christmas miracle in caufield, u.s.a.
+tt0075846	hasLabel	the christmas coal mine miracle
+tt0078158	hasLabel	der sieg der sternenkinder
+tt0078158	hasLabel	return from witch mountain
+tt0078158	hasLabel	ritorno dall'ignoto
+tt0078259	hasLabel	der todesschrei
+tt0078259	hasLabel	l'australiano
+tt0078259	hasLabel	the shout
+tt0079080	hasLabel	dreamer
+tt0079444	hasLabel	the last of the knucklemen
+tt0079714	hasLabel	das böse
+tt0079714	hasLabel	don coscarelli's phantasm
+tt0079714	hasLabel	fantasmi
+tt0079714	hasLabel	phantasm
+tt0079714	hasLabel	phantasm i
+tt0079714	hasLabel	the never dead
+tt0079875	hasLabel	die verführung des joe tynan
+tt0079875	hasLabel	la seduzione del potere
+tt0079875	hasLabel	the seduction of joe tynan
+tt0080604	hasLabel	dedicated to...
+tt0080604	hasLabel	dedicatoria
+tt0081043	hasLabel	ìåîéî × ðáòéöå
+tt0081043	hasLabel	lenin in paris
+tt0081043	hasLabel	lenin v parizhe
+tt0082410	hasLabel	frankenstein island
+tt0082410	hasLabel	frankenstein's island
+tt0082410	hasLabel	l'isola del dottor frankenstein
+tt0082926	hasLabel	polyester
+tt0083232	hasLabel	fesseln der macht
+tt0083232	hasLabel	gefährliche beichte
+tt0083232	hasLabel	l'assoluzione
+tt0083232	hasLabel	true confessions
+tt0083629	hasLabel	das engelsgesicht - drei nächte des grauens
+tt0083629	hasLabel	the beast within
+tt0084509	hasLabel	die hunde sind los
+tt0084509	hasLabel	the plague dogs
+tt0084921	hasLabel	chinese super ninjas
+tt0084921	hasLabel	five element ninja
+tt0084921	hasLabel	five element ninjas
+tt0084921	hasLabel	ren zhe wu di
+tt0084921	hasLabel	super ninjas
+tt0084921	hasLabel	yan je mo dik
+tt0085482	hasLabel	el norte
+tt0085482	hasLabel	the north
+tt0086135	hasLabel	atlantis inferno
+tt0086135	hasLabel	i predatori di atlantide
+tt0086135	hasLabel	the atlantis interceptors
+tt0086135	hasLabel	the raiders of atlantis
+tt0088960	hasLabel	creator
+tt0088960	hasLabel	creator - der professor und die sünde
+tt0088960	hasLabel	der professor oder wie ich meine frau wiedererweck
+tt0088960	hasLabel	dr. creator specialista in miracoli
+tt0088960	hasLabel	the big picture
+tt0091003	hasLabel	destroyers
+tt0091003	hasLabel	eliminators
+tt0091003	hasLabel	eliminators - cäsars rückkehr
+tt0091814	hasLabel	quicksilver
+tt0091814	hasLabel	quicksilver - soldi senza fatica
+tt0092559	hasLabel	adams kesse rippe
+tt0092559	hasLabel	and god created woman
+tt0092559	hasLabel	e dio creò la donna
+tt0092812	hasLabel	cyclone
+tt0092812	hasLabel	cyclone, arma fatale
+tt0092812	hasLabel	tornado
+tt0093171	hasLabel	apocalisse a frogtown
+tt0093171	hasLabel	hell comes to frogtown
+tt0093171	hasLabel	the hunter
+tt0093171	hasLabel	the hunter - ein erbarmungsloser jäger
+tt0093225	hasLabel	housekeeping
+tt0093225	hasLabel	housekeeping - das auge des sees
+tt0093225	hasLabel	una donna tutta particolare
+tt0093409	hasLabel	arma letale
+tt0093409	hasLabel	lethal weapon
+tt0093409	hasLabel	lethal weapon - zwei stahlharte profis
+tt0093562	hasLabel	a month in the country
+tt0093562	hasLabel	falling man
+tt0093562	hasLabel	un mese in campagna
+tt0093854	hasLabel	la scuola degli orrori
+tt0093854	hasLabel	return to horror high
+tt0094033	hasLabel	alba d'acciaio
+tt0094033	hasLabel	steel dawn
+tt0094033	hasLabel	steel dawn - die fährte des siegers
+tt0094183	hasLabel	rio zone
+tt0094183	hasLabel	subway to the stars
+tt0094183	hasLabel	um trem para as estrelas
+tt0096486	hasLabel	einstein junior
+tt0096486	hasLabel	young einstein
+tt0097162	hasLabel	dead calm
+tt0097162	hasLabel	dead calm: a voyage into fear
+tt0097162	hasLabel	ore 10: calma piatta
+tt0097162	hasLabel	todesstille
+tt0097647	hasLabel	karate kid iii - die letzte entscheidung
+tt0097647	hasLabel	karate kid iii - la sfida finale
+tt0097647	hasLabel	the karate kid, part 3
+tt0097647	hasLabel	the karate kid, part iii
+tt0097810	hasLabel	il mahabharata 1989
+tt0097810	hasLabel	le mahâbhârata 1991
+tt0097810	hasLabel	mahabharata - das würfelspiel 1990
+tt0097810	hasLabel	mahabharata - der krieg 1990
+tt0097810	hasLabel	mahabharata - die verbannung 1990
+tt0097810	hasLabel	the mahabharata 1989
+tt0098087	hasLabel	die kleine diebin
+tt0098087	hasLabel	la petite voleuse
+tt0098087	hasLabel	la piccola ladra
+tt0098087	hasLabel	the little thief
+tt0098222	hasLabel	combat dance
+tt0098222	hasLabel	combat dance - a colpi di musica
+tt0098222	hasLabel	dächer des todes
+tt0098222	hasLabel	rooftops
+tt0098607	hasLabel	voices of sarafina!
+tt0098607	hasLabel	voices of sarafina!: songs of hope and freedom
+tt0099166	hasLabel	book of love
+tt0099166	hasLabel	i ragazzi degli anni '50
+tt0099166	hasLabel	nachhilfe in sachen liebe
+tt0100046	hasLabel	der lange weg
+tt0100046	hasLabel	la lunga strada verso casa
+tt0100046	hasLabel	the long walk home
+tt0100148	hasLabel	in den klauen des frauenmörders
+tt0100148	hasLabel	midnight ride
+tt0100148	hasLabel	midnight ride - die jagd auf den highwaykiller
+tt0100148	hasLabel	sulla strada, a mezzanotte
+tt0100274	hasLabel	new wave
+tt0100274	hasLabel	nouvelle vague
+tt0101756	hasLabel	chung waan ying hung
+tt0101756	hasLabel	don't fool me!
+tt0101756	hasLabel	zhong huan ying xiong
+tt0101812	hasLabel	the end of innocence
+tt0102500	hasLabel	mystery date
+tt0102500	hasLabel	mystery date - eine geheimnisvolle verabredung
+tt0102500	hasLabel	vediamoci stasera... porta il morto
+tt0102583	hasLabel	olivier, olivier
+tt0103639	hasLabel	aladdin
+tt0103786	hasLabel	beethoven
+tt0103786	hasLabel	beethoven: story of a dog
+tt0103786	hasLabel	ein hund namens beethoven
+tt0104003	hasLabel	barjo
+tt0104003	hasLabel	confessions d'un barjo
+tt0104003	hasLabel	confessions of a crap artist
+tt0104710	hasLabel	leon the pig farmer
+tt0105114	hasLabel	el patrullero
+tt0105114	hasLabel	highway patrolman
+tt0107614	hasLabel	mrs. doubtfire
+tt0107614	hasLabel	mrs. doubtfire - das stachelige hausmädchen
+tt0107614	hasLabel	mrs. doubtfire - das stachelige kindermädchen
+tt0107614	hasLabel	mrs. doubtfire - mammo per sempre
+tt0107863	hasLabel	posse
+tt0107863	hasLabel	posse - die rache des jessie lee
+tt0107863	hasLabel	posse - la leggenda di jessie lee
+tt0109368	hasLabel	camilla
+tt0110391	hasLabel	love affair
+tt0110391	hasLabel	love affair - un grande amore
+tt0110391	hasLabel	perfect love affair
+tt0110438	hasLabel	i'm the expert, you're the novice
+tt0110438	hasLabel	main khiladi tu anari
+tt0111054	hasLabel	ritrovarsi
+tt0111054	hasLabel	safe passage
+tt0112255	hasLabel	3 ninjas fight & fury
+tt0112255	hasLabel	3 ninjas groß in fahrt
+tt0112255	hasLabel	3 ninjas knuckle up
+tt0112255	hasLabel	tre piccole pesti
+tt0113497	hasLabel	jumanji
+tt0113533	hasLabel	born to be wild
+tt0113533	hasLabel	ein gorilla zum verlieben
+tt0113533	hasLabel	gorilla auf der flucht
+tt0113533	hasLabel	katie
+tt0114694	hasLabel	tommy boy
+tt0114694	hasLabel	tommy boy - durch dick und dünn
+tt0116001	hasLabel	da san yuan
+tt0116001	hasLabel	tri-star
+tt0116056	hasLabel	deadly voyage
+tt0116056	hasLabel	deadly voyage - treibgut des todes
+tt0116056	hasLabel	viaggio mortale
+tt0116745	hasLabel	kansas city
+tt0117015	hasLabel	jan, mein freund
+tt0117015	hasLabel	mein freund joe
+tt0117015	hasLabel	my friend joe
+tt0119592	hasLabel	mad city
+tt0119592	hasLabel	mad city - assalto alla notizia
+tt0119654	hasLabel	men in black
+tt0119654	hasLabel	mib
+tt0120008	hasLabel	costretti ad uccidere
+tt0120008	hasLabel	the replacement killers
+tt0120008	hasLabel	the replacement killers - die ersatzkiller
+tt0120184	hasLabel	sfera
+tt0120184	hasLabel	sphere
+tt0120184	hasLabel	sphere - die macht aus dem all
+tt0120835	hasLabel	a soldier's daughter never cries
+tt0120835	hasLabel	die zeit der jugend
+tt0120835	hasLabel	la figlia di un soldato non piange mai
+tt0120835	hasLabel	la fille d'un soldat ne pleure jamais
+tt0120835	hasLabel	soldier's daughter never cries
+tt0120877	hasLabel	john carpenter's vampires
+tt0120877	hasLabel	john carpenters vampires
+tt0120877	hasLabel	vampire
+tt0120877	hasLabel	vampire$
+tt0120877	hasLabel	vampires
+tt0121395	hasLabel	imtihaan
+tt0122690	hasLabel	ronin
+tt0123297	hasLabel	thundering fleas
+tt0135618	hasLabel	adventures in the capital
+tt0135618	hasLabel	das mädchen von korfu
+tt0135618	hasLabel	protevousianikes peripeteies
+tt0135618	hasLabel	the girl from corfu
+tt0139581	hasLabel	sahara
+tt0140840	hasLabel	la batalla del último panzer
+tt0140840	hasLabel	la battaglia dell'ultimo panzer
+tt0140840	hasLabel	monte cassino
+tt0140840	hasLabel	the battle of the last panzer
+tt0140840	hasLabel	the last panzer battalion
+tt0142982	hasLabel	wicket wacky
+tt0150554	hasLabel	a fine feathered frenzy
+tt0153428	hasLabel	under the counter spy
+tt0154159	hasLabel	apoorva raagangal
+tt0154159	hasLabel	rare melodies
+tt0158375	hasLabel	confirmation
+tt0158375	hasLabel	yakeen
+tt0164987	hasLabel	zona j
+tt0168501	hasLabel	the best man
+tt0168501	hasLabel	the best man - hochzeit mit hindernissen
+tt0177539	hasLabel	black fantasy
+tt0180837	hasLabel	bossa nova
+tt0180837	hasLabel	miss simpson
+tt0183700	hasLabel	restless
+tt0187433	hasLabel	der weg in die manege
+tt0187433	hasLabel	ðõôø îá áòåîõ
+tt0187433	hasLabel	put na arenu
+tt0187433	hasLabel	road to the stage
+tt0187433	hasLabel	tchanaparh depi krkes
+tt0189009	hasLabel	a place in the land
+tt0191280	hasLabel	mighty mouse in the great space chase
+tt0192382	hasLabel	nuestra tierra de paz
+tt0192382	hasLabel	our land of peace
+tt0193283	hasLabel	last man on planet earth
+tt0193283	hasLabel	the last man on planet earth
+tt0193449	hasLabel	rang
+tt0193449	hasLabel	rang - die farben der liebe
+tt0198512	hasLabel	feelin' up
+tt0198512	hasLabel	getting together
+tt0202967	hasLabel	house on fire
+tt0202967	hasLabel	kataku no hito
+tt0204800	hasLabel	alibi bye bye
+tt0206539	hasLabel	agonia
+tt0206539	hasLabel	agony
+tt0210626	hasLabel	coqueta
+tt0211792	hasLabel	cutaway
+tt0211792	hasLabel	cutaway - jede sekunde zählt
+tt0214054	hasLabel	kosumosu
+tt0214054	hasLabel	remembering the cosmos flower
+tt0220760	hasLabel	in der tiefe lauert der tod
+tt0220760	hasLabel	on hostile ground
+tt0220760	hasLabel	sinkhole
+tt0223046	hasLabel	cosmic zoom
+tt0223046	hasLabel	zoom cosmique
+tt0230512	hasLabel	mayor of the sunset strip
+tt0233263	hasLabel	les aventures des schtroumpfs
+tt0233263	hasLabel	the adventures of the smurfs
+tt0234261	hasLabel	mome ki gudiya
+tt0241776	hasLabel	notre-dame de paris
+tt0241776	hasLabel	the hunchback of notre dame
+tt0244549	hasLabel	inspector balram
+tt0244549	hasLabel	police ki jung
+tt0245865	hasLabel	devanthakudu
+tt0247296	hasLabel	do thug
+tt0255212	hasLabel	hamara dil aapke paas hai
+tt0255212	hasLabel	you have my heart
+tt0256829	hasLabel	in the heart of the woods
+tt0257508	hasLabel	la criada bien criada
+tt0257930	hasLabel	monas verden
+tt0257930	hasLabel	monas welt
+tt0257930	hasLabel	mona's world
+tt0263488	hasLabel	here comes the boogeyman
+tt0263488	hasLabel	jeepers creepers
+tt0263488	hasLabel	jeepers creepers - es ist angerichtet
+tt0263488	hasLabel	jeepers creepers - il canto del diavolo
+tt0263957	hasLabel	die eisernen ladies
+tt0263957	hasLabel	satree lek
+tt0263957	hasLabel	the iron ladies
+tt0263957	hasLabel	the iron ladies - tunten am ball
+tt0267810	hasLabel	oru mukham pala mukham
+tt0270572	hasLabel	the freeloader
+tt0270572	hasLabel	the pest
+tt0272338	hasLabel	just desserts
+tt0272338	hasLabel	punchdrunk knuckle love
+tt0272338	hasLabel	punch-drunk love
+tt0272338	hasLabel	punch-drunk love - ubriaco d'amore
+tt0272338	hasLabel	the x-4 project
+tt0272338	hasLabel	untitled p.t. anderson project
+tt0276925	hasLabel	double cross
+tt0277615	hasLabel	bug
+tt0281872	hasLabel	futtocks end
+tt0292267	hasLabel	thacholi varghese chekavar
+tt0293007	hasLabel	carandiru
+tt0293007	hasLabel	carandirú
+tt0293007	hasLabel	carandiru: o filme
+tt0293662	hasLabel	le transporteur
+tt0293662	hasLabel	the transporter
+tt0293662	hasLabel	transporter
+tt0298327	hasLabel	fakira
+tt0312363	hasLabel	annychka
+tt0312848	hasLabel	journeys with george
+tt0318411	hasLabel	die unbarmherzigen schwestern
+tt0318411	hasLabel	magdalene
+tt0318411	hasLabel	the magdalene sisters
+tt0335592	hasLabel	pyaasa
+tt0338095	hasLabel	alta tensione
+tt0338095	hasLabel	haute tension
+tt0338095	hasLabel	high tension
+tt0338095	hasLabel	switchblade romance
+tt0338495	hasLabel	they call him sasquatch
+tt0360201	hasLabel	la plus belle victoire
+tt0360201	hasLabel	wimbledon
+tt0360201	hasLabel	wimbledon - spiel, satz und... liebe
+tt0375173	hasLabel	alfie
+tt0375173	hasLabel	untitled alfie remake
+tt0375173	hasLabel	untitled charles shyer project
+tt0375173	hasLabel	what's it all about, alfie?
+tt0375791	hasLabel	gundaraj
+tt0381681	hasLabel	before sunrise 2
+tt0381681	hasLabel	before sunset
+tt0381681	hasLabel	if not now
+tt0381681	hasLabel	prima del tramonto
+tt0381681	hasLabel	untitled before sunrise sequel
+tt0383317	hasLabel	le drakkar
+tt0387233	hasLabel	fröken sverige
+tt0387233	hasLabel	miss sweden
+tt0387412	hasLabel	metallica: some kind of monster
+tt0388573	hasLabel	the alan clark diaries 2004
+tt0406097	hasLabel	nearing grace
+tt0411098	hasLabel	alle kinder dieser welt
+tt0411098	hasLabel	all the invisible children
+tt0411098	hasLabel	les enfants invisibles
+tt0411098	hasLabel	take 7
+tt0416654	hasLabel	the colt
+tt0418773	hasLabel	junebug
+tt0418773	hasLabel	junikäfer
+tt0420127	hasLabel	rhubarb
+tt0420982	hasLabel	blind man's bluff
+tt0420982	hasLabel	kavardak
+tt0420982	hasLabel	öíõòëé
+tt0420982	hasLabel	untitled aleksei balabanov project
+tt0420982	hasLabel	zhmurki
+tt0431308	hasLabel	p.s. ich liebe dich
+tt0431308	hasLabel	p.s. i love you
+tt0431611	hasLabel	anthimanthaarai
+tt0433398	hasLabel	journey from the fall
+tt0433722	hasLabel	môsô dairinin 2004
+tt0433722	hasLabel	paranoia agent 2005
+tt0434409	hasLabel	v for vendetta
+tt0434409	hasLabel	v for vendetta: at the imax
+tt0434409	hasLabel	v for vendetta: the imax experience
+tt0434409	hasLabel	v per vendetta
+tt0434409	hasLabel	v wie vendetta
+tt0445171	hasLabel	aeg elada, aeg armastada
+tt0451850	hasLabel	paheli
+tt0451850	hasLabel	paheli - das rätsel einer liebe
+tt0451850	hasLabel	the dilemma
+tt0455407	hasLabel	la città verrà distrutta all'alba
+tt0455407	hasLabel	the crazies
+tt0455407	hasLabel	the crazies - fürchte deinen nächsten
+tt0456912	hasLabel	a bittersweet life
+tt0456912	hasLabel	dalkomhan insaeng
+tt0457496	hasLabel	street fight
+tt0462396	hasLabel	die letzte legion
+tt0462396	hasLabel	la dernière légion
+tt0462396	hasLabel	l'ultima legione
+tt0462396	hasLabel	the last legion
+tt0470610	hasLabel	xinji chi buliao re doufu
+tt0477080	hasLabel	8888
+tt0477080	hasLabel	runaway train
+tt0477080	hasLabel	unstoppable
+tt0477080	hasLabel	unstoppable - ausser kontrolle
+tt0477080	hasLabel	unstoppable - fuori controllo
+tt0478566	hasLabel	ces jours heureux
+tt0478566	hasLabel	hilfe, ferien!
+tt0478566	hasLabel	i nostri giorni felici: primi amori, primi vizi, p
+tt0478566	hasLabel	nos jours heureux
+tt0478566	hasLabel	summer camp
+tt0478566	hasLabel	those happy days
+tt0481581	hasLabel	mischief night
+tt0488151	hasLabel	lying
+tt0491747	hasLabel	an ihrer seite
+tt0491747	hasLabel	away from her
+tt0491747	hasLabel	loin d'elle
+tt0705252	hasLabel	house arrest
+tt0756683	hasLabel	jerome bixby's the man from earth
+tt0756683	hasLabel	the man from earth
+tt0804529	hasLabel	sleep dealer
+tt0806031	hasLabel	bowl of oatmeal
+tt0833500	hasLabel	meng huan tian yuan
+tt0833500	hasLabel	the house
+tt0843335	hasLabel	desamuduru
+tt0843335	hasLabel	ek jwalamukhi
+tt0927739	hasLabel	fremde kinder - große schwester punam
+tt0927739	hasLabel	punam
+tt0939911	hasLabel	orae-doen jeongwon
+tt0939911	hasLabel	the old garden
+tt0940765	hasLabel	on the count of zero
+tt0940765	hasLabel	sifir dedigimde
+tt0960082	hasLabel	one shot sam
+tt0962736	hasLabel	the young victoria
+tt0976238	hasLabel	daddy sitter
+tt0976238	hasLabel	old dogs
+tt0976238	hasLabel	old dogs - daddy oder deal
+tt0978764	hasLabel	sucker punch
+tt0978764	hasLabel	sucker punch: the imax experience
+tt0986329	hasLabel	mungaru male
+tt0988047	hasLabel	traitor
+tt0995757	hasLabel	summer heat
+tt0995757	hasLabel	verführerisches spiel
+tt0995757	hasLabel	zomerhitte
+tt0997157	hasLabel	hero
+tt1012897	hasLabel	learners
+tt1014762	hasLabel	boomerang
+tt1014762	hasLabel	home
+tt1018102	hasLabel	in love we trust
+tt1018102	hasLabel	zuo you
+tt1018887	hasLabel	dreams with sharp teeth
+tt1024744	hasLabel	i come with the rain
+tt1024744	hasLabel	je viens avec la pluie
+tt1024744	hasLabel	vengo con la lluvia
+tt1038686	hasLabel	legion
+tt1068956	hasLabel	in the name of god
+tt1068956	hasLabel	khuda kay liye
+tt1068956	hasLabel	khuda ke liye
+tt1100119	hasLabel	das geheimnis des regenbogensteins
+tt1100119	hasLabel	il mistero della pietra magica
+tt1100119	hasLabel	shorts
+tt1100119	hasLabel	shorts: the adventures of the wishing rock
+tt1186363	hasLabel	frozen kiss
+tt1197613	hasLabel	charlie valentine
+tt1197613	hasLabel	charlie valentine - gangster, gunfighter, gentlema
+tt1197613	hasLabel	hitman
+tt1197613	hasLabel	the hitmen diaries: charlie valentine
+tt1230544	hasLabel	konchem ishtam konchem kashtam
+tt1245112	hasLabel	[rec] 2
+tt1245112	hasLabel	rec 2
+tt1245112	hasLabel	[rec] ²: fear revisited
+tt1346973	hasLabel	independencia
+tt1352712	hasLabel	hailesa
+tt1470171	hasLabel	abandoned
+tt1470171	hasLabel	ohne jede spur
+tt1536048	hasLabel	w.e
+tt1536410	hasLabel	faces in the crowd
+tt1667838	hasLabel	i hate luv storys
+tt1680096	hasLabel	la pecora nera

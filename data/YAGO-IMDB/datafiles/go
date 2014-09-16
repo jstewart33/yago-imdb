@@ -1,0 +1,35 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use English;
+
+my $com = "yago";
+
+foreach my $fp (glob("${com}*05_uniq.txt")) 
+{
+    my $prop = 0;
+
+    printf "%s\n", $fp;
+    $prop = 1 if ($fp =~ /prop/);
+
+    open my $fh, "<", $fp or die "can't read open '$fp': $OS_ERROR";
+    while (<$fh>) 
+    {
+	my @line = split(/\t/, $_);
+	my $propfile;
+
+	$propfile = "training/${com}/" . uc($line[1]) . ".txt" if $prop;
+	$propfile = "training/${com}/" . uc($line[0]) . ".txt" if !$prop;
+
+	open my $fh1, ">>", $propfile 
+	    or die "can't read open '$propfile': $OS_ERROR";
+
+	print $fh1 $line[0] . "\t" . $line[2] if $prop;
+	print $fh1 $line[1] . "\t" . $line[2] if !$prop;
+
+	close $fh1;
+    }
+
+  close $fh or die "can't read close '$fp': $OS_ERROR";
+}

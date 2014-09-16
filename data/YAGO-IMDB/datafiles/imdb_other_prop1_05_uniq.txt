@@ -1,0 +1,48 @@
+p1427721	bornOn	5 october 1970
+p1427721	firstName	josie
+p1427721	gender	female
+p1427721	hasHeight	5' 7
+p1427721	hasLabel	josie bisset
+p1427721	hasLabel	josie bissett
+p1427721	lastName	bissett
+p1609822	bornOn	28 october 1965
+p1609822	firstName	jami
+p1609822	gender	female
+p1609822	hasHeight	5' 5
+p1609822	hasLabel	jami gertz
+p1609822	lastName	gertz
+p1694107	bornOn	22 september 1958
+p1694107	firstName	joan
+p1694107	gender	female
+p1694107	hasHeight	5' 5 1/2
+p1694107	hasLabel	joan jett
+p1694107	hasLabel	joan jett and the blackhearts
+p1694107	hasLabel	joan jett & the blackhearts
+p1694107	hasLabel	the runaways
+p1694107	lastName	jett
+p1905317	bornOn	31 may 1915
+p1905317	deceasedOn	18 july 1969
+p1905317	firstName	barbara
+p1905317	gender	female
+p1905317	hasLabel	barbara pepper
+p1905317	lastName	pepper
+p2097561	bornOn	6 march 1886
+p2097561	deceasedOn	22 march 1971
+p2097561	firstName	nella
+p2097561	gender	female
+p2097561	hasHeight	5' 7 1/2
+p2097561	hasLabel	nella walker
+p2097561	lastName	walker
+p343888	bornOn	2 february 1931
+p343888	firstName	glynn
+p343888	gender	male
+p343888	hasLabel	glyn edwards
+p343888	hasLabel	glynn edwards
+p343888	lastName	edwards
+p985614	bornOn	1950
+p985614	firstName	robert
+p985614	gender	male
+p985614	hasLabel	bob pugh
+p985614	hasLabel	robert pugh
+p985614	hasLabel	robert pugh i
+p985614	lastName	pugh

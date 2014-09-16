@@ -1,0 +1,17 @@
+#!/bin/bash
+
+pushd .
+cd datafiles
+sort $1 > $1.sort
+sort $2 > $2.sort
+
+comm -3 $1.sort $2.sort > $1.diff
+
+mv $1.diff ../testing/$3
+# cp $2 ../training/$3
+
+rm -f $1.sort $2.sort
+
+popd
+ls -alrt training
+ls -alrt testing

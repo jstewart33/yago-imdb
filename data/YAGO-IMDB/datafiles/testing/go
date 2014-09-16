@@ -1,0 +1,33 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use English;
+
+foreach my $fp (glob("yago*.txt")) 
+{
+    my $prop = 0;
+
+    printf "%s\n", $fp;
+    $prop = 1 if ($fp =~ /prop/);
+
+    open my $fh, "<", $fp or die "can't read open '$fp': $OS_ERROR";
+    while (<$fh>) 
+    {
+	my @line = split(/\s+/, $_);
+	my $propfile;
+
+	$propfile = "training/" . uc($line[1]) . ".txt" if $prop;
+	$propfile = "training/" . uc($line[0]) . ".txt" if !$prop;
+
+	open my $fh1, ">>", $propfile 
+	    or die "can't read open '$propfile': $OS_ERROR";
+
+	print $fh1 $line[0] . "\t" . $line[2] . "\n" if $prop;
+	print $fh1 $line[1] . "\t" . $line[2] . "\n" if !$prop;
+
+	close $fh1;
+    }
+
+  close $fh or die "can't read close '$fp': $OS_ERROR";
+}

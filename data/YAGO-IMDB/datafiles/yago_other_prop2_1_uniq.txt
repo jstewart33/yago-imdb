@@ -1,0 +1,2898 @@
+yl131212	hasLabel	London
+yl131231	hasLabel	Berlin
+yl131231	wasCreatedOnDate	1237-##-##
+yl131261	hasLabel	Warsaw
+yl131261	wasCreatedOnDate	12##-##-##
+yl131299	hasLabel	Luxembourg (city)
+yl131355	hasLabel	Amsterdam
+yl131425	hasLabel	Moscow
+yl131425	wasCreatedOnDate	1147-##-##
+yl131485	hasLabel	Chennai
+yl131668	hasLabel	Yokohama
+yl131672	hasLabel	Paris
+yl131674	hasLabel	Mexico City
+yl131674	wasCreatedOnDate	1325-03-18
+yl132256	hasLabel	Cologne
+yl132942	hasLabel	Koblenz
+yl133238	hasLabel	Zakynthos
+yl133294	hasLabel	Sarajevo
+yl133294	wasCreatedOnDate	1461-##-##
+yl134596	hasLabel	Turin
+yl134975	hasLabel	Los Angeles
+yl134975	wasCreatedOnDate	1781-09-04
+yl134978	hasLabel	New York City
+yl134978	wasCreatedOnDate	1624-##-##
+yl134993	hasLabel	Bath, Somerset
+yl135019	hasLabel	Santa Monica, California
+yl135019	wasCreatedOnDate	1769-08-03
+yl135065	hasLabel	Chicago
+yl135065	wasCreatedOnDate	1833-##-##
+yl135111	hasLabel	Glasgow
+yl135118	hasLabel	Pasadena, California
+yl135118	wasCreatedOnDate	1874-01-27
+yl135129	hasLabel	Hong Kong
+yl135129	wasCreatedOnDate	1842-08-29
+yl135147	hasLabel	Manchester
+yl135147	wasCreatedOnDate	0##-##-##
+yl135178	hasLabel	Detroit
+yl135178	wasCreatedOnDate	1701-##-##
+yl135200	hasLabel	Long Beach, California
+yl135200	wasCreatedOnDate	1897-12-13
+yl135217	hasLabel	Vancouver
+yl135217	wasCreatedOnDate	1886-##-##
+yl135239	hasLabel	Sydney
+yl135239	wasCreatedOnDate	1788-##-##
+yl135311	hasLabel	City of Halifax
+yl135311	wasCreatedOnDate	1749-##-##
+yl135326	hasLabel	Fort Wayne, Indiana
+yl135326	wasCreatedOnDate	1794-##-##
+yl135368	hasLabel	Savannah, Georgia
+yl135368	wasCreatedOnDate	1733-##-##
+yl135423	hasLabel	Birmingham, Alabama
+yl135423	wasCreatedOnDate	1871-12-19
+yl135447	hasLabel	Birmingham
+yl135447	wasCreatedOnDate	6##-##-##
+yl135503	hasLabel	New Rochelle, New York
+yl135503	wasCreatedOnDate	1899-##-##
+yl135672	hasLabel	San Jose, California
+yl135672	wasCreatedOnDate	1777-11-29
+yl135743	hasLabel	Yalta
+yl135755	hasLabel	Grimsby
+yl135776	hasLabel	Arlington, Texas
+yl135776	wasCreatedOnDate	1841-##-##
+yl135891	hasLabel	Laguna Beach, California
+yl135956	hasLabel	Milwaukee
+yl135984	hasLabel	Auburn, California
+yl136124	hasLabel	Syracuse, New York
+yl136124	wasCreatedOnDate	1825-##-##
+yl136168	hasLabel	Traverse City, Michigan
+yl136168	wasCreatedOnDate	1891-##-##
+yl136285	hasLabel	Toledo, Ohio
+yl136285	wasCreatedOnDate	1833-##-##
+yl136291	hasLabel	Manhattan Beach, California
+yl136340	hasLabel	Farmington Hills, Michigan
+yl136580	hasLabel	Moorpark, California
+yl136580	wasCreatedOnDate	1887-##-##
+yl136885	hasLabel	Des Moines, Iowa
+yl136885	wasCreatedOnDate	1843-##-##
+yl137057	hasLabel	Terrell, Texas
+yl137057	wasCreatedOnDate	1874-##-##
+yl137476	hasLabel	Malden, Massachusetts
+yl137476	wasCreatedOnDate	1640-##-##
+yl137977	hasLabel	Cesena
+yl138032	hasLabel	Kosciusko, Mississippi
+yl138033	hasLabel	Wuxi
+yl138631	hasLabel	Welch, West Virginia
+yl139476	hasLabel	Bridge City, Texas
+yl140052	hasLabel	Union, Kentucky
+ym142859	hasLabel	Citizen Kane
+ym142859	wasCreatedOnDate	1941-05-01
+ym142861	hasLabel	Chariots of Fire
+ym142861	wasCreatedOnDate	1981-10-09
+ym142928	hasLabel	The Thing (film)
+ym142928	wasCreatedOnDate	1982-06-25
+ym142929	hasLabel	The Wedding Planner
+ym142929	wasCreatedOnDate	2001-01-26
+ym142937	hasLabel	Until the End of the World
+ym142937	wasCreatedOnDate	1991-12-25
+ym142939	hasLabel	U-571 (film)
+ym142939	wasCreatedOnDate	2000-04-21
+ym142945	hasLabel	WarGames
+ym142945	wasCreatedOnDate	1983-06-03
+ym142959	hasLabel	Everyone Says I Love You
+ym142959	wasCreatedOnDate	1996-12-06
+ym143019	hasLabel	Casablanca (film)
+ym143019	wasCreatedOnDate	1942-11-26
+ym143030	hasLabel	Chasing Amy
+ym143030	wasCreatedOnDate	1997-04-04
+ym143063	hasGender	male
+ym143063	hasLabel	Captain Blood (1935 film)
+ym143063	wasCreatedOnDate	1935-12-25
+ym143085	hasLabel	Dark Victory
+ym143085	wasCreatedOnDate	1939-04-22
+ym143129	hasLabel	American Graffiti
+ym143129	wasCreatedOnDate	1973-08-11
+ym143143	hasLabel	Creature from the Black Lagoon
+ym143143	wasCreatedOnDate	1954-03-05
+ym143194	hasLabel	Jaws (film)
+ym143194	wasCreatedOnDate	1975-06-20
+ym143223	hasLabel	The Producers (1968 film)
+ym143223	wasCreatedOnDate	1968-03-18
+ym143232	hasLabel	Salt of the Earth
+ym143232	wasCreatedOnDate	1954-03-14
+ym143244	hasLabel	The Ten Commandments (1956 film)
+ym143244	wasCreatedOnDate	1956-10-05
+ym143252	hasLabel	Saludos Amigos
+ym143252	wasCreatedOnDate	1942-08-24
+ym143264	hasLabel	One Foot in Heaven
+ym143264	wasCreatedOnDate	1941-10-02
+ym143267	hasLabel	Kings Row
+ym143267	wasCreatedOnDate	1942-02-02
+ym143311	hasLabel	Flirting with Disaster
+ym143311	wasCreatedOnDate	1996-03-22
+ym143326	hasLabel	Showgirls
+ym143326	wasCreatedOnDate	1995-09-22
+ym143341	hasLabel	Rachel, Rachel
+ym143341	wasCreatedOnDate	1968-08-26
+ym143352	hasLabel	Hamlet (1996 film)
+ym143352	wasCreatedOnDate	1996-12-25
+ym143361	hasLabel	The Goodbye Girl
+ym143361	wasCreatedOnDate	1977-11-30
+ym143385	hasLabel	The Elephant Man (film)
+ym143385	wasCreatedOnDate	1980-10-03
+ym143389	hasLabel	The Dresser
+ym143389	wasCreatedOnDate	1983-12-06
+ym143411	hasLabel	Mississippi Burning
+ym143411	wasCreatedOnDate	1988-12-09
+ym143415	hasLabel	Field of Dreams
+ym143415	wasCreatedOnDate	1989-04-23
+ym143441	hasLabel	Elizabeth (film)
+ym143441	wasCreatedOnDate	1998-09-08
+ym143442	hasLabel	Life Is Beautiful
+ym143442	wasCreatedOnDate	1997-12-20
+ym143447	hasLabel	Gosford Park
+ym143447	wasCreatedOnDate	2001-11-07
+ym143482	hasLabel	Close Encounters of the Third Kind
+ym143482	wasCreatedOnDate	1977-11-16
+ym143500	hasLabel	Rocky V
+ym143500	wasCreatedOnDate	1990-11-16
+ym143518	hasLabel	Stalag 17
+ym143518	wasCreatedOnDate	1953-05-29
+ym143543	hasLabel	Kotch
+ym143543	wasCreatedOnDate	1971-09-17
+ym143563	hasLabel	Arthur (film)
+ym143563	wasCreatedOnDate	1981-07-17
+ym143566	hasLabel	Reign of Fire (film)
+ym143566	wasCreatedOnDate	2002-07-12
+ym143575	hasLabel	A Close Shave
+ym143575	wasCreatedOnDate	1995-12-24
+ym143580	hasLabel	Victim (film)
+ym143580	wasCreatedOnDate	1961-08-##
+ym143582	hasLabel	A Canterbury Tale
+ym143582	wasCreatedOnDate	1944-08-21
+ym143615	hasLabel	Mr. Holland's Opus
+ym143615	wasCreatedOnDate	1995-12-29
+ym143620	hasLabel	The Apostle
+ym143620	wasCreatedOnDate	1997-12-17
+ym143628	hasLabel	Ali (film)
+ym143628	wasCreatedOnDate	2001-12-11
+ym143629	hasLabel	Small Soldiers
+ym143629	wasCreatedOnDate	1998-07-10
+ym143644	hasLabel	Oh! What a Lovely War
+ym143644	wasCreatedOnDate	1969-03-10
+ym143645	hasLabel	Willy Wonka & the Chocolate Factory
+ym143645	wasCreatedOnDate	1971-06-30
+ym143651	hasLabel	Whale Rider
+ym143651	wasCreatedOnDate	2003-01-30
+ym143663	hasLabel	Inside the Third Reich
+ym143663	wasCreatedOnDate	1982-##-##
+ym143677	hasLabel	The Constant Nymph
+ym143677	wasCreatedOnDate	1943-06-23
+ym143683	hasLabel	They Call Me Trinity
+ym143683	wasCreatedOnDate	1970-12-22
+ym143686	hasLabel	Querelle
+ym143686	wasCreatedOnDate	1982-##-##
+ym143702	hasLabel	Pinocchio (1940 film)
+ym143702	wasCreatedOnDate	1940-02-07
+ym143728	hasLabel	The Three Faces of Eve
+ym143728	wasCreatedOnDate	1957-09-23
+ym143766	hasLabel	Antz
+ym143766	wasCreatedOnDate	1998-10-02
+ym143770	hasLabel	From the Terrace
+ym143770	wasCreatedOnDate	1960-07-15
+ym143784	hasLabel	So I Married an Axe Murderer
+ym143784	wasCreatedOnDate	1993-07-30
+ym143788	hasLabel	Shanghai Noon
+ym143788	wasCreatedOnDate	2000-05-19
+ym143828	hasLabel	Any Given Sunday
+ym143828	wasCreatedOnDate	1999-12-22
+ym143830	hasLabel	The Royal Tenenbaums
+ym143830	wasCreatedOnDate	2001-12-04
+ym143837	hasLabel	Summer Wishes, Winter Dreams
+ym143837	wasCreatedOnDate	1973-10-21
+ym143848	hasLabel	The 7th Voyage of Sinbad
+ym143848	wasCreatedOnDate	1958-12-23
+ym143854	hasLabel	The Last Samurai
+ym143854	wasCreatedOnDate	2003-12-05
+ym143858	hasLabel	Good Burger
+ym143858	wasCreatedOnDate	1997-06-25
+ym143906	hasLabel	Caligula (film)
+ym143906	wasCreatedOnDate	1979-08-14
+ym143939	hasLabel	The American President
+ym143939	wasCreatedOnDate	1995-11-17
+ym143942	hasLabel	Strangers on a Train (film)
+ym143942	wasCreatedOnDate	1951-06-30
+ym143961	hasLabel	Dilwale Dulhania Le Jayenge
+ym143961	wasCreatedOnDate	1995-10-20
+ym143965	hasLabel	There's Something About Mary
+ym143965	wasCreatedOnDate	1998-07-15
+ym143968	hasLabel	Bulldog Drummond's Secret Police
+ym143968	wasCreatedOnDate	1939-##-##
+ym143974	hasLabel	Raising Arizona
+ym143974	wasCreatedOnDate	1987-03-06
+ym143976	hasLabel	Chicken Run
+ym143976	wasCreatedOnDate	2000-06-23
+ym144004	hasLabel	Secret Agent (1936 film)
+ym144004	wasCreatedOnDate	1936-06-15
+ym144006	hasLabel	Mystery Men
+ym144006	wasCreatedOnDate	1999-07-30
+ym144010	hasLabel	Love's Labour's Lost (2000 film)
+ym144010	wasCreatedOnDate	2000-03-31
+ym144012	hasLabel	Perfect Blue
+ym144012	wasCreatedOnDate	1997-##-##
+ym144027	hasLabel	Twister (1996 film)
+ym144027	wasCreatedOnDate	1996-05-17
+ym144032	hasLabel	Zoolander
+ym144032	wasCreatedOnDate	2001-09-28
+ym144040	hasLabel	House of 1000 Corpses
+ym144040	wasCreatedOnDate	2003-04-11
+ym144047	hasLabel	Les Misérables (1952 film)
+ym144047	wasCreatedOnDate	1952-08-14
+ym144064	hasLabel	Xanadu (film)
+ym144064	wasCreatedOnDate	1980-08-08
+ym144088	hasLabel	Character (1997 film)
+ym144088	wasCreatedOnDate	1997-04-17
+ym144127	hasLabel	Reality Bites
+ym144127	wasCreatedOnDate	1994-02-18
+ym144152	hasLabel	Citizen X
+ym144152	wasCreatedOnDate	1995-##-##
+ym144250	hasLabel	Amistad (film)
+ym144250	wasCreatedOnDate	1997-12-10
+ym144257	hasLabel	Contact (film)
+ym144257	wasCreatedOnDate	1997-07-11
+ym144258	hasLabel	Johnson Family Vacation
+ym144258	wasCreatedOnDate	2004-04-07
+ym144263	hasLabel	Wet Hot American Summer
+ym144263	wasCreatedOnDate	2001-07-27
+ym144315	hasLabel	Lost Horizon (1973 film)
+ym144315	wasCreatedOnDate	1973-##-##
+ym144320	hasLabel	Decoys (film)
+ym144320	wasCreatedOnDate	2004-##-##
+ym144356	hasLabel	Ladyhawke
+ym144356	wasCreatedOnDate	1985-04-12
+ym144373	hasLabel	Cold Mountain (film)
+ym144373	wasCreatedOnDate	2003-12-25
+ym144389	hasLabel	Philadelphia (film)
+ym144389	wasCreatedOnDate	1993-12-24
+ym144401	hasLabel	Blade (film)
+ym144401	wasCreatedOnDate	1998-08-21
+ym144447	hasLabel	Toys (film)
+ym144447	wasCreatedOnDate	1992-12-18
+ym144474	hasLabel	The Poseidon Adventure (1972 film)
+ym144474	wasCreatedOnDate	1972-12-12
+ym144482	hasLabel	Earthquake (film)
+ym144482	wasCreatedOnDate	1974-11-15
+ym144518	hasLabel	Paulie
+ym144518	wasCreatedOnDate	1998-04-17
+ym144537	hasLabel	Volcano (film)
+ym144537	wasCreatedOnDate	1997-04-25
+ym144542	hasLabel	Along Came Polly
+ym144542	wasCreatedOnDate	2004-01-16
+ym144543	hasLabel	Starsky & Hutch (film)
+ym144543	wasCreatedOnDate	2004-03-05
+ym144579	hasLabel	Lost in Space (film)
+ym144579	wasCreatedOnDate	1998-04-03
+ym144588	hasLabel	Frank Herbert's Dune
+ym144588	wasCreatedOnDate	2000-12-03
+ym144595	hasLabel	How to Lose a Guy in 10 Days
+ym144595	wasCreatedOnDate	2003-02-07
+ym144598	hasLabel	Down to Earth (2001 film)
+ym144598	wasCreatedOnDate	2001-02-16
+ym144676	hasFamilyName	Doors
+ym144676	hasGender	male
+ym144676	hasGivenName	The
+ym144676	hasLabel	The Doors (film)
+ym144676	wasCreatedOnDate	1991-03-01
+ym144699	hasLabel	Secrets & Lies (film)
+ym144699	wasCreatedOnDate	1996-05-24
+ym144709	hasLabel	Trog
+ym144709	wasCreatedOnDate	1970-10-24
+ym144713	hasLabel	Predator 2
+ym144713	wasCreatedOnDate	1990-11-21
+ym144726	hasLabel	Hard Eight (film)
+ym144726	wasCreatedOnDate	1997-02-28
+ym144747	hasLabel	You Got Served
+ym144747	wasCreatedOnDate	2004-01-30
+ym144764	hasLabel	EDtv
+ym144764	wasCreatedOnDate	1999-03-26
+ym144770	hasLabel	Jeremiah Johnson
+ym144770	wasCreatedOnDate	1972-09-10
+ym144786	hasLabel	Uncle Buck
+ym144786	wasCreatedOnDate	1989-08-16
+ym144813	hasLabel	Love Me Tender (1956 film)
+ym144813	wasCreatedOnDate	1956-11-21
+ym144820	hasLabel	The Lost Boys
+ym144820	wasCreatedOnDate	1987-07-31
+ym144830	hasLabel	The Great White Hype
+ym144830	wasCreatedOnDate	1996-05-03
+ym144862	hasLabel	Major League (film)
+ym144862	wasCreatedOnDate	1989-04-07
+ym144872	hasLabel	Election (1999 film)
+ym144872	wasCreatedOnDate	1999-04-23
+ym144881	hasLabel	Stakeout (film)
+ym144881	wasCreatedOnDate	1987-08-05
+ym144889	hasLabel	Beloved (film)
+ym144889	wasCreatedOnDate	1998-10-16
+ym144893	hasLabel	Meet the Parents
+ym144893	wasCreatedOnDate	2000-10-06
+ym144949	hasLabel	The Newton Boys
+ym144949	wasCreatedOnDate	1998-03-27
+ym144958	hasLabel	Combat Academy
+ym144958	wasCreatedOnDate	1986-11-23
+ym144962	hasLabel	The Decalogue
+ym144962	wasCreatedOnDate	1988-12-10
+ym144969	hasLabel	Another Stakeout
+ym144969	wasCreatedOnDate	1993-07-23
+ym144992	hasGender	male
+ym144992	hasLabel	Hair (film)
+ym144992	wasCreatedOnDate	1979-03-14
+ym145050	hasLabel	Fourteen Hours
+ym145050	wasCreatedOnDate	1951-03-06
+ym145051	hasLabel	Teaching Mrs. Tingle
+ym145051	wasCreatedOnDate	1999-08-20
+ym145057	hasLabel	Enchanted April
+ym145057	wasCreatedOnDate	1992-04-05
+ym145058	hasLabel	Spike of Bensonhurst
+ym145058	wasCreatedOnDate	1988-11-11
+ym145065	hasLabel	Under My Skin (film)
+ym145065	wasCreatedOnDate	1950-03-17
+ym145079	hasLabel	Miss Robin Hood
+ym145079	wasCreatedOnDate	1952-##-##
+ym145091	hasLabel	Judgment Night (film)
+ym145091	wasCreatedOnDate	1993-10-15
+ym145092	hasLabel	Dance with a Stranger
+ym145092	wasCreatedOnDate	1985-03-01
+ym145098	hasLabel	Collateral (film)
+ym145098	wasCreatedOnDate	2004-08-05
+ym145110	hasLabel	Sebastian (1995 film)
+ym145110	wasCreatedOnDate	1995-##-##
+ym145136	hasLabel	Always (1989 film)
+ym145136	wasCreatedOnDate	1989-12-22
+ym145156	hasLabel	Happiness (1998 film)
+ym145156	wasCreatedOnDate	1998-10-16
+ym145172	hasLabel	The Apprenticeship of Duddy Kravitz (film)
+ym145172	wasCreatedOnDate	1974-04-11
+ym145200	hasLabel	Mona Lisa Smile
+ym145200	wasCreatedOnDate	2003-12-19
+ym145203	hasLabel	Breakin' All the Rules
+ym145203	wasCreatedOnDate	2004-05-14
+ym145205	hasLabel	The Cable Guy
+ym145205	wasCreatedOnDate	1996-06-14
+ym145227	hasLabel	The Wrong Trousers
+ym145227	wasCreatedOnDate	1993-12-26
+ym145228	hasLabel	A Grand Day Out
+ym145228	wasCreatedOnDate	1989-06-03
+ym145256	hasLabel	Open Water (film)
+ym145256	wasCreatedOnDate	2003-10-26
+ym145273	hasLabel	Better Off Dead (film)
+ym145273	wasCreatedOnDate	1985-08-23
+ym145279	hasLabel	Orlando (film)
+ym145279	wasCreatedOnDate	1993-##-##
+ym145295	hasLabel	Legend (film)
+ym145295	wasCreatedOnDate	1985-12-13
+ym145341	hasLabel	Journey Back to Oz
+ym145341	wasCreatedOnDate	1974-##-##
+ym145345	hasLabel	The Hole (2001 film)
+ym145345	wasCreatedOnDate	2001-04-20
+ym145389	hasLabel	Meet the Fockers
+ym145389	wasCreatedOnDate	2004-12-22
+ym145401	hasLabel	The Guardian (1990 film)
+ym145401	wasCreatedOnDate	1990-04-27
+ym145438	hasLabel	Sybil (1976 film)
+ym145438	wasCreatedOnDate	1976-11-14
+ym145452	hasLabel	Gothic (film)
+ym145452	wasCreatedOnDate	1986-##-##
+ym145456	hasLabel	Ray (film)
+ym145456	wasCreatedOnDate	2004-09-12
+ym145457	hasLabel	Broken Arrow (1950 film)
+ym145457	wasCreatedOnDate	1950-07-21
+ym145538	hasLabel	My Boyfriend's Back (film)
+ym145538	wasCreatedOnDate	1993-08-06
+ym145564	hasLabel	Heavyweights
+ym145564	wasCreatedOnDate	1995-02-17
+ym145601	hasLabel	Silent Fall
+ym145601	wasCreatedOnDate	1994-10-28
+ym145603	hasLabel	Cat People (1942 film)
+ym145603	wasCreatedOnDate	1942-12-06
+ym145606	hasLabel	Gidget (film)
+ym145606	wasCreatedOnDate	1959-04-10
+ym145638	hasLabel	Making Mr. Right
+ym145638	wasCreatedOnDate	1987-04-03
+ym145695	hasLabel	Tempting Heart
+ym145695	wasCreatedOnDate	1999-##-##
+ym145696	hasLabel	Lone Star (1996 film)
+ym145696	wasCreatedOnDate	1996-06-21
+ym145729	hasLabel	The Mother (film)
+ym145729	wasCreatedOnDate	2003-11-14
+ym145772	hasLabel	Channel Chasers
+ym145772	wasCreatedOnDate	2004-11-26
+ym145912	hasLabel	The Killing Fields (film)
+ym145912	wasCreatedOnDate	1984-11-02
+ym145917	hasLabel	Oliver Twist (1997 film)
+ym145917	wasCreatedOnDate	1997-11-16
+ym145931	hasLabel	Central Station (film)
+ym145931	wasCreatedOnDate	1998-01-16
+ym145939	hasLabel	Silver City (2004 film)
+ym145939	wasCreatedOnDate	2004-05-13
+ym145943	hasLabel	Lemony Snicket's A Series of Unfortunate Events
+ym145943	wasCreatedOnDate	2004-12-16
+ym145979	hasLabel	Jingle All the Way
+ym145979	wasCreatedOnDate	1996-11-22
+ym146012	hasLabel	Les Misérables (1995 film)
+ym146012	wasCreatedOnDate	1995-03-22
+ym146069	hasLabel	Quest for Camelot
+ym146069	wasCreatedOnDate	1998-05-15
+ym146079	hasLabel	Vanity Fair (2004 film)
+ym146079	wasCreatedOnDate	2004-09-01
+ym146080	hasLabel	Booty Call
+ym146080	wasCreatedOnDate	1997-02-26
+ym146082	hasGender	male
+ym146082	hasGivenName	Into
+ym146082	hasLabel	Into the West (film)
+ym146082	wasCreatedOnDate	1992-##-##
+ym146083	hasLabel	Crossroads (1986 film)
+ym146083	wasCreatedOnDate	1986-03-14
+ym146118	hasLabel	Merlin (film)
+ym146118	wasCreatedOnDate	1998-04-26
+ym146198	hasLabel	Ghost Ship (2002 film)
+ym146198	wasCreatedOnDate	2002-10-25
+ym146201	hasLabel	The Golden Compass (film)
+ym146201	wasCreatedOnDate	2007-12-05
+ym146203	hasLabel	Les liaisons dangereuses (film)
+ym146203	wasCreatedOnDate	1959-09-09
+ym146251	hasLabel	A Dry White Season
+ym146251	wasCreatedOnDate	1989-09-22
+ym146255	hasLabel	Roller Boogie
+ym146255	wasCreatedOnDate	1979-12-19
+ym146260	hasLabel	Cul-de-Sac (film)
+ym146260	wasCreatedOnDate	1966-11-07
+ym146289	hasLabel	Permanent Midnight
+ym146289	wasCreatedOnDate	1998-09-16
+ym146291	hasLabel	Wrong Turn
+ym146291	wasCreatedOnDate	2003-05-30
+ym146327	hasLabel	Pushing Tin
+ym146327	wasCreatedOnDate	1999-04-23
+ym146350	hasLabel	The Singles Ward
+ym146350	wasCreatedOnDate	2002-##-##
+ym146356	hasLabel	Next Friday
+ym146356	wasCreatedOnDate	2000-01-12
+ym146382	hasLabel	Fresh Horses
+ym146382	wasCreatedOnDate	1988-11-18
+ym146396	hasLabel	Kes (film)
+ym146396	wasCreatedOnDate	1969-##-##
+ym146406	hasLabel	Life Is Sweet (film)
+ym146406	wasCreatedOnDate	1991-09-11
+ym146409	hasLabel	As It Is in Heaven
+ym146409	wasCreatedOnDate	2004-08-20
+ym146418	hasLabel	Anjali (film)
+ym146418	wasCreatedOnDate	1990-12-03
+ym146425	hasLabel	Swing Kids (film)
+ym146425	wasCreatedOnDate	1993-03-05
+ym146443	hasLabel	Frank Herbert's Children of Dune
+ym146443	wasCreatedOnDate	2003-03-16
+ym146466	hasLabel	Boogeyman (film)
+ym146466	wasCreatedOnDate	2005-02-04
+ym146495	hasLabel	Saratoga Trunk
+ym146495	wasCreatedOnDate	1945-11-21
+ym146498	hasLabel	The Train
+ym146498	wasCreatedOnDate	1965-03-07
+ym146557	hasLabel	Sahara (2005 film)
+ym146557	wasCreatedOnDate	2005-04-06
+ym146571	hasLabel	The Hairy Bird
+ym146571	wasCreatedOnDate	1998-09-04
+ym146620	hasLabel	A Page of Madness
+ym146620	wasCreatedOnDate	1926-09-24
+ym146689	hasLabel	In Good Company
+ym146689	wasCreatedOnDate	2004-12-29
+ym146695	hasLabel	Make Mine Music
+ym146695	wasCreatedOnDate	1946-08-15
+ym146697	hasLabel	Steal This Movie!
+ym146697	wasCreatedOnDate	2000-##-##
+ym146698	hasLabel	Bigger Than the Sky
+ym146698	wasCreatedOnDate	2005-02-18
+ym146709	hasLabel	Behind the Sun (film)
+ym146709	wasCreatedOnDate	2001-12-12
+ym146711	hasLabel	Prospero's Books
+ym146711	wasCreatedOnDate	1991-11-15
+ym146729	hasLabel	Melody Time
+ym146729	wasCreatedOnDate	1948-05-27
+ym146733	hasLabel	They Might Be Giants (film)
+ym146733	wasCreatedOnDate	1971-06-09
+ym146773	hasLabel	Children's Island (film)
+ym146773	wasCreatedOnDate	1980-12-25
+ym146801	hasLabel	Saint Joan (film)
+ym146801	wasCreatedOnDate	1957-05-08
+ym146844	hasLabel	Swimming with Sharks
+ym146844	wasCreatedOnDate	1994-##-##
+ym146865	hasLabel	Zebrahead (film)
+ym146865	wasCreatedOnDate	1992-##-##
+ym146883	hasLabel	Au Revoir, les Enfants
+ym146883	wasCreatedOnDate	1987-08-29
+ym146909	hasLabel	Duplex (film)
+ym146909	wasCreatedOnDate	2003-09-26
+ym146911	hasLabel	Turn Left, Turn Right
+ym146911	wasCreatedOnDate	2003-##-##
+ym146916	hasLabel	Santo Contra los Zombis
+ym146916	wasCreatedOnDate	1961-##-##
+ym146926	hasLabel	WUSA (film)
+ym146926	wasCreatedOnDate	1970-##-##
+ym146982	hasLabel	Envy (film)
+ym146982	wasCreatedOnDate	2004-04-30
+ym146993	hasLabel	Kicking & Screaming
+ym146993	wasCreatedOnDate	2005-05-13
+ym147041	hasLabel	SuperTex
+ym147041	wasCreatedOnDate	2003-##-##
+ym147060	hasLabel	Mickey's Once Upon a Christmas
+ym147060	wasCreatedOnDate	1999-12-07
+ym147131	hasLabel	The Plague of the Zombies
+ym147131	wasCreatedOnDate	1966-01-09
+ym147148	hasLabel	The Storm Riders
+ym147148	wasCreatedOnDate	1998-08-31
+ym147164	hasLabel	Cuban Rebel Girls
+ym147164	wasCreatedOnDate	1959-##-##
+ym147248	hasLabel	Kiss Kiss Bang Bang
+ym147248	wasCreatedOnDate	2005-11-11
+ym147267	hasLabel	H2O (miniseries)
+ym147267	wasCreatedOnDate	2004-10-31
+ym147303	hasLabel	Gettin' Square
+ym147303	wasCreatedOnDate	2003-##-##
+ym147353	hasLabel	Keeping the Faith
+ym147353	wasCreatedOnDate	2000-04-14
+ym147382	hasLabel	Tarzan, the Ape Man (1981 film)
+ym147382	wasCreatedOnDate	1981-08-07
+ym147419	hasLabel	Donnie Brasco (film)
+ym147419	wasCreatedOnDate	1997-02-28
+ym147450	hasLabel	It Came from Outer Space
+ym147450	wasCreatedOnDate	1953-05-25
+ym147456	hasLabel	Stealth (film)
+ym147456	wasCreatedOnDate	2005-07-29
+ym147467	hasLabel	A Fine Madness
+ym147467	wasCreatedOnDate	1966-06-29
+ym147468	hasLabel	The Reaping
+ym147468	wasCreatedOnDate	2007-04-05
+ym147476	hasLabel	The Curse of the Jade Scorpion
+ym147476	wasCreatedOnDate	2001-08-24
+ym147477	hasLabel	The Real Blonde
+ym147477	wasCreatedOnDate	1997-##-##
+ym147501	hasLabel	Kounterfeit
+ym147501	wasCreatedOnDate	1995-##-##
+ym147505	hasLabel	Match Point
+ym147505	wasCreatedOnDate	2005-05-12
+ym147534	hasLabel	Bunty Aur Babli
+ym147534	wasCreatedOnDate	2005-05-27
+ym147607	hasLabel	Herbie Rides Again
+ym147607	wasCreatedOnDate	1974-06-06
+ym147610	hasLabel	The Gorgon
+ym147610	wasCreatedOnDate	1964-##-##
+ym147637	hasLabel	The Golden Child
+ym147637	wasCreatedOnDate	1986-12-12
+ym147651	hasLabel	American Desi
+ym147651	wasCreatedOnDate	2001-##-##
+ym147654	hasLabel	I Walked with a Zombie
+ym147654	wasCreatedOnDate	1943-03-17
+ym147732	hasLabel	The Independent (film)
+ym147732	wasCreatedOnDate	2000-11-30
+ym147758	hasLabel	The Stoned Age
+ym147758	wasCreatedOnDate	1994-##-##
+ym147778	hasLabel	Tin Men
+ym147778	wasCreatedOnDate	1987-03-06
+ym147786	hasLabel	Let Him Have It
+ym147786	wasCreatedOnDate	191992-01-91
+ym147829	hasLabel	The Sorcerers
+ym147829	wasCreatedOnDate	1967-##-##
+ym147999	hasLabel	Pauly Shore Is Dead
+ym147999	wasCreatedOnDate	2004-10-01
+ym148010	hasLabel	Talk Radio (film)
+ym148010	wasCreatedOnDate	1988-12-21
+ym148017	hasLabel	Blue Moon (2002 film)
+ym148017	wasCreatedOnDate	2002-##-##
+ym148073	hasLabel	Pride & Prejudice (2005 film)
+ym148073	wasCreatedOnDate	2005-09-11
+ym148076	hasLabel	The Naked Truth (1957 film)
+ym148076	wasCreatedOnDate	1957-12-03
+ym148079	hasLabel	Ten Little Indians (1965 film)
+ym148079	wasCreatedOnDate	1965-##-##
+ym148132	hasLabel	Ghosts Can't Do It
+ym148132	wasCreatedOnDate	1990-06-01
+ym148197	hasLabel	Relic Hunter
+ym148197	wasCreatedOnDate	1999-##-##
+ym148212	hasLabel	Trash (film)
+ym148212	wasCreatedOnDate	1970-10-05
+ym148291	hasLabel	Still Crazy (film)
+ym148291	wasCreatedOnDate	1998-10-30
+ym148333	hasLabel	Flesh (film)
+ym148333	wasCreatedOnDate	1968-09-26
+ym148404	hasLabel	Rain (2001 film)
+ym148404	wasCreatedOnDate	2001-##-##
+ym148416	hasLabel	Women in Revolt
+ym148416	wasCreatedOnDate	1971-12-##
+ym148432	hasLabel	Fat Choi Spirit
+ym148432	wasCreatedOnDate	2002-##-##
+ym148439	hasLabel	Chimes at Midnight
+ym148439	wasCreatedOnDate	1965-12-22
+ym148447	hasLabel	Jarhead (film)
+ym148447	wasCreatedOnDate	2005-11-04
+ym148454	hasLabel	Dhoom 2
+ym148454	wasCreatedOnDate	2006-11-23
+ym148472	hasLabel	Kabhi Haan Kabhi Naa
+ym148472	wasCreatedOnDate	1993-##-##
+ym148510	hasLabel	When Trumpets Fade
+ym148510	wasCreatedOnDate	1998-##-##
+ym148553	hasLabel	Julius Caesar (1953 film)
+ym148553	wasCreatedOnDate	1953-06-04
+ym148613	hasLabel	Miami Vice (film)
+ym148613	wasCreatedOnDate	2006-07-28
+ym148620	hasLabel	American Pie (film)
+ym148620	wasCreatedOnDate	1999-07-09
+ym148709	hasLabel	The Drowning Pool (film)
+ym148709	wasCreatedOnDate	1975-##-##
+ym148763	hasLabel	Two for the Money (film)
+ym148763	wasCreatedOnDate	2005-10-07
+ym148803	hasLabel	Little Fish (film)
+ym148803	wasCreatedOnDate	2005-09-08
+ym148805	hasLabel	Poseidon (film)
+ym148805	wasCreatedOnDate	2006-05-12
+ym148814	hasLabel	Shooting the Past
+ym148814	wasCreatedOnDate	1999-##-##
+ym148878	hasLabel	Shadow Builder
+ym148878	wasCreatedOnDate	1998-##-##
+ym148950	hasLabel	Troll 2
+ym148950	wasCreatedOnDate	1990-10-03
+ym148951	hasLabel	Bolero (1984 film)
+ym148951	wasCreatedOnDate	1984-08-31
+ym148963	hasLabel	Birth of a Nation (1982 film)
+ym148963	wasCreatedOnDate	1982-##-##
+ym149011	hasLabel	Night Falls on Manhattan
+ym149011	wasCreatedOnDate	1997-05-16
+ym149056	hasLabel	Thiruda Thiruda
+ym149056	wasCreatedOnDate	1993-11-13
+ym149068	hasLabel	Man of the Century
+ym149068	wasCreatedOnDate	1999-10-29
+ym149085	hasLabel	Mr. Bill's Real Life Adventures
+ym149085	wasCreatedOnDate	1986-##-##
+ym149094	hasLabel	The Ghost Ship
+ym149094	wasCreatedOnDate	1943-12-24
+ym149099	hasLabel	Jumpin' Jack Flash (film)
+ym149099	wasCreatedOnDate	1986-10-10
+ym149112	hasLabel	Tales from the Hood
+ym149112	wasCreatedOnDate	1995-05-24
+ym149114	hasLabel	Love Object
+ym149114	wasCreatedOnDate	2004-05-07
+ym149134	hasLabel	Bruiser (film)
+ym149134	wasCreatedOnDate	2000-02-13
+ym149158	hasLabel	The Seventh Victim
+ym149158	wasCreatedOnDate	1943-08-21
+ym149218	hasLabel	In Dreams (film)
+ym149218	wasCreatedOnDate	1999-01-15
+ym149278	hasLabel	Love Comes Softly
+ym149278	wasCreatedOnDate	2003-04-13
+ym149318	hasLabel	Tank (film)
+ym149318	wasCreatedOnDate	1984-03-16
+ym149328	hasLabel	My First Mister
+ym149328	wasCreatedOnDate	2001-10-12
+ym149339	hasLabel	The Big Fix
+ym149339	wasCreatedOnDate	1978-##-##
+ym149350	hasLabel	Blown Away (1994 film)
+ym149350	wasCreatedOnDate	1994-07-01
+ym149353	hasLabel	A Nightmare on Elm Street
+ym149353	wasCreatedOnDate	1984-11-09
+ym149362	hasLabel	Bloody Sunday (TV film)
+ym149362	wasCreatedOnDate	2002-01-16
+ym149366	hasLabel	Vampyros Lesbos
+ym149366	wasCreatedOnDate	1971-07-15
+ym149397	hasLabel	The Boat on the Grass
+ym149397	wasCreatedOnDate	1971-04-16
+ym149420	hasLabel	The Monster (1994 film)
+ym149420	wasCreatedOnDate	1994-10-22
+ym149424	hasLabel	No Limit (1936 film)
+ym149424	wasCreatedOnDate	1936-03-23
+ym149435	hasLabel	Fanaa (film)
+ym149435	wasCreatedOnDate	2006-05-26
+ym149470	hasLabel	Chuck & Buck
+ym149470	wasCreatedOnDate	2000-01-21
+ym149514	hasLabel	Cracking Contraptions
+ym149514	wasCreatedOnDate	2002-10-15
+ym149541	hasLabel	Nora's Hair Salon
+ym149541	wasCreatedOnDate	2004-##-##
+ym149542	hasLabel	Prisoner of Honor
+ym149542	wasCreatedOnDate	1991-11-02
+ym149576	hasLabel	Rob Roy, the Highland Rogue
+ym149576	wasCreatedOnDate	1953-10-26
+ym149594	hasLabel	The Boys (1998 film)
+ym149594	wasCreatedOnDate	1998-05-07
+ym149596	hasLabel	A Chump at Oxford
+ym149596	wasCreatedOnDate	1940-02-16
+ym149617	hasLabel	Bleak House (2005 TV serial)
+ym149617	wasCreatedOnDate	2005-##-##
+ym149650	hasLabel	Neal 'n' Nikki
+ym149650	wasCreatedOnDate	2005-12-09
+ym149658	hasLabel	Scandal Sheet
+ym149658	wasCreatedOnDate	1952-01-16
+ym149672	hasLabel	Shattered (1991 film)
+ym149672	wasCreatedOnDate	1991-10-11
+ym149689	hasLabel	Gulliver's Travels (TV miniseries)
+ym149689	wasCreatedOnDate	1996-02-04
+ym149699	hasLabel	The Great Waldo Pepper
+ym149699	wasCreatedOnDate	1975-03-13
+ym149705	hasLabel	Zero Effect
+ym149705	wasCreatedOnDate	1998-01-30
+ym149729	hasLabel	The Body Snatcher (film)
+ym149729	wasCreatedOnDate	1945-05-25
+ym149732	hasLabel	Awara Paagal Deewana
+ym149732	wasCreatedOnDate	2002-06-21
+ym149745	hasLabel	Return to Paradise (1998 film)
+ym149745	wasCreatedOnDate	1998-08-10
+ym149758	hasLabel	The Phantom Empire
+ym149758	wasCreatedOnDate	1935-02-23
+ym149768	hasLabel	Going Places (1974 film)
+ym149768	wasCreatedOnDate	1974-03-20
+ym149771	hasLabel	Derailed (2002 film)
+ym149771	wasCreatedOnDate	2002-05-19
+ym149823	hasLabel	Moon over Parador
+ym149823	wasCreatedOnDate	1988-09-09
+ym149845	hasLabel	A Little Princess (1973 TV serial)
+ym149850	hasLabel	Lonesome Cowboys (1968 film)
+ym149850	wasCreatedOnDate	1968-12-20
+ym149879	hasLabel	The Man Who Loved Women (1977 film)
+ym149879	wasCreatedOnDate	1977-04-27
+ym149891	hasLabel	Zwei Frauen
+ym149891	wasCreatedOnDate	1989-##-##
+ym149952	hasLabel	Chelsea Girls
+ym149952	wasCreatedOnDate	1966-09-15
+ym149963	hasLabel	Udayon
+ym149963	wasCreatedOnDate	2005-##-##
+ym149990	hasLabel	Danger!! Death Ray
+ym149990	wasCreatedOnDate	1967-01-28
+ym150003	hasLabel	Love Don't Cost a Thing (film)
+ym150003	wasCreatedOnDate	2003-12-12
+ym150026	hasLabel	Major League II
+ym150026	wasCreatedOnDate	1994-03-30
+ym150045	hasLabel	Mystery Train (film)
+ym150045	wasCreatedOnDate	1989-05-13
+ym150098	hasLabel	You So Crazy
+ym150098	wasCreatedOnDate	1994-04-27
+ym150110	hasLabel	Inserts (film)
+ym150110	wasCreatedOnDate	1974-##-##
+ym150112	hasLabel	Houston, We've Got a Problem
+ym150112	wasCreatedOnDate	1974-##-##
+ym150120	hasLabel	Thirteen Conversations About One Thing
+ym150120	wasCreatedOnDate	2002-05-24
+ym150169	hasLabel	A Good Lawyer's Wife
+ym150169	wasCreatedOnDate	2003-08-14
+ym150201	hasLabel	While the City Sleeps (1956 film)
+ym150201	wasCreatedOnDate	1956-05-16
+ym150210	hasLabel	A Time to Kill (film)
+ym150210	wasCreatedOnDate	1996-07-24
+ym150242	hasLabel	Platinum Blonde (film)
+ym150242	wasCreatedOnDate	1931-10-31
+ym150250	hasLabel	Zathura (film)
+ym150250	wasCreatedOnDate	2005-11-11
+ym150269	hasLabel	Blood for Dracula
+ym150269	wasCreatedOnDate	1974-03-01
+ym150270	hasLabel	Andy Warhol's Frankenstein
+ym150270	wasCreatedOnDate	1974-03-17
+ym150281	hasLabel	Diary of a Chambermaid (1964 film)
+ym150281	wasCreatedOnDate	1964-03-04
+ym150296	hasLabel	Il Posto
+ym150296	wasCreatedOnDate	1963-10-22
+ym150336	hasLabel	Coming Soon (1999 film)
+ym150336	wasCreatedOnDate	2000-05-12
+ym150339	hasLabel	American Dreamz
+ym150339	wasCreatedOnDate	2006-04-21
+ym150347	hasLabel	Talk to Me (1996 film)
+ym150347	wasCreatedOnDate	1996-10-20
+ym150437	hasLabel	Time to Leave
+ym150437	wasCreatedOnDate	2006-##-##
+ym150452	hasLabel	The Coast Guard (film)
+ym150452	wasCreatedOnDate	2002-11-22
+ym150475	hasLabel	I, a Man
+ym150475	wasCreatedOnDate	1967-08-24
+ym150504	hasLabel	Address Unknown (2001 film)
+ym150504	wasCreatedOnDate	2001-06-02
+ym150528	hasLabel	Revenge of the Creature
+ym150528	wasCreatedOnDate	1955-05-11
+ym150548	hasLabel	The Master (TV series)
+ym150548	wasCreatedOnDate	1984-##-##
+ym150577	hasLabel	The Creature Walks Among Us
+ym150577	wasCreatedOnDate	1956-04-26
+ym150602	hasLabel	Dreamgirls (film)
+ym150602	wasCreatedOnDate	2006-12-15
+ym150626	hasLabel	It's in the Air
+ym150626	wasCreatedOnDate	1938-##-##
+ym150634	hasLabel	Elevator to the Gallows
+ym150634	wasCreatedOnDate	1958-01-29
+ym150636	hasLabel	World Trade Center (film)
+ym150636	wasCreatedOnDate	2006-08-09
+ym150658	hasLabel	Bandolero!
+ym150658	wasCreatedOnDate	1968-06-01
+ym150785	hasLabel	The Great Debaters
+ym150785	wasCreatedOnDate	2007-12-25
+ym150816	hasLabel	Failure to Launch
+ym150816	wasCreatedOnDate	2006-03-10
+ym150878	hasLabel	RV (film)
+ym150878	wasCreatedOnDate	2006-04-28
+ym150958	hasLabel	Hell Night
+ym150958	wasCreatedOnDate	1981-08-28
+ym150960	hasLabel	The Trial (1962 film)
+ym150960	wasCreatedOnDate	1962-12-21
+ym150984	hasLabel	Providence (1977 film)
+ym150984	wasCreatedOnDate	1977-01-25
+ym151075	hasLabel	The Rare Breed
+ym151075	wasCreatedOnDate	1966-02-02
+ym151076	hasLabel	Night at the Museum
+ym151076	wasCreatedOnDate	2006-12-22
+ym151079	hasLabel	Out 1
+ym151079	wasCreatedOnDate	1971-10-09
+ym151127	hasLabel	About a Boy (film)
+ym151127	wasCreatedOnDate	2002-04-26
+ym151255	hasLabel	Winner (film)
+ym151255	wasCreatedOnDate	2003-09-27
+ym151305	hasLabel	Scummy Man
+ym151305	wasCreatedOnDate	2006-04-10
+ym151321	hasLabel	Nuts (film)
+ym151321	wasCreatedOnDate	1987-11-20
+ym151333	hasLabel	Miles from Home
+ym151333	wasCreatedOnDate	1988-09-12
+ym151339	hasLabel	Blood on Satan's Claw
+ym151339	wasCreatedOnDate	1971-##-##
+ym151345	hasLabel	Madison (film)
+ym151345	wasCreatedOnDate	2005-04-22
+ym151365	hasLabel	The Wrong Guy
+ym151365	wasCreatedOnDate	1997-08-01
+ym151369	hasLabel	Bait (film)
+ym151369	wasCreatedOnDate	2000-09-15
+ym151380	hasLabel	Gate of Hell (film)
+ym151380	wasCreatedOnDate	1953-10-31
+ym151392	hasLabel	Rally 'Round the Flag, Boys!
+ym151392	wasCreatedOnDate	1958-12-23
+ym151440	hasLabel	The Woman Next Door
+ym151440	wasCreatedOnDate	1981-##-##
+ym151443	hasLabel	Born on the Fourth of July (film)
+ym151443	wasCreatedOnDate	1989-12-20
+ym151473	hasLabel	How to Eat Fried Worms (film)
+ym151473	wasCreatedOnDate	2006-08-25
+ym151484	hasLabel	All the King's Men (1949 film)
+ym151484	wasCreatedOnDate	1949-11-08
+ym151539	hasLabel	We Are Marshall
+ym151539	wasCreatedOnDate	2006-12-22
+ym151545	hasLabel	Kabul Express
+ym151545	wasCreatedOnDate	2006-12-15
+ym151551	hasLabel	While I Was Gone (film)
+ym151551	wasCreatedOnDate	2004-##-##
+ym151559	hasLabel	The Mummy's Shroud
+ym151559	wasCreatedOnDate	1967-##-##
+ym151610	hasLabel	Portland Street Blues
+ym151610	wasCreatedOnDate	1998-02-21
+ym151614	hasLabel	Those Were the Days... (2000 film)
+ym151614	wasCreatedOnDate	2000-##-##
+ym151646	hasLabel	Raam (2005 film)
+ym151646	wasCreatedOnDate	2005-01-12
+ym151663	hasLabel	Aethiree
+ym151663	wasCreatedOnDate	2004-04-##
+ym151678	hasLabel	Disorganized Crime
+ym151678	wasCreatedOnDate	1989-04-14
+ym151691	hasLabel	Pretend You Don't See Her (film)
+ym151691	wasCreatedOnDate	2002-01-12
+ym151692	hasLabel	Danger Beneath the Sea
+ym151692	wasCreatedOnDate	2001-11-29
+ym151710	hasLabel	Pierrepoint (film)
+ym151710	wasCreatedOnDate	2005-09-12
+ym151718	hasLabel	Garm Hava
+ym151718	wasCreatedOnDate	1973-##-##
+ym151729	hasLabel	The Phantom Tollbooth (film)
+ym151729	wasCreatedOnDate	1970-11-07
+ym151743	hasLabel	Distant Lights
+ym151743	wasCreatedOnDate	2003-07-31
+ym151747	hasLabel	Bituing Walang Ningning
+ym151747	wasCreatedOnDate	2006-05-##
+ym151755	hasLabel	Imitation of Life (1959 film)
+ym151755	wasCreatedOnDate	1959-04-17
+ym151820	hasLabel	A Summer Place (film)
+ym151820	wasCreatedOnDate	1959-##-##
+ym151824	hasLabel	Tarantula (film)
+ym151824	wasCreatedOnDate	1955-12-14
+ym151845	hasLabel	A Time for Miracles
+ym151845	wasCreatedOnDate	1980-12-21
+ym151848	hasLabel	The Long, Hot Summer
+ym151848	wasCreatedOnDate	1958-##-##
+ym151849	hasLabel	Someone to Love (film)
+ym151849	wasCreatedOnDate	1987-##-##
+ym151858	hasLabel	The Reptile
+ym151858	wasCreatedOnDate	1966-##-##
+ym151875	hasLabel	A Man for All Seasons (1988 film)
+ym151875	wasCreatedOnDate	1988-12-##
+ym151897	hasLabel	Red (2002 film)
+ym151897	wasCreatedOnDate	2002-01-##
+ym151907	hasLabel	Krippendorf's Tribe
+ym151907	wasCreatedOnDate	1998-02-27
+ym151915	hasLabel	Little Manhattan
+ym151915	wasCreatedOnDate	2005-##-##
+ym151930	hasLabel	Omar Khayyam (film)
+ym151930	wasCreatedOnDate	1957-08-23
+ym151932	hasLabel	Nandha
+ym151932	wasCreatedOnDate	2001-11-14
+ym151938	hasLabel	Is There Life Out There?
+ym151938	wasCreatedOnDate	1994-10-09
+ym151946	hasLabel	Twins of Evil
+ym151946	wasCreatedOnDate	1971-##-##
+ym151960	hasLabel	Roger Dodger (film)
+ym151960	wasCreatedOnDate	2002-05-09
+ym151970	hasLabel	The Bellboy
+ym151970	wasCreatedOnDate	1960-07-20
+ym152055	hasLabel	Daens (film)
+ym152055	wasCreatedOnDate	1992-02-25
+ym152065	hasLabel	Salome's Last Dance
+ym152065	wasCreatedOnDate	1988-##-##
+ym152118	hasLabel	The Other Woman (film)
+ym152118	wasCreatedOnDate	1995-03-26
+ym152131	hasLabel	Vacuuming Completely Nude in Paradise
+ym152131	wasCreatedOnDate	2001-##-##
+ym152140	hasLabel	The Last Metro
+ym152140	wasCreatedOnDate	1980-09-17
+ym152151	hasLabel	Bean (film)
+ym152151	wasCreatedOnDate	1997-07-03
+ym152167	hasLabel	Why Me? (1990 film)
+ym152167	wasCreatedOnDate	1990-04-20
+ym152199	hasLabel	Switchback (film)
+ym152199	wasCreatedOnDate	1997-10-31
+ym152201	hasLabel	Vacancy (film)
+ym152201	wasCreatedOnDate	2007-04-20
+ym152242	hasLabel	Fairy Idol
+ym152242	wasCreatedOnDate	2006-05-19
+ym152253	hasLabel	Puff, Puff, Pass
+ym152253	wasCreatedOnDate	2006-##-##
+ym152259	hasLabel	Enchanted (film)
+ym152259	wasCreatedOnDate	2007-11-21
+ym152301	hasLabel	Fantasy Mission Force
+ym152301	wasCreatedOnDate	1983-02-13
+ym152305	hasLabel	Laurence Olivier Presents
+ym152332	hasLabel	Knock on Any Door
+ym152332	wasCreatedOnDate	1949-02-22
+ym152335	hasLabel	Happy (film)
+ym152335	wasCreatedOnDate	2006-01-27
+ym152349	hasLabel	Married Life (film)
+ym152349	wasCreatedOnDate	2007-09-12
+ym152359	hasLabel	Vallavan
+ym152359	wasCreatedOnDate	2006-10-23
+ym152378	hasLabel	David Copperfield (2000 film)
+ym152378	wasCreatedOnDate	2000-12-10
+ym152404	hasLabel	The Gingerdead Man
+ym152404	wasCreatedOnDate	2005-11-08
+ym152431	hasLabel	Blades of Glory
+ym152431	wasCreatedOnDate	2007-03-30
+ym152445	hasLabel	The Ultimate Gift
+ym152445	wasCreatedOnDate	2006-##-##
+ym152469	hasLabel	Pudhupettai
+ym152469	wasCreatedOnDate	2006-05-26
+ym152477	hasLabel	Monsieur Klein
+ym152477	wasCreatedOnDate	1976-10-27
+ym152542	hasLabel	Yanks
+ym152542	wasCreatedOnDate	1979-##-##
+ym152574	hasLabel	Gas-s-s-s
+ym152574	wasCreatedOnDate	1971-##-##
+ym152608	hasLabel	A Night in the Life of Jimmy Reardon
+ym152608	wasCreatedOnDate	1988-##-##
+ym152655	hasLabel	The Lives of Others
+ym152655	wasCreatedOnDate	2006-03-23
+ym152679	hasLabel	The Charge of the Light Brigade (1968 film)
+ym152679	wasCreatedOnDate	1968-04-11
+ym152696	hasLabel	Saps at Sea
+ym152696	wasCreatedOnDate	1940-05-03
+ym152725	hasLabel	Going Berserk
+ym152725	wasCreatedOnDate	1983-10-28
+ym152728	hasLabel	The Tale of the Fox
+ym152728	wasCreatedOnDate	1937-04-10
+ym152738	hasLabel	It Runs in the Family (2003 film)
+ym152738	wasCreatedOnDate	2003-04-25
+ym152784	hasLabel	Keeping Up with the Steins
+ym152784	wasCreatedOnDate	2006-05-12
+ym152797	hasLabel	Civil Brand
+ym152797	wasCreatedOnDate	2002-05-26
+ym152860	hasLabel	Mounam Pesiyadhe
+ym152860	wasCreatedOnDate	2002-12-14
+ym152905	hasLabel	Milenge Milenge
+ym152905	wasCreatedOnDate	2010-07-09
+ym152917	hasLabel	Ace Drummond (serial)
+ym152917	wasCreatedOnDate	1936-##-##
+ym152956	hasLabel	If Lucy Fell
+ym152956	wasCreatedOnDate	1996-03-08
+ym153003	hasLabel	Air Raid Wardens
+ym153003	wasCreatedOnDate	1943-04-30
+ym153016	hasLabel	To Die For (1989 film)
+ym153016	wasCreatedOnDate	1989-##-##
+ym153063	hasLabel	The Hand (film)
+ym153063	wasCreatedOnDate	1981-##-##
+ym153069	hasLabel	Ta Ra Rum Pum
+ym153069	wasCreatedOnDate	2007-04-27
+ym153105	hasLabel	Shade (film)
+ym153105	wasCreatedOnDate	2003-06-21
+ym153150	hasLabel	Bala (2002 film)
+ym153150	wasCreatedOnDate	2002-12-13
+ym153154	hasLabel	The Tiger of Eschnapur (1959 film)
+ym153154	wasCreatedOnDate	1959-01-22
+ym153169	hasLabel	Four's a Crowd
+ym153169	wasCreatedOnDate	1938-08-04
+ym153177	hasLabel	Victory at Entebbe
+ym153177	wasCreatedOnDate	1976-12-13
+ym153205	hasLabel	The Scarlet Blade
+ym153205	wasCreatedOnDate	1963-##-##
+ym153252	hasLabel	The Kingdom (film)
+ym153252	wasCreatedOnDate	2007-08-22
+ym153256	hasLabel	3 Strikes (film)
+ym153256	wasCreatedOnDate	2000-03-01
+ym153265	hasLabel	Octane (film)
+ym153265	wasCreatedOnDate	2003-##-##
+ym153316	hasLabel	Tovarich (film)
+ym153316	wasCreatedOnDate	1937-12-25
+ym153334	hasLabel	Margin for Error
+ym153334	wasCreatedOnDate	1943-02-10
+ym153361	hasLabel	Blackout Effect
+ym153361	wasCreatedOnDate	1998-01-04
+ym153387	hasLabel	Fantaghirò series
+ym153387	wasCreatedOnDate	1991-##-##
+ym153391	hasLabel	The Magic Cloak of Oz
+ym153391	wasCreatedOnDate	1914-09-28
+ym153397	hasLabel	I Love You, I Love You Not
+ym153397	wasCreatedOnDate	1996-04-28
+ym153464	hasLabel	The Brotherhood of the Bell
+ym153464	wasCreatedOnDate	1970-09-17
+ym153534	hasLabel	A Man Could Get Killed
+ym153534	wasCreatedOnDate	1966-03-25
+ym153553	hasLabel	Black Eagle (film)
+ym153553	wasCreatedOnDate	1988-05-19
+ym153657	hasLabel	Prison (1988 film)
+ym153657	wasCreatedOnDate	1988-03-04
+ym153700	hasLabel	Atom Man vs. Superman
+ym153700	wasCreatedOnDate	1950-07-20
+ym153702	hasLabel	Less Than Zero (film)
+ym153702	wasCreatedOnDate	1987-11-06
+ym153719	hasLabel	The Competition (film)
+ym153719	wasCreatedOnDate	1980-12-03
+ym153723	hasLabel	Hot Pursuit (film)
+ym153723	wasCreatedOnDate	1987-05-08
+ym153784	hasLabel	Superman (serial)
+ym153784	wasCreatedOnDate	1948-01-05
+ym153807	hasLabel	A Midsummer Night's Dream (1999 film)
+ym153807	wasCreatedOnDate	1999-04-26
+ym153813	hasLabel	Tiptoes
+ym153813	wasCreatedOnDate	2003-09-08
+ym153815	hasLabel	Mademoiselle Fifi (film)
+ym153815	wasCreatedOnDate	1944-##-##
+ym153839	hasLabel	Stariki-razboyniki
+ym153839	wasCreatedOnDate	1971-##-##
+ym153854	hasLabel	The Egyptian (film)
+ym153854	wasCreatedOnDate	1954-08-24
+ym153901	hasLabel	Jules Verne's Rocket to the Moon
+ym153901	wasCreatedOnDate	1967-##-##
+ym153904	hasLabel	Flirt (film)
+ym153904	wasCreatedOnDate	1996-08-07
+ym153940	hasLabel	Orion's Belt (film)
+ym153940	wasCreatedOnDate	1985-##-##
+ym153944	hasLabel	The Crew (2000 film)
+ym153944	wasCreatedOnDate	2000-08-25
+ym153949	hasLabel	Who Is Cletis Tout?
+ym153949	wasCreatedOnDate	2001-09-12
+ym153957	hasLabel	The Yellow Rolls-Royce
+ym153957	wasCreatedOnDate	1964-##-##
+ym153969	hasLabel	Schatten – Eine nächtliche Halluzination
+ym153969	wasCreatedOnDate	1923-##-##
+ym153986	hasLabel	Jekyll (TV series)
+ym154021	hasLabel	Vanaja (film)
+ym154021	wasCreatedOnDate	2006-09-11
+ym154079	hasLabel	Bad Blood (1981 film)
+ym154079	wasCreatedOnDate	1981-##-##
+ym154084	hasLabel	Thimiru
+ym154084	wasCreatedOnDate	2006-08-12
+ym154095	hasLabel	Thaamirabharani
+ym154095	wasCreatedOnDate	2007-01-14
+ym154115	hasLabel	Passage to Marseille
+ym154115	wasCreatedOnDate	1944-02-16
+ym154121	hasLabel	Hitman (1998 film)
+ym154121	wasCreatedOnDate	1998-##-##
+ym154131	hasLabel	Kalvanin Kadhali
+ym154131	wasCreatedOnDate	2005-11-29
+ym154146	hasLabel	The Stooge
+ym154146	wasCreatedOnDate	1952-12-31
+ym154163	hasLabel	Highway to Hell (film)
+ym154163	wasCreatedOnDate	1992-03-13
+ym154224	hasLabel	Kedi (2006 film)
+ym154224	wasCreatedOnDate	2006-09-24
+ym154230	hasLabel	Julius Caesar (1970 film)
+ym154230	wasCreatedOnDate	1970-06-04
+ym154244	hasLabel	The Haunted Palace
+ym154244	wasCreatedOnDate	1963-##-##
+ym154252	hasLabel	Chak De! India
+ym154252	wasCreatedOnDate	2007-08-10
+ym154299	hasLabel	A Big Hand for the Little Lady
+ym154299	wasCreatedOnDate	1966-##-##
+ym154302	hasLabel	Keroro Gunsō the Super Movie
+ym154302	wasCreatedOnDate	2006-03-01
+ym154334	hasLabel	Poovellam Kettuppar
+ym154334	wasCreatedOnDate	1999-08-06
+ym154344	hasLabel	Nightmare in the Sun
+ym154344	wasCreatedOnDate	1965-03-06
+ym154347	hasLabel	La Notte
+ym154347	wasCreatedOnDate	1961-01-24
+ym154357	hasLabel	The Lovers (film)
+ym154357	wasCreatedOnDate	1959-10-26
+ym154374	hasLabel	A Private Function
+ym154374	wasCreatedOnDate	1984-11-##
+ym154395	hasLabel	Your Friends & Neighbors
+ym154395	wasCreatedOnDate	1998-08-19
+ym154407	hasLabel	The Old Maid (1939 film)
+ym154407	wasCreatedOnDate	1939-08-16
+ym154426	hasLabel	Heat (1972 film)
+ym154426	wasCreatedOnDate	1972-10-06
+ym154428	hasLabel	Days of Glory (1944 film)
+ym154428	wasCreatedOnDate	1944-06-08
+ym154469	hasLabel	A New Kind of Love
+ym154469	wasCreatedOnDate	1963-10-30
+ym154474	hasLabel	The Prime Minister (film)
+ym154474	wasCreatedOnDate	1941-05-03
+ym154508	hasLabel	I'll Be Seeing You (1944 film)
+ym154508	wasCreatedOnDate	1945-01-05
+ym154519	hasFamilyName	Hobo
+ym154519	hasGivenName	The
+ym154519	hasLabel	The Billion Dollar Hobo
+ym154519	wasCreatedOnDate	1977-11-##
+ym154555	hasLabel	Ringmaster (film)
+ym154555	wasCreatedOnDate	1998-11-25
+ym154582	hasLabel	The Story of Three Loves
+ym154582	wasCreatedOnDate	1953-03-26
+ym154583	hasLabel	The Lucky Guy
+ym154583	wasCreatedOnDate	1998-##-##
+ym154605	hasLabel	Aadavari Matalaku Ardhalu Verule
+ym154605	wasCreatedOnDate	2008-04-27
+ym154667	hasLabel	Curse of the Puppet Master
+ym154667	wasCreatedOnDate	1998-05-26
+ym154687	hasLabel	Daddy Day Camp
+ym154687	wasCreatedOnDate	2007-08-08
+ym154723	hasLabel	Prince of Players
+ym154723	wasCreatedOnDate	1955-01-11
+ym154726	hasLabel	Smoking/No Smoking
+ym154726	wasCreatedOnDate	1993-##-##
+ym154821	hasLabel	Unpublished Story
+ym154821	wasCreatedOnDate	1942-08-10
+ym154877	hasLabel	The Boy Who Cried Werewolf
+ym154877	wasCreatedOnDate	1973-##-##
+ym154988	hasLabel	Tears (film)
+ym154988	wasCreatedOnDate	2000-##-##
+ym155049	hasLabel	Variety Girl
+ym155049	wasCreatedOnDate	1947-08-24
+ym155102	hasLabel	Doing Time on Maple Drive
+ym155102	wasCreatedOnDate	1992-##-##
+ym155147	hasLabel	Family Ties (film)
+ym155147	wasCreatedOnDate	2006-05-18
+ym155176	hasLabel	Godfather (1991 film)
+ym155176	wasCreatedOnDate	1991-##-##
+ym155212	hasLabel	Freaky Friday (1995 film)
+ym155212	wasCreatedOnDate	1995-##-##
+ym155222	hasLabel	Come September
+ym155222	wasCreatedOnDate	1961-08-09
+ym155240	hasLabel	Daas
+ym155240	wasCreatedOnDate	2005-04-21
+ym155249	hasLabel	The River's Edge
+ym155249	wasCreatedOnDate	1957-04-11
+ym155268	hasLabel	The Shooting Party
+ym155268	wasCreatedOnDate	1985-##-##
+ym155304	hasLabel	Harry Potter (film series)
+ym155304	wasCreatedOnDate	2001-11-04
+ym155354	hasLabel	My Life in Ruins
+ym155354	wasCreatedOnDate	2009-05-07
+ym155462	hasLabel	Crisis at Central High
+ym155462	wasCreatedOnDate	1981-02-04
+ym155513	hasLabel	Wildflowers (film)
+ym155513	wasCreatedOnDate	1999-05-15
+ym155522	hasLabel	Becket (film)
+ym155522	wasCreatedOnDate	1964-03-11
+ym155529	hasLabel	Miss Firecracker
+ym155529	wasCreatedOnDate	1989-04-28
+ym155549	hasLabel	Bridge to Terabithia (2007 film)
+ym155549	wasCreatedOnDate	2007-02-16
+ym155583	hasLabel	Gopi – Goda Meedha Pilli
+ym155583	wasCreatedOnDate	2006-11-16
+ym155585	hasLabel	Allare Allari
+ym155585	wasCreatedOnDate	2006-12-20
+ym155605	hasLabel	Camping Cosmos
+ym155605	wasCreatedOnDate	1996-##-##
+ym155619	hasLabel	Alphabet City (film)
+ym155619	wasCreatedOnDate	1984-05-04
+ym155686	hasLabel	Black Swans
+ym155686	wasCreatedOnDate	2005-07-14
+ym155738	hasLabel	Rogues of Sherwood Forest
+ym155738	wasCreatedOnDate	1950-##-##
+ym155756	hasLabel	Camille (1984 film)
+ym155756	wasCreatedOnDate	1984-12-11
+ym155833	hasLabel	Agentti 000 ja kuoleman kurvit
+ym155833	wasCreatedOnDate	1983-09-16
+ym155845	hasLabel	Who's Minding the Mint?
+ym155845	wasCreatedOnDate	1967-09-26
+ym155861	hasLabel	Run Fatboy Run
+ym155861	wasCreatedOnDate	2007-09-07
+ym155862	hasLabel	Raam (2006 film)
+ym155862	wasCreatedOnDate	2006-03-30
+ym155869	hasLabel	A Guide for the Married Man
+ym155869	wasCreatedOnDate	1967-05-25
+ym155875	hasLabel	Renegades (1989 film)
+ym155875	wasCreatedOnDate	1989-06-02
+ym155935	hasLabel	What's Good for the Goose
+ym155935	wasCreatedOnDate	1969-##-##
+ym155994	hasLabel	The James Brothers of Missouri
+ym155994	wasCreatedOnDate	1949-08-31
+ym156008	hasLabel	Government Agents vs. Phantom Legion
+ym156008	wasCreatedOnDate	1951-07-04
+ym156023	hasLabel	Les Contrebandières
+ym156023	wasCreatedOnDate	1969-04-20
+ym156058	hasLabel	Billa (2007 film)
+ym156058	wasCreatedOnDate	2007-12-14
+ym156065	hasLabel	Becoming Dick
+ym156065	wasCreatedOnDate	2000-08-31
+ym156085	hasLabel	O. Henry's Full House
+ym156085	wasCreatedOnDate	1952-09-19
+ym156267	hasLabel	Pinocchio (2002 film)
+ym156267	wasCreatedOnDate	2002-10-11
+ym156278	hasLabel	Jackboots on Whitehall
+ym156278	wasCreatedOnDate	2010-10-08
+ym156299	hasLabel	Jackpot (2001 film)
+ym156299	wasCreatedOnDate	2001-##-##
+ym156328	hasLabel	The Night Before Christmas (1913 film)
+ym156328	wasCreatedOnDate	1913-12-26
+ym156375	hasLabel	The Purple Heart
+ym156375	wasCreatedOnDate	1944-02-##
+ym156395	hasLabel	Three Violent People
+ym156395	wasCreatedOnDate	1957-02-09
+ym156404	hasLabel	The Fire Within
+ym156404	wasCreatedOnDate	1963-10-15
+ym156429	hasLabel	Stamp Day for Superman
+ym156429	wasCreatedOnDate	1954-##-##
+ym156471	hasLabel	Kasal, Kasali, Kasalo
+ym156471	wasCreatedOnDate	2006-12-25
+ym156517	hasLabel	Disengagement (film)
+ym156517	wasCreatedOnDate	2007-09-07
+ym156545	hasLabel	Haunted (1995 film)
+ym156545	wasCreatedOnDate	1995-##-##
+ym156616	hasLabel	Our Daily Bread (1934 film)
+ym156616	wasCreatedOnDate	1934-08-01
+ym156677	hasLabel	Abschied
+ym156677	wasCreatedOnDate	1930-08-25
+ym156838	hasLabel	Priest of Love
+ym156838	wasCreatedOnDate	1981-10-11
+ym156849	hasLabel	Take Her, She's Mine
+ym156849	wasCreatedOnDate	1963-##-##
+ym156866	hasLabel	Ladybug Ladybug (film)
+ym156866	wasCreatedOnDate	1963-12-23
+ym156916	hasLabel	Atlas Shrugged (film)
+ym156916	wasCreatedOnDate	2011-##-##
+ym156951	hasLabel	The Invisible Boy
+ym156951	wasCreatedOnDate	1958-01-01
+ym156973	hasLabel	Stone Cold (1991 film)
+ym156973	wasCreatedOnDate	1991-05-17
+ym156988	hasLabel	The Good Father
+ym156988	wasCreatedOnDate	1985-11-##
+ym156990	hasLabel	Hello Again (film)
+ym156990	wasCreatedOnDate	1987-11-06
+ym157055	hasLabel	No Man of Her Own (1932 film)
+ym157055	wasCreatedOnDate	1932-12-15
+ym157199	hasLabel	This Is England
+ym157199	wasCreatedOnDate	2007-04-27
+ym157249	hasLabel	Constellation (film)
+ym157249	wasCreatedOnDate	2007-02-02
+ym157286	hasLabel	Forgetting Sarah Marshall
+ym157286	wasCreatedOnDate	2008-04-18
+ym157316	hasLabel	Whisky Galore! (film)
+ym157316	wasCreatedOnDate	1949-##-##
+ym157329	hasLabel	Shadow Run (film)
+ym157329	wasCreatedOnDate	1998-##-##
+ym157340	hasLabel	Bedlam (film)
+ym157340	wasCreatedOnDate	1946-05-10
+ym157359	hasLabel	Scenes of a Sexual Nature
+ym157359	wasCreatedOnDate	2006-11-03
+ym157368	hasLabel	Heidi's Song
+ym157368	wasCreatedOnDate	1982-##-##
+ym157374	hasLabel	Sixty Million Dollar Man
+ym157374	wasCreatedOnDate	1995-##-##
+ym157390	hasLabel	Two Flags West
+ym157390	wasCreatedOnDate	1950-10-14
+ym157547	hasLabel	Cover Me (film)
+ym157547	wasCreatedOnDate	1995-##-##
+ym157580	hasLabel	Kannamoochi Yenada
+ym157580	wasCreatedOnDate	2007-11-08
+ym157623	hasLabel	The Man in the Iron Mask (1977 film)
+ym157623	wasCreatedOnDate	1977-01-17
+ym157633	hasLabel	One Day in the Life of Ivan Denisovich (film)
+ym157633	wasCreatedOnDate	1970-##-##
+ym157644	hasLabel	Viva Maria!
+ym157644	wasCreatedOnDate	1965-##-##
+ym157647	hasLabel	Dead & Buried
+ym157647	wasCreatedOnDate	1981-05-29
+ym157683	hasLabel	Journey to the Center of the Earth (2008 film)
+ym157683	wasCreatedOnDate	2008-07-11
+ym157690	hasLabel	Next of Kin (1989 film)
+ym157690	wasCreatedOnDate	1989-10-20
+ym157693	hasLabel	Fighting with Kit Carson
+ym157693	wasCreatedOnDate	1933-##-##
+ym157774	hasLabel	Roadside Romeo
+ym157774	wasCreatedOnDate	2008-10-23
+ym157875	hasLabel	Lansky (film)
+ym157875	wasCreatedOnDate	1999-02-27
+ym157981	hasLabel	A Diary for Timothy
+ym157981	wasCreatedOnDate	1946-12-27
+ym158036	hasLabel	Les Anges Exterminateurs
+ym158036	wasCreatedOnDate	2006-05-20
+ym158088	hasLabel	Elvis (TV miniseries)
+ym158147	hasLabel	The Hound of the Baskervilles (1978 film)
+ym158147	wasCreatedOnDate	1978-##-##
+ym158165	hasLabel	Firehouse Dog
+ym158165	wasCreatedOnDate	2007-04-04
+ym158172	hasLabel	AERA! AERA! AERA!
+ym158172	wasCreatedOnDate	1972-##-##
+ym158202	hasLabel	Rosencrantz & Guildenstern Are Dead (film)
+ym158202	wasCreatedOnDate	1991-02-08
+ym158231	hasLabel	Mukhsin
+ym158231	wasCreatedOnDate	2007-03-08
+ym158248	hasLabel	Yaaradi Nee Mohini
+ym158248	wasCreatedOnDate	2008-04-04
+ym158286	hasLabel	The Wisdom of Crocodiles
+ym158286	wasCreatedOnDate	1998-11-27
+ym158288	hasLabel	Isle of the Dead (film)
+ym158288	wasCreatedOnDate	1945-09-01
+ym158294	hasLabel	The Adventures of Hajji Baba
+ym158294	wasCreatedOnDate	1954-10-01
+ym158309	hasLabel	The Children of Huang Shi
+ym158309	wasCreatedOnDate	2008-04-03
+ym158316	hasLabel	The Reivers (film)
+ym158316	wasCreatedOnDate	1969-##-##
+ym158329	hasLabel	Tin Man (TV miniseries)
+ym158329	wasCreatedOnDate	2007-##-##
+ym158332	hasLabel	Welcome, or No Trespassing
+ym158332	wasCreatedOnDate	1964-##-##
+ym158364	hasLabel	Once Before I Die
+ym158364	wasCreatedOnDate	1966-12-##
+ym158461	hasLabel	Black Scorpion (film)
+ym158461	wasCreatedOnDate	1995-08-12
+ym158550	hasLabel	Manon (film)
+ym158550	wasCreatedOnDate	1949-03-09
+ym158552	hasLabel	Ankhiyon Ke Jharokhon Se
+ym158552	wasCreatedOnDate	1978-##-##
+ym158575	hasLabel	Strawberry Fields (1997 film)
+ym158575	wasCreatedOnDate	1997-##-##
+ym158584	hasLabel	Fragments (film)
+ym158584	wasCreatedOnDate	2008-06-24
+ym158615	hasLabel	Wedding Daze
+ym158615	wasCreatedOnDate	2006-09-10
+ym158638	hasLabel	Ouija (film)
+ym158638	wasCreatedOnDate	2007-07-25
+ym158647	hasLabel	The Waiting Game (film)
+ym158647	wasCreatedOnDate	1999-##-##
+ym158656	hasLabel	Ivor the Invisible
+ym158656	wasCreatedOnDate	2001-12-24
+ym158773	hasLabel	The Duel (film)
+ym158773	wasCreatedOnDate	2000-02-03
+ym158787	hasLabel	Geet Gaata Chal
+ym158787	wasCreatedOnDate	1975-##-##
+ym158916	hasLabel	A Place of One's Own
+ym158916	wasCreatedOnDate	1943-05-28
+ym158930	hasLabel	Senso (film)
+ym158930	wasCreatedOnDate	1954-12-30
+ym158984	hasLabel	Listen to Me
+ym158984	wasCreatedOnDate	1989-05-05
+ym159021	hasLabel	The Victors (film)
+ym159021	wasCreatedOnDate	1963-##-##
+ym159079	hasLabel	Maundy Thursday (film)
+ym159079	wasCreatedOnDate	2006-09-14
+ym159175	hasLabel	Eva (1962 film)
+ym159175	wasCreatedOnDate	1962-##-##
+ym159235	hasLabel	Iron Sky
+ym159293	hasLabel	Johnny Stecchino
+ym159293	wasCreatedOnDate	1991-10-24
+ym159351	hasLabel	College Girl
+ym159351	wasCreatedOnDate	1978-##-##
+ym159432	hasLabel	Dutch Girls
+ym159432	wasCreatedOnDate	1985-##-##
+ym159557	hasLabel	Fantaghirò 2
+ym159557	wasCreatedOnDate	1992-##-##
+ym159558	hasLabel	Fantaghirò 4
+ym159558	wasCreatedOnDate	1994-##-##
+ym159559	hasLabel	Fantaghirò 3
+ym159559	wasCreatedOnDate	1993-##-##
+ym159560	hasLabel	Fantaghirò
+ym159560	wasCreatedOnDate	1991-##-##
+ym159608	hasLabel	The Snows of Kilimanjaro (film)
+ym159608	wasCreatedOnDate	1952-08-18
+ym159728	hasLabel	Mademoiselle (1966 film)
+ym159728	wasCreatedOnDate	1966-06-##
+ym159759	hasLabel	The Oscar (film)
+ym159759	wasCreatedOnDate	1966-##-##
+ym159791	hasLabel	Demonic Toys
+ym159791	wasCreatedOnDate	1992-03-12
+ym159849	hasLabel	Vitus (film)
+ym159849	wasCreatedOnDate	2006-02-02
+ym159866	hasLabel	The Facts of Life Reunion
+ym159866	wasCreatedOnDate	2001-11-18
+ym159884	hasLabel	The Heartbreak Kid (2007 film)
+ym159884	wasCreatedOnDate	2007-10-05
+ym159888	hasLabel	Anne of the Indies
+ym159888	wasCreatedOnDate	1951-10-18
+ym159905	hasLabel	Natutulog Pa Ang Diyos
+ym159905	wasCreatedOnDate	1988-##-##
+ym159920	hasLabel	Good Morning, Night
+ym159920	wasCreatedOnDate	2003-09-05
+ym159925	hasLabel	How I Married My High School Crush
+ym159925	wasCreatedOnDate	2007-07-01
+ym159937	hasLabel	Children of the Night (1991 film)
+ym159937	wasCreatedOnDate	1991-##-##
+ym160057	hasLabel	Witless Protection
+ym160057	wasCreatedOnDate	2008-02-22
+ym160066	hasLabel	Shining Through
+ym160066	wasCreatedOnDate	1992-01-31
+ym160098	hasLabel	Thoda Pyaar Thoda Magic
+ym160098	wasCreatedOnDate	2008-06-27
+ym160102	hasLabel	Fantaghirò 5
+ym160102	wasCreatedOnDate	1996-##-##
+ym160118	hasLabel	Pistol Whipped
+ym160118	wasCreatedOnDate	2008-03-04
+ym160149	hasLabel	The Black Castle
+ym160149	wasCreatedOnDate	1952-12-15
+ym160150	hasLabel	Powwow Highway
+ym160150	wasCreatedOnDate	1989-02-24
+ym160156	hasLabel	Ready When You Are, Mr McGill
+ym160156	wasCreatedOnDate	1976-##-##
+ym160168	hasLabel	The Sky Is Falling (2000 film)
+ym160168	wasCreatedOnDate	2000-##-##
+ym160175	hasLabel	Pinocchio's Revenge
+ym160175	wasCreatedOnDate	1996-##-##
+ym160190	hasLabel	Who's Your Caddy?
+ym160190	wasCreatedOnDate	2007-07-27
+ym160215	hasLabel	Tropic Thunder
+ym160215	wasCreatedOnDate	2008-08-13
+ym160232	hasLabel	Two Bits
+ym160232	wasCreatedOnDate	1995-11-22
+ym160238	hasLabel	Paid (2006 film)
+ym160238	wasCreatedOnDate	2006-##-##
+ym160245	hasLabel	The Day Will Dawn
+ym160245	wasCreatedOnDate	1942-##-##
+ym160277	hasLabel	The van Paemel Family
+ym160277	wasCreatedOnDate	1986-##-##
+ym160293	hasLabel	Satham Podathey
+ym160293	wasCreatedOnDate	2007-09-14
+ym160311	hasLabel	Three Way
+ym160311	wasCreatedOnDate	2004-##-##
+ym160358	hasLabel	Cherry Crush
+ym160358	wasCreatedOnDate	2007-02-16
+ym160424	hasLabel	Brother, Cry for Me
+ym160424	wasCreatedOnDate	1970-##-##
+ym160443	hasLabel	Ghost Brigade
+ym160443	wasCreatedOnDate	1993-##-##
+ym160503	hasLabel	The Munsters' Scary Little Christmas
+ym160503	wasCreatedOnDate	1996-12-17
+ym160568	hasLabel	Frankenstein (US TV miniseries)
+ym160568	wasCreatedOnDate	2004-05-10
+ym160630	hasLabel	Dead Air (film)
+ym160630	wasCreatedOnDate	2009-##-##
+ym160662	hasLabel	Silambattam (film)
+ym160662	wasCreatedOnDate	2008-12-18
+ym160666	hasLabel	Quicksand (2003 film)
+ym160666	wasCreatedOnDate	2003-05-13
+ym160700	hasLabel	Checking Out (1989 film)
+ym160700	wasCreatedOnDate	1989-04-21
+ym160763	hasLabel	The Indian Tomb (1959 film)
+ym160763	wasCreatedOnDate	1959-##-##
+ym160840	hasLabel	The Secret of the Magic Gourd (2007 film)
+ym160840	wasCreatedOnDate	2007-##-##
+ym160846	hasLabel	Half Moon Street
+ym160846	wasCreatedOnDate	1986-08-13
+ym160885	hasLabel	The Rum Diary (film)
+ym160885	wasCreatedOnDate	2010-09-24
+ym160919	hasLabel	Mrigayaa
+ym160919	wasCreatedOnDate	1976-##-##
+ym160982	hasLabel	The Lost Language of Cranes (film)
+ym160982	wasCreatedOnDate	1991-11-14
+ym161089	hasLabel	The Burrowers
+ym161089	wasCreatedOnDate	2008-##-##
+ym161110	hasLabel	Stella (1990 film)
+ym161110	wasCreatedOnDate	1990-02-02
+ym161142	hasLabel	1871 (film)
+ym161142	wasCreatedOnDate	1990-##-##
+ym161193	hasLabel	The Gore Gore Girls
+ym161193	wasCreatedOnDate	1972-##-##
+ym161266	hasLabel	Not on the Lips
+ym161266	wasCreatedOnDate	2003-12-03
+ym161271	hasLabel	Brother John
+ym161271	wasCreatedOnDate	1971-03-24
+ym161273	hasLabel	Nicholas Nickleby (2002 film)
+ym161273	wasCreatedOnDate	2002-12-27
+ym161447	hasLabel	Violanchelo
+ym161447	wasCreatedOnDate	2008-##-##
+ym161535	hasLabel	Sostiene Pereira
+ym161535	wasCreatedOnDate	1996-03-22
+ym161540	hasLabel	Life Support (film)
+ym161540	wasCreatedOnDate	2007-01-26
+ym161582	hasLabel	Attack of the Sabretooth
+ym161582	wasCreatedOnDate	2005-07-14
+ym161628	hasLabel	The Egg (film)
+ym161628	wasCreatedOnDate	1922-09-04
+ym161673	hasLabel	Pudhukottaiyilirundhu Saravanan
+ym161673	wasCreatedOnDate	2004-01-14
+ym161774	hasLabel	Sebastian (1968 film)
+ym161774	wasCreatedOnDate	1968-##-##
+ym161781	hasLabel	Charlie Chan in London
+ym161781	wasCreatedOnDate	1934-09-12
+ym161889	hasLabel	The Warrior's Heart
+ym161889	wasCreatedOnDate	1992-##-##
+ym162067	hasLabel	The Man Who Watched Trains Go By
+ym162067	wasCreatedOnDate	1952-12-##
+ym162112	hasLabel	Ssukh
+ym162112	wasCreatedOnDate	2005-06-17
+ym162161	hasLabel	A Baltic Tragedy
+ym162161	wasCreatedOnDate	1970-09-30
+ym162430	hasLabel	The Cracksman
+ym162430	wasCreatedOnDate	1963-##-##
+ym162452	hasLabel	From the Earth to the Moon (film)
+ym162452	wasCreatedOnDate	1958-##-##
+ym162461	hasLabel	April Fool's Day (2008 film)
+ym162461	wasCreatedOnDate	2008-03-25
+ym162586	hasLabel	Father was a Fullback
+ym162586	wasCreatedOnDate	1949-##-##
+ym162666	hasLabel	Frightmare (film)
+ym162666	wasCreatedOnDate	1974-11-06
+ym162692	hasLabel	The Passion (TV serial)
+ym162692	wasCreatedOnDate	2008-##-##
+ym162702	hasLabel	The Fugitive Kind
+ym162702	wasCreatedOnDate	1959-12-01
+ym162743	hasLabel	The Education of Sonny Carson
+ym162743	wasCreatedOnDate	1974-07-17
+ym162746	hasLabel	12 (film)
+ym162746	wasCreatedOnDate	2007-09-07
+ym162787	hasLabel	Beer Barrel Polecats
+ym162787	wasCreatedOnDate	1946-01-10
+ym162790	hasLabel	Bcuz of U
+ym162790	wasCreatedOnDate	2004-11-17
+ym162791	hasLabel	Surfer, Dude
+ym162791	wasCreatedOnDate	2008-09-05
+ym162878	hasLabel	Mélo
+ym162878	wasCreatedOnDate	1986-09-03
+ym162887	hasLabel	Thennavan
+ym162887	wasCreatedOnDate	2003-08-15
+ym162888	hasLabel	Pop Carn (2003 film)
+ym162888	wasCreatedOnDate	2003-01-30
+ym162933	hasLabel	Pinched
+ym162933	wasCreatedOnDate	1917-09-23
+ym162945	hasLabel	Fool's Gold (2008 film)
+ym162945	wasCreatedOnDate	2008-02-08
+ym162952	hasLabel	Move On (1917 film)
+ym162952	wasCreatedOnDate	1917-12-09
+ym162955	hasLabel	The Big Idea (1917 film)
+ym162955	wasCreatedOnDate	1917-12-30
+ym162958	hasLabel	The Tip
+ym162958	wasCreatedOnDate	1918-01-06
+ym162959	hasLabel	The Lamb (film)
+ym162959	wasCreatedOnDate	1918-02-03
+ym162960	hasLabel	Hit Him Again
+ym162960	wasCreatedOnDate	1918-02-17
+ym162961	hasLabel	Beat It (film)
+ym162961	wasCreatedOnDate	1918-02-24
+ym162969	hasLabel	Heart of a Dog (film)
+ym162969	wasCreatedOnDate	1988-11-19
+ym162980	hasLabel	It's a Wild Life
+ym162980	wasCreatedOnDate	1918-04-21
+ym162983	hasLabel	The Non-Stop Kid
+ym162983	wasCreatedOnDate	1918-05-12
+ym162987	hasLabel	The City Slicker
+ym162987	wasCreatedOnDate	1918-06-02
+ym162989	hasLabel	Sic 'Em, Towser
+ym162989	wasCreatedOnDate	1918-06-09
+ym162991	hasLabel	Are Crooks Dishonest?
+ym162991	wasCreatedOnDate	1918-06-23
+ym162994	hasLabel	That's Him
+ym162994	wasCreatedOnDate	1918-08-04
+ym162995	hasLabel	Two Scrambled
+ym162995	wasCreatedOnDate	1918-09-01
+ym162996	hasLabel	Bees in His Bonnet
+ym162996	wasCreatedOnDate	1918-09-15
+ym163000	hasLabel	3 Dumb Clucks
+ym163000	wasCreatedOnDate	1937-04-17
+ym163016	hasLabel	It's Love I'm After
+ym163016	wasCreatedOnDate	1937-11-20
+ym163017	hasLabel	Hear 'Em Rave
+ym163017	wasCreatedOnDate	1918-12-01
+ym163033	hasLabel	Wanted – $5,000
+ym163033	wasCreatedOnDate	1919-01-12
+ym163034	hasLabel	Going! Going! Gone!
+ym163034	wasCreatedOnDate	1919-01-26
+ym163049	hasLabel	38 – Auch das war Wien
+ym163049	wasCreatedOnDate	1987-04-23
+ym163064	hasLabel	Kharij
+ym163064	wasCreatedOnDate	1982-##-##
+ym163065	hasLabel	Where Angels Go, Trouble Follows
+ym163065	wasCreatedOnDate	1968-##-##
+ym163115	hasLabel	Encore, Once More Encore!
+ym163115	wasCreatedOnDate	1992-##-##
+ym163179	hasLabel	A Kiss Before Dying (1956 film)
+ym163179	wasCreatedOnDate	1956-06-12
+ym163218	hasLabel	The Awakening (1980 film)
+ym163218	wasCreatedOnDate	1980-10-##
+ym163265	hasLabel	The Revengers' Comedies (film)
+ym163265	wasCreatedOnDate	1997-##-##
+ym163297	hasLabel	Man-Trap
+ym163297	wasCreatedOnDate	1961-09-20
+ym163306	hasLabel	Ek Daav Bhutacha
+ym163306	wasCreatedOnDate	1982-##-##
+ym163344	hasLabel	Richard Burton's Hamlet
+ym163344	wasCreatedOnDate	1964-09-23
+ym163462	hasLabel	Quiz Whizz
+ym163462	wasCreatedOnDate	1958-02-13
+ym163467	hasLabel	If a Body Meets a Body
+ym163467	wasCreatedOnDate	1945-08-30
+ym163518	hasLabel	Bachna Ae Haseeno
+ym163518	wasCreatedOnDate	2008-08-15
+ym163522	hasLabel	Trio (film)
+ym163522	wasCreatedOnDate	1950-08-01
+ym163549	hasLabel	Chasers
+ym163549	wasCreatedOnDate	1994-04-22
+ym163566	hasLabel	The Damned United
+ym163566	wasCreatedOnDate	2009-03-27
+ym163573	hasLabel	Sakal, Sakali, Saklolo
+ym163573	wasCreatedOnDate	2007-12-25
+ym163582	hasLabel	Encore (1951 film)
+ym163582	wasCreatedOnDate	1951-11-14
+ym163641	hasLabel	Private Fears in Public Places (film)
+ym163641	wasCreatedOnDate	2006-11-22
+ym163645	hasLabel	Zen (film)
+ym163645	wasCreatedOnDate	2007-02-23
+ym163659	hasLabel	Disappearance (film)
+ym163659	wasCreatedOnDate	2002-04-21
+ym163668	hasLabel	Klondike Fever
+ym163668	wasCreatedOnDate	1980-01-12
+ym163753	hasLabel	We'll Meet Again (2002 film)
+ym163753	wasCreatedOnDate	2002-##-##
+ym163834	hasLabel	Charlie Chan in Paris
+ym163834	wasCreatedOnDate	1935-01-21
+ym163858	hasLabel	Charlie Chan's Secret
+ym163858	wasCreatedOnDate	1936-##-##
+ym163864	hasLabel	Charlie Chan at the Race Track
+ym163864	wasCreatedOnDate	1936-##-##
+ym163898	hasLabel	Charlie Chan at the Opera
+ym163898	wasCreatedOnDate	1936-##-##
+ym163909	hasLabel	Nine Days in One Year
+ym163909	wasCreatedOnDate	1962-03-05
+ym163917	hasLabel	Meet Mr. Lucifer
+ym163917	wasCreatedOnDate	1953-##-##
+ym163939	hasLabel	Hearts Divided
+ym163939	wasCreatedOnDate	1936-06-20
+ym163969	hasLabel	Killjoy (2000 film)
+ym163969	wasCreatedOnDate	2000-10-24
+ym163976	hasLabel	12 Rounds (film)
+ym163976	wasCreatedOnDate	2009-03-27
+ym164039	hasLabel	The Barretts of Wimpole Street (1957 film)
+ym164039	wasCreatedOnDate	1957-01-16
+ym164074	hasLabel	The Hexer (film)
+ym164074	wasCreatedOnDate	2001-11-09
+ym164080	hasLabel	The Soloist
+ym164080	wasCreatedOnDate	2009-04-24
+ym164136	hasLabel	The Whistle Blower
+ym164136	wasCreatedOnDate	1987-07-10
+ym164149	hasGender	male
+ym164149	hasLabel	W. (film)
+ym164149	wasCreatedOnDate	2008-10-17
+ym164161	hasLabel	Baby Take a Bow
+ym164161	wasCreatedOnDate	1934-06-30
+ym164179	hasLabel	Love on the Rocks (film)
+ym164179	wasCreatedOnDate	2004-04-08
+ym164245	hasLabel	Giorgino
+ym164245	wasCreatedOnDate	1994-10-05
+ym164282	hasLabel	The Brass Bullet
+ym164282	wasCreatedOnDate	1918-08-10
+ym164306	hasLabel	Fix (film)
+ym164306	wasCreatedOnDate	2008-##-##
+ym164366	hasLabel	Ghosts of Girlfriends Past
+ym164366	wasCreatedOnDate	2009-05-01
+ym164380	hasLabel	21 Days
+ym164380	wasCreatedOnDate	1940-01-07
+ym164441	hasLabel	The Ruins (film)
+ym164441	wasCreatedOnDate	2008-04-04
+ym164456	hasLabel	Aegan
+ym164456	wasCreatedOnDate	2008-10-25
+ym164459	hasLabel	The Phantom Foe
+ym164459	wasCreatedOnDate	1920-10-11
+ym164519	hasLabel	The Archer (film)
+ym164519	wasCreatedOnDate	2005-03-27
+ym164561	hasLabel	Saroja (film)
+ym164561	wasCreatedOnDate	2008-09-05
+ym164562	hasLabel	The Corn Is Green (1945 film)
+ym164562	wasCreatedOnDate	1945-07-14
+ym164569	hasLabel	The Secret of the Submarine
+ym164569	wasCreatedOnDate	1915-05-22
+ym164584	hasLabel	If a Man Answers
+ym164584	wasCreatedOnDate	1962-10-10
+ym164619	hasLabel	The Final Destination
+ym164619	wasCreatedOnDate	2009-08-28
+ym164657	hasLabel	Aravindhan
+ym164657	wasCreatedOnDate	1997-02-28
+ym164727	hasLabel	The Last Days of Patton
+ym164727	wasCreatedOnDate	1986-09-14
+ym164736	hasLabel	John the Fearless (film)
+ym164736	wasCreatedOnDate	1985-10-10
+ym164747	hasLabel	Little Miss Smiles
+ym164747	wasCreatedOnDate	1922-01-15
+ym164817	hasLabel	Kurumbu
+ym164817	wasCreatedOnDate	2003-11-21
+ym164838	hasLabel	Attack (1956 film)
+ym164838	wasCreatedOnDate	1956-10-17
+ym164839	hasLabel	The Slammin' Salmon
+ym164839	wasCreatedOnDate	2009-12-11
+ym164846	hasLabel	The Shamrock Handicap
+ym164846	wasCreatedOnDate	1926-05-02
+ym164847	hasLabel	Crazy Eights (film)
+ym164847	wasCreatedOnDate	2006-10-31
+ym164860	hasLabel	Jassy (film)
+ym164860	wasCreatedOnDate	1947-##-##
+ym164873	hasLabel	Unbelievable Adventures of Italians in Russia
+ym164873	wasCreatedOnDate	1974-01-31
+ym164876	hasLabel	Aaja Nachle
+ym164876	wasCreatedOnDate	2007-11-30
+ym164961	hasLabel	3 Bad Men
+ym164961	wasCreatedOnDate	1926-08-28
+ym165109	hasLabel	I.T.A.L.Y.
+ym165109	wasCreatedOnDate	2008-08-06
+ym165171	hasLabel	Youth Runs Wild
+ym165171	wasCreatedOnDate	1944-09-01
+ym165229	hasLabel	Small Town Girl (1953 film)
+ym165229	wasCreatedOnDate	1953-04-10
+ym165270	hasLabel	Bent (film)
+ym165270	wasCreatedOnDate	1997-11-26
+ym165280	hasLabel	Caravan (1946 film)
+ym165280	wasCreatedOnDate	1946-06-03
+ym165406	hasLabel	The Mating of Millie
+ym165406	wasCreatedOnDate	1948-03-08
+ym165418	hasLabel	Utsab
+ym165418	wasCreatedOnDate	2000-03-23
+ym165437	hasLabel	Muthirai
+ym165437	wasCreatedOnDate	2009-06-19
+ym165448	hasLabel	Ek Din Pratidin
+ym165448	wasCreatedOnDate	1979-##-##
+ym165515	hasLabel	Chelsea Walls
+ym165515	wasCreatedOnDate	2002-04-19
+ym165520	hasLabel	Night Caller from Outer Space
+ym165520	wasCreatedOnDate	1965-##-##
+ym165538	hasLabel	An Awfully Big Adventure
+ym165538	wasCreatedOnDate	1995-04-07
+ym165589	hasLabel	Ransom (1975 film)
+ym165589	wasCreatedOnDate	1975-03-13
+ym165618	hasLabel	Black Widow (2007 film)
+ym165618	wasCreatedOnDate	2008-05-17
+ym165631	hasLabel	All-American Murder
+ym165631	wasCreatedOnDate	1992-##-##
+ym165638	hasLabel	Rab Ne Bana Di Jodi
+ym165638	wasCreatedOnDate	2008-12-12
+ym165680	hasLabel	Meet Market (film)
+ym165680	wasCreatedOnDate	2008-02-12
+ym165686	hasLabel	Ninja Assassin
+ym165686	wasCreatedOnDate	2009-11-25
+ym165711	hasLabel	An Education
+ym165711	wasCreatedOnDate	2009-01-18
+ym165712	hasLabel	Student Seduction
+ym165712	wasCreatedOnDate	2003-05-05
+ym165747	hasLabel	The Accountant (2001 film)
+ym165747	wasCreatedOnDate	2001-##-##
+ym165773	hasLabel	Apple Jack (film)
+ym165773	wasCreatedOnDate	2003-##-##
+ym165789	hasLabel	Women – for America, for the World
+ym165789	wasCreatedOnDate	1986-##-##
+ym165804	hasLabel	The Butler's in Love
+ym165804	wasCreatedOnDate	2008-06-23
+ym165851	hasLabel	Ramona (1936 film)
+ym165851	wasCreatedOnDate	1936-09-25
+ym165869	hasLabel	The Last Confession of Alexander Pearce
+ym165869	wasCreatedOnDate	2009-01-##
+ym165883	hasLabel	Lesbian Vampire Killers
+ym165883	wasCreatedOnDate	2009-03-20
+ym165955	hasLabel	Sarvam
+ym165955	wasCreatedOnDate	2009-05-15
+ym165960	hasLabel	I'd Rather Be Rich
+ym165960	wasCreatedOnDate	1964-08-26
+ym165964	hasLabel	Code Red (TV series)
+ym165964	wasCreatedOnDate	1981-##-##
+ym165979	hasLabel	Madagascar (2005 film)
+ym165979	wasCreatedOnDate	2005-05-25
+ym165985	hasLabel	Hunger (1966 film)
+ym165985	wasCreatedOnDate	1966-08-19
+ym165986	hasLabel	I Love You Phillip Morris
+ym165986	wasCreatedOnDate	2009-01-18
+ym166002	hasLabel	When Strangers Appear
+ym166002	wasCreatedOnDate	2001-##-##
+ym166040	hasLabel	The Subject Was Roses (film)
+ym166040	wasCreatedOnDate	1968-10-13
+ym166255	hasLabel	Lost in Yonkers (film)
+ym166255	wasCreatedOnDate	1993-05-14
+ym166258	hasLabel	This Is My Life (film)
+ym166258	wasCreatedOnDate	1992-02-21
+ym166262	hasLabel	Dancing at Lughnasa (film)
+ym166262	wasCreatedOnDate	1998-11-13
+ym166296	hasLabel	Cherished (film)
+ym166296	wasCreatedOnDate	2005-02-22
+ym166316	hasLabel	It's Alive (2008 film)
+ym166316	wasCreatedOnDate	2009-10-06
+ym166328	hasLabel	Cherrybomb (film)
+ym166328	wasCreatedOnDate	2009-04-23
+ym166341	hasLabel	The Trial of Lee Harvey Oswald
+ym166341	wasCreatedOnDate	1977-09-30
+ym166391	hasLabel	Star Spangled Salesman
+ym166391	wasCreatedOnDate	1968-02-09
+ym166395	hasLabel	The Graves (film)
+ym166395	wasCreatedOnDate	2010-##-##
+ym166438	hasLabel	30 Winchester per El Diablo
+ym166438	wasCreatedOnDate	1965-##-##
+ym166460	hasLabel	Miss Lulu Bett (film)
+ym166460	wasCreatedOnDate	1921-##-##
+ym166506	hasLabel	A Man Called Hero
+ym166506	wasCreatedOnDate	1999-07-17
+ym166548	hasLabel	Into the Storm (film)
+ym166548	wasCreatedOnDate	2009-05-31
+ym166578	hasLabel	The Fountain of Youth (film)
+ym166578	wasCreatedOnDate	1958-09-16
+ym166641	hasLabel	The Good Companions (1933 film)
+ym166641	wasCreatedOnDate	1933-02-28
+ym166649	hasLabel	Ride (film)
+ym166649	wasCreatedOnDate	1998-03-27
+ym166654	hasLabel	The Macomber Affair
+ym166654	wasCreatedOnDate	1947-##-##
+ym166655	hasLabel	Belles on Their Toes (film)
+ym166655	wasCreatedOnDate	1952-05-02
+ym166715	hasLabel	Patayin Sa Sindak Si Barbara (film)
+ym166715	wasCreatedOnDate	1995-##-##
+ym166725	hasLabel	30 Years to Life
+ym166725	wasCreatedOnDate	2003-09-05
+ym166784	hasLabel	In the Custody of Strangers
+ym166784	wasCreatedOnDate	1992-05-26
+ym166827	hasLabel	We're No Bad Guys
+ym166827	wasCreatedOnDate	1997-09-25
+ym166848	hasLabel	Loft (2008 film)
+ym166848	wasCreatedOnDate	2008-10-22
+ym166853	hasLabel	Harry & Son
+ym166853	wasCreatedOnDate	1984-03-02
+ym166880	hasLabel	Silent But Deadly
+ym166880	wasCreatedOnDate	2010-##-##
+ym166890	hasLabel	Beneath Still Waters
+ym166890	wasCreatedOnDate	2005-10-24
+ym166893	hasLabel	Dil Bole Hadippa!
+ym166893	wasCreatedOnDate	2009-09-18
+ym166934	hasLabel	Once Around
+ym166934	wasCreatedOnDate	1991-01-18
+ym166968	hasLabel	Riot (1997 film)
+ym166968	wasCreatedOnDate	1997-##-##
+ym166996	hasLabel	Forbidden Cargo (1954 film)
+ym166996	wasCreatedOnDate	1954-05-04
+ym167019	hasLabel	Escape from Broadmoor
+ym167019	wasCreatedOnDate	1948-12-##
+ym167026	hasLabel	The Galloping Major (film)
+ym167026	wasCreatedOnDate	1951-05-08
+ym167030	hasLabel	Interpol (1957 film)
+ym167030	wasCreatedOnDate	1957-04-02
+ym167035	hasLabel	Holiday Camp
+ym167035	wasCreatedOnDate	1947-08-05
+ym167073	hasLabel	The Buddy System (film)
+ym167073	wasCreatedOnDate	1984-05-04
+ym167075	hasLabel	It's a Mad, Mad, Mad, Mad World
+ym167075	wasCreatedOnDate	1963-11-07
+ym167076	hasLabel	Yes Man (film)
+ym167076	wasCreatedOnDate	2008-12-19
+ym167145	hasLabel	Love at Large
+ym167145	wasCreatedOnDate	1990-03-09
+ym167166	hasLabel	Trucks (film)
+ym167166	wasCreatedOnDate	2000-12-26
+ym167179	hasLabel	The Girl in the Crowd
+ym167179	wasCreatedOnDate	1935-05-20
+ym167182	hasLabel	Accused (film)
+ym167182	wasCreatedOnDate	1936-04-##
+ym167217	hasLabel	Go to Blazes (1962 film)
+ym167217	wasCreatedOnDate	1962-##-##
+ym167248	hasLabel	New York (film)
+ym167248	wasCreatedOnDate	2009-06-26
+ym167268	hasLabel	That's Adequate
+ym167268	wasCreatedOnDate	1990-01-##
+ym167339	hasLabel	Exit Speed
+ym167339	wasCreatedOnDate	2008-12-12
+ym167356	hasLabel	Slashed
+ym167356	wasCreatedOnDate	2010-05-24
+ym167360	hasLabel	Wild Target
+ym167360	wasCreatedOnDate	2010-06-18
+ym167402	hasLabel	High Flight (film)
+ym167402	wasCreatedOnDate	1957-09-17
+ym167412	hasLabel	Leaves of Grass (film)
+ym167412	wasCreatedOnDate	2010-##-##
+ym167440	hasLabel	Stolen Holiday
+ym167440	wasCreatedOnDate	1937-02-07
+ym167479	hasLabel	Ashi Hi Banwa Banwi
+ym167479	wasCreatedOnDate	1988-##-##
+ym167527	hasLabel	I Found Stella Parish
+ym167527	wasCreatedOnDate	1935-11-16
+ym167564	hasLabel	The Playbirds
+ym167564	wasCreatedOnDate	1978-07-06
+ym167602	hasLabel	Joe the King
+ym167602	wasCreatedOnDate	1999-##-##
+ym167624	hasLabel	Gammat Jammat
+ym167624	wasCreatedOnDate	1987-##-##
+ym167690	hasLabel	Whose Life Is It Anyway? (1981 film)
+ym167690	wasCreatedOnDate	1981-##-##
+ym167768	hasLabel	The Marc Pease Experience
+ym167768	wasCreatedOnDate	2009-08-21
+ym167835	hasLabel	Nootrukku Nooru
+ym167835	wasCreatedOnDate	2010-##-##
+ym167850	hasLabel	Porridge (film)
+ym167850	wasCreatedOnDate	1979-##-##
+ym167860	hasLabel	Day of the Wolves
+ym167860	wasCreatedOnDate	1971-##-##
+ym167919	hasLabel	Wagner (mini-series)
+ym167919	wasCreatedOnDate	1983-##-##
+ym168019	hasLabel	A Place for Lovers
+ym168019	wasCreatedOnDate	1968-12-19
+ym168060	hasLabel	Get Him to the Greek
+ym168060	wasCreatedOnDate	2010-06-04
+ym168067	hasLabel	The House of Blue Leaves (film)
+ym168067	wasCreatedOnDate	1987-05-25
+ym168153	hasLabel	A Barrel Full of Dollars
+ym168153	wasCreatedOnDate	1971-04-01
+ym168191	hasLabel	Piranha 3D
+ym168191	wasCreatedOnDate	2010-08-20
+ym168206	hasLabel	In Love with Barbara
+ym168206	wasCreatedOnDate	2008-##-##
+ym168239	hasLabel	Billa (2009 film)
+ym168239	wasCreatedOnDate	2009-04-03
+ym168277	hasLabel	Sweet Revenge (1998 film)
+ym168277	wasCreatedOnDate	1998-##-##
+ym168372	hasLabel	Halloween (1978 film)
+ym168372	wasCreatedOnDate	1978-10-25
+ym168458	hasLabel	Proteus (2004 film)
+ym168458	wasCreatedOnDate	2004-##-##
+ym168462	hasLabel	Vipers (film)
+ym168462	wasCreatedOnDate	2008-09-21
+ym168509	hasLabel	A Tale of Legendary Libido
+ym168509	wasCreatedOnDate	2008-04-30
+ym168575	hasLabel	When London Sleeps
+ym168575	wasCreatedOnDate	1932-07-13
+ym168595	hasLabel	Goa (film)
+ym168595	wasCreatedOnDate	2010-01-29
+ym168600	hasLabel	Hemanter Pakhi
+ym168600	wasCreatedOnDate	2003-##-##
+ym168617	hasLabel	Space Buddies
+ym168617	wasCreatedOnDate	2009-02-03
+ym168619	hasLabel	Paiyaa
+ym168619	wasCreatedOnDate	2010-04-02
+ym168620	hasLabel	Megamind
+ym168620	wasCreatedOnDate	2010-11-05
+ym168725	hasLabel	How the Lack of Love Affects Two Men
+ym168725	wasCreatedOnDate	2006-11-16
+ym168764	hasLabel	Passer By (TV film)
+ym168764	wasCreatedOnDate	2004-03-29
+ym168768	hasLabel	Rishi (film)
+ym168768	wasCreatedOnDate	2001-02-16
+ym168798	hasLabel	Great Catherine (film)
+ym168798	wasCreatedOnDate	1968-12-06
+ym168804	hasLabel	A Monkey's Tale
+ym168804	wasCreatedOnDate	1999-06-02
+ym168853	hasLabel	Jeremy Hardy Gives Good Sex
+ym168853	wasCreatedOnDate	1995-10-09
+ym168877	hasLabel	Bitter Springs (film)
+ym168877	wasCreatedOnDate	1950-06-24
+ym168913	hasLabel	Kadhal Samrajyam
+ym168913	wasCreatedOnDate	2002-07-19
+ym169073	hasLabel	First Day High
+ym169073	wasCreatedOnDate	2006-09-20
+ym169171	hasLabel	Foodland (film)
+ym169171	wasCreatedOnDate	2010-##-##
+ym169192	hasLabel	Galileo (film)
+ym169192	wasCreatedOnDate	1975-01-27
+ym169205	hasLabel	Sibling Rivalry (film)
+ym169205	wasCreatedOnDate	1990-10-26
+ym169211	hasLabel	Diamonds on Wheels
+ym169211	wasCreatedOnDate	1974-03-10
+ym169272	hasLabel	Cosmopolitan (film)
+ym169272	wasCreatedOnDate	2003-##-##
+ym169288	hasLabel	Unvanquished City
+ym169288	wasCreatedOnDate	1950-12-07
+ym169298	hasLabel	Yogi (2009 film)
+ym169298	wasCreatedOnDate	2009-11-27
+ym169314	hasLabel	Unter den tausend Laternen
+ym169314	wasCreatedOnDate	1952-04-10
+ym169319	hasLabel	Say Hello to Yesterday
+ym169319	wasCreatedOnDate	1970-##-##
+ym169395	hasLabel	The Quiet Woman
+ym169395	wasCreatedOnDate	1951-03-##
+ym169451	hasLabel	Working Tra$h
+ym169451	wasCreatedOnDate	1990-11-26
+ym169471	hasLabel	As Long as You're Near Me
+ym169471	wasCreatedOnDate	1953-08-27
+ym169596	hasLabel	Law Abiding Citizen
+ym169596	wasCreatedOnDate	2009-10-16
+ym169613	hasLabel	The Devil's Disciple (1987 film)
+ym169613	wasCreatedOnDate	1987-05-17
+ym169634	hasLabel	Aila Re Oriya Pua
+ym169634	wasCreatedOnDate	2009-##-##
+ym169645	hasLabel	The Snowy Heron
+ym169645	wasCreatedOnDate	1958-11-29
+ym169664	hasLabel	The Haunted House of Horror
+ym169664	wasCreatedOnDate	1970-04-15
+ym169686	hasLabel	Seven Days... Seven Nights
+ym169686	wasCreatedOnDate	1960-05-25
+ym169738	hasLabel	Le Tiroir secret
+ym169738	wasCreatedOnDate	1986-12-05
+ym169802	hasLabel	The Lady Takes a Flyer
+ym169802	wasCreatedOnDate	1958-01-30
+ym169893	hasLabel	Corpus Callosum (2007 film)
+ym169893	wasCreatedOnDate	2007-12-13
+ym169917	hasLabel	Baana Kaathadi
+ym169917	wasCreatedOnDate	2010-08-06
+ym169919	hasLabel	Oy!
+ym169919	wasCreatedOnDate	2009-07-03
+ym169987	hasLabel	The Power of One (film)
+ym169987	wasCreatedOnDate	1992-03-27
+ym170027	hasLabel	Hello Down There
+ym170027	wasCreatedOnDate	1969-##-##
+ym170028	hasLabel	Million Dollar Baby (1941 film)
+ym170028	wasCreatedOnDate	1941-05-31
+ym170033	hasLabel	That Evening Sun (film)
+ym170033	wasCreatedOnDate	2009-11-06
+ym170040	hasLabel	The Human Factor (1979 film)
+ym170040	wasCreatedOnDate	1979-##-##
+ym170048	hasLabel	Five Minutes of Heaven
+ym170048	wasCreatedOnDate	2009-04-05
+ym170122	hasLabel	Out Cold (1989 film)
+ym170122	wasCreatedOnDate	1989-03-03
+ym170211	hasLabel	Mask of the Avenger
+ym170211	wasCreatedOnDate	1951-06-27
+ym170246	hasLabel	Soeur Sourire (film)
+ym170246	wasCreatedOnDate	2009-04-23
+ym170289	hasLabel	The Cell 2
+ym170289	wasCreatedOnDate	2009-06-16
+ym170336	hasLabel	Dear Louise
+ym170336	wasCreatedOnDate	1972-09-06
+ym170376	hasLabel	Velai
+ym170376	wasCreatedOnDate	1998-02-26
+ym170392	hasLabel	Junior Senior (film)
+ym170392	wasCreatedOnDate	2002-03-13
+ym170394	hasLabel	Black Beauty (1971 film)
+ym170394	wasCreatedOnDate	1971-11-24
+ym170417	hasLabel	The Next Big Thing (film)
+ym170417	wasCreatedOnDate	2002-05-29
+ym170429	hasLabel	The Lawless Breed
+ym170429	wasCreatedOnDate	1953-01-03
+ym170462	hasLabel	Sally in Our Alley
+ym170462	wasCreatedOnDate	1931-##-##
+ym170463	hasLabel	Looking on the Bright Side
+ym170463	wasCreatedOnDate	1932-##-##
+ym170464	hasLabel	Queen of Hearts (film)
+ym170465	hasLabel	The Show Goes On
+ym170465	wasCreatedOnDate	1937-##-##
+ym170466	hasLabel	Never Let Me Go (2010 film)
+ym170466	wasCreatedOnDate	2010-09-15
+ym170504	hasLabel	A Happy Divorce
+ym170504	wasCreatedOnDate	1975-04-25
+ym170505	hasLabel	Seshu
+ym170505	wasCreatedOnDate	2002-02-28
+ym170529	hasLabel	The Stripper (film)
+ym170529	wasCreatedOnDate	1963-06-19
+ym170596	hasLabel	Malli Malli Chudali
+ym170596	wasCreatedOnDate	2002-03-28
+ym170617	hasLabel	Kalyana Galatta
+ym170617	wasCreatedOnDate	1998-08-01
+ym170624	hasLabel	Fearless Tiger
+ym170624	wasCreatedOnDate	1991-03-##
+ym170626	hasLabel	Unakkaga Ellam Unakkaga
+ym170626	wasCreatedOnDate	1999-09-24
+ym170663	hasLabel	The Outcast (1954 film)
+ym170663	wasCreatedOnDate	1954-08-15
+ym170736	hasLabel	Mister Moses
+ym170736	wasCreatedOnDate	1965-05-12
+ym170745	hasLabel	Breaking Up (film)
+ym170745	wasCreatedOnDate	1997-10-17
+ym170794	hasLabel	Gainsbourg (Vie héroïque)
+ym170794	wasCreatedOnDate	2010-01-20
+ym170813	hasLabel	Chief Crazy Horse (1955 film)
+ym170813	wasCreatedOnDate	1955-04-27
+ym170871	hasLabel	Little Fockers
+ym170871	wasCreatedOnDate	2010-12-22
+ym170873	hasLabel	When Romance Meets Destiny
+ym170873	wasCreatedOnDate	2005-11-23
+ym170877	hasLabel	Punnagai Poove
+ym170877	wasCreatedOnDate	2003-04-20
+ym170879	hasLabel	Burke & Hare (film)
+ym170879	wasCreatedOnDate	1971-##-##
+ym170891	hasLabel	Aadanthe Ado Type
+ym170891	wasCreatedOnDate	2003-08-30
+ym170902	hasLabel	See You After School
+ym170902	wasCreatedOnDate	2006-03-16
+ym170931	hasLabel	Mending Fences
+ym170931	wasCreatedOnDate	2009-07-18
+ym170941	hasLabel	Forty Deuce
+ym170941	wasCreatedOnDate	1982-11-17
+ym170944	hasLabel	The Witch Who Came From the Sea
+ym170944	wasCreatedOnDate	1976-02-##
+ym170946	hasLabel	The Wicked Lady (1983 film)
+ym170946	wasCreatedOnDate	1983-07-21
+ym170974	hasLabel	Re-Uniting the Rubins
+ym170974	wasCreatedOnDate	2010-##-##
+ym170977	hasLabel	Girl in the Cadillac
+ym170977	wasCreatedOnDate	1995-##-##
+ym171027	hasLabel	Roseanna McCoy
+ym171027	wasCreatedOnDate	1949-10-12
+ym171042	hasLabel	Nathalie Granger
+ym171042	wasCreatedOnDate	1972-##-##
+ym171044	hasLabel	Our Very Own (1950 film)
+ym171044	wasCreatedOnDate	1950-07-27
+ym171051	hasLabel	The Runaways (film)
+ym171051	wasCreatedOnDate	2010-01-24
+ym171084	hasLabel	Toss (2009 film)
+ym171084	wasCreatedOnDate	2009-08-28
+ym171140	hasLabel	Ijjodu
+ym171157	hasLabel	Rope (film)
+ym171157	wasCreatedOnDate	1948-08-28
+ym171256	hasLabel	The Collector (2009 film)
+ym171256	wasCreatedOnDate	2009-07-31
+ym171260	hasLabel	The Deep (Orson Welles film)
+ym171268	hasLabel	Gulliver's Travels (2010 film)
+ym171268	wasCreatedOnDate	2010-12-22
+ym171269	hasLabel	Fury at Smugglers' Bay
+ym171269	wasCreatedOnDate	1961-##-##
+ym171285	hasLabel	Sweet Hearts Dance
+ym171285	wasCreatedOnDate	1988-09-23
+ym171321	hasLabel	The Glass Menagerie (1987 film)
+ym171321	wasCreatedOnDate	1987-10-23
+ym171334	hasLabel	Formosa Betrayed
+ym171334	wasCreatedOnDate	2010-02-26
+ym171353	hasLabel	Ergastolo
+ym171353	wasCreatedOnDate	1952-05-19
+ym171424	hasLabel	Under Your Spell (film)
+ym171424	wasCreatedOnDate	1936-11-06
+ym171473	hasLabel	Villa Estrella
+ym171473	wasCreatedOnDate	2009-07-01
+ym171508	hasLabel	Bodily Harm (film)
+ym171508	wasCreatedOnDate	1995-##-##
+ym171567	hasLabel	Theeradha Vilaiyattu Pillai
+ym171567	wasCreatedOnDate	2010-02-12
+ym171573	hasLabel	Valentine's Day (film)
+ym171573	wasCreatedOnDate	2010-02-12
+ym171587	hasLabel	Due Date
+ym171587	wasCreatedOnDate	2010-11-05
+ym171600	hasLabel	French Provincial
+ym171600	wasCreatedOnDate	1975-09-03
+ym171640	hasLabel	Thillalangadi
+ym171640	wasCreatedOnDate	2010-07-23
+ym171641	hasLabel	The Miracle Worker (2000 film)
+ym171641	wasCreatedOnDate	2000-##-##
+ym171660	hasLabel	Anna Karamazoff
+ym171660	wasCreatedOnDate	1991-##-##
+ym171685	hasLabel	The Sign of Four (1932 film)
+ym171685	wasCreatedOnDate	1932-05-##
+ym171698	hasLabel	Wake Wood
+ym171698	wasCreatedOnDate	2010-##-##
+ym171704	hasLabel	Donna on Demand
+ym171704	wasCreatedOnDate	2009-##-##
+ym171723	hasLabel	Behave Yourself!
+ym171723	wasCreatedOnDate	1951-09-##
+ym171726	hasLabel	Raju Bhai
+ym171726	wasCreatedOnDate	2007-05-18
+ym171742	hasLabel	Madana (film)
+ym171742	wasCreatedOnDate	2006-09-25
+ym171748	hasLabel	Outcast (film)
+ym171748	wasCreatedOnDate	2010-03-12
+ym171764	hasLabel	Plots with a View
+ym171764	wasCreatedOnDate	2002-##-##
+ym171818	hasLabel	Naan Mahaan Alla (2010 film)
+ym171818	wasCreatedOnDate	2010-08-20
+ym171883	hasLabel	Butterflies (2009 film)
+ym171883	wasCreatedOnDate	2009-04-##
+ym171905	hasLabel	Trophy Kids
+ym171905	wasCreatedOnDate	2010-##-##
+ym171968	hasLabel	Dangerous Game (1987 film)
+ym171968	wasCreatedOnDate	1987-##-##
+ym172017	hasLabel	Song of Paris
+ym172017	wasCreatedOnDate	1953-04-17
+ym172075	hasLabel	New Faces of 1937
+ym172075	wasCreatedOnDate	1937-07-02
+ym172189	hasLabel	Camp Blood 2
+ym172189	wasCreatedOnDate	2000-##-##
+ym172204	hasLabel	A Night of Horror
+ym172204	wasCreatedOnDate	1916-##-##
+ym172209	hasLabel	Woman Times Seven
+ym172209	wasCreatedOnDate	1967-##-##
+ym172215	hasLabel	My Boy Jack (film)
+ym172215	wasCreatedOnDate	2007-11-11
+ym172238	hasLabel	Red Dawn (2010 film)
+ym172238	wasCreatedOnDate	2010-11-24
+ym172247	hasLabel	The Dunwich Horror (film)
+ym172247	wasCreatedOnDate	1970-01-14
+ym172370	hasLabel	Vettaikaaran (2009 film)
+ym172370	wasCreatedOnDate	2009-12-18
+ym172434	hasLabel	Rabbit, Run (film)
+ym172434	wasCreatedOnDate	1970-10-##
+ym172446	hasLabel	The Beat (1988 film)
+ym172446	wasCreatedOnDate	1988-06-03
+ym172495	hasLabel	My Fair Lady (2012 film)
+ym172495	wasCreatedOnDate	2012-##-##
+ym172586	hasLabel	The Effect of Gamma Rays on Man-in-the-Moon Marigolds (film)
+ym172586	wasCreatedOnDate	1972-12-20
+ym172723	hasLabel	30 Days (2006 film)
+ym172723	wasCreatedOnDate	2006-04-30
+ym172738	hasLabel	Buy & Cell
+ym172738	wasCreatedOnDate	1989-01-27
+ym172747	hasLabel	'R Xmas
+ym172747	wasCreatedOnDate	2001-05-09
+ym172755	hasLabel	Savage Souls (film)
+ym172755	wasCreatedOnDate	2001-05-22
+ym173001	hasLabel	The Body Stealers
+ym173001	wasCreatedOnDate	1969-##-##
+ym173031	hasLabel	Murder Without Crime
+ym173031	wasCreatedOnDate	1951-04-27
+ym173042	hasLabel	Something to Believe In (film)
+ym173042	wasCreatedOnDate	1998-05-08
+ym173049	hasLabel	The King's Speech (film)
+ym173049	wasCreatedOnDate	2010-11-26
+ym173091	hasLabel	Boss Engira Bhaskaran
+ym173091	wasCreatedOnDate	2010-10-##
+ym173114	hasLabel	Seven Girlfriends
+ym173114	wasCreatedOnDate	2000-04-21
+ym173125	hasLabel	Merry Madagascar
+ym173125	wasCreatedOnDate	2009-11-17
+ym173127	hasLabel	Greenberg (film)
+ym173127	wasCreatedOnDate	2010-03-26
+ym173245	hasLabel	Without Consent
+ym173245	wasCreatedOnDate	1994-10-16
+ym173278	hasLabel	The Tichborne Claimant (film)
+ym173278	wasCreatedOnDate	1999-11-12
+ym173371	hasLabel	Daniel's Daughter
+ym173371	wasCreatedOnDate	2008-01-12
+ym173486	hasLabel	Rio (film)
+ym173486	wasCreatedOnDate	2011-04-08
+ym173505	hasLabel	The Challenge (1960 film)
+ym173505	wasCreatedOnDate	1960-##-##
+ym173553	hasLabel	Making Sandwiches
+ym173553	wasCreatedOnDate	1998-##-##
+ym173649	hasLabel	Bel Ami (2011 film)
+ym173649	wasCreatedOnDate	2011-##-##
+ym173671	hasLabel	Kane & Lynch (film)
+ym173671	wasCreatedOnDate	2011-##-##
+ym173692	hasLabel	Decalogue X
+ym173692	wasCreatedOnDate	1988-##-##
+ym173750	hasLabel	Kilukkampetti
+ym173750	wasCreatedOnDate	1991-##-##
+ym173797	hasLabel	The Lightkeepers
+ym173797	wasCreatedOnDate	2010-03-12
+ym173828	hasLabel	Destiny Turns on the Radio
+ym173828	wasCreatedOnDate	1995-##-##
+ym173929	hasLabel	The Rosebud Beach Hotel
+ym173929	wasCreatedOnDate	1984-##-##
+ym174028	hasLabel	Time to Say Goodbye?
+ym174028	wasCreatedOnDate	1997-09-01
+ym174065	hasLabel	No Down Payment
+ym174065	wasCreatedOnDate	1957-10-30
+ym174095	hasLabel	Run Wild, Run Free
+ym174095	wasCreatedOnDate	1969-07-23
+ym174107	hasLabel	Mixed Blood (film)
+ym174107	wasCreatedOnDate	1985-10-18
+ym174124	hasLabel	The Kids Are All Right (film)
+ym174124	wasCreatedOnDate	2010-07-09
+ym174138	hasLabel	The Yellow Handkerchief (2010 film)
+ym174138	wasCreatedOnDate	2010-02-26
+ym174143	hasLabel	Please Believe Me
+ym174143	wasCreatedOnDate	1950-05-12
+ym174202	hasLabel	The Jimmy Show
+ym174202	wasCreatedOnDate	2002-12-13
+ym174209	hasLabel	Chrystal (film)
+ym174209	wasCreatedOnDate	2005-04-08
+ym174237	hasLabel	Badmaash Company
+ym174237	wasCreatedOnDate	2010-05-07
+ym174286	hasLabel	Bird of Paradise (1951 film)
+ym174286	wasCreatedOnDate	1951-03-14
+ym174315	hasLabel	Frozen Assets (film)
+ym174315	wasCreatedOnDate	1992-10-23
+ym174374	hasLabel	Badmaa$h Company
+ym174374	wasCreatedOnDate	2010-05-07
+ym174386	hasLabel	A Smile Like Yours
+ym174386	wasCreatedOnDate	1997-08-22
+ym174441	hasLabel	Abahoman
+ym174441	wasCreatedOnDate	2010-01-22
+ym174493	hasLabel	Mittal v/s Mittal
+ym174493	wasCreatedOnDate	2010-03-26
+ym174517	hasLabel	The Hawk's Nest (film)
+ym174517	wasCreatedOnDate	1928-05-27
+ym174551	hasLabel	Miracle on Ice (1981 film)
+ym174551	wasCreatedOnDate	1981-03-01
+ym174607	hasLabel	The Greatest (2009 film)
+ym174607	wasCreatedOnDate	2009-01-17
+ym174666	hasLabel	We Are All Demons
+ym174666	wasCreatedOnDate	1969-06-27
+ym174722	hasLabel	Joanna Francesa
+ym174722	wasCreatedOnDate	1975-03-12
+ym174826	hasLabel	Fortune is a Woman
+ym174826	wasCreatedOnDate	1957-04-15
+ym175023	hasLabel	The Pregnancy Pact (film)
+ym175023	wasCreatedOnDate	2010-01-23
+ym175132	hasLabel	Oka Oori Katha
+ym175132	wasCreatedOnDate	1977-##-##
+ym175157	hasLabel	What's Your Number?
+ym175157	wasCreatedOnDate	2011-##-##
+ym175304	hasLabel	Heartless (2009 film)
+ym175304	wasCreatedOnDate	2010-05-21
+ym175334	hasLabel	Miss 420
+ym175334	wasCreatedOnDate	1998-01-23
+ym175345	hasLabel	Our Earthmen Friends
+ym175397	hasLabel	Time Is My Enemy
+ym175397	wasCreatedOnDate	1957-05-24
+ym175400	hasLabel	The Flesh Is Weak
+ym175400	wasCreatedOnDate	1958-05-27
+ym175456	hasLabel	Love Lies Bleeding (2008 film)
+ym175456	wasCreatedOnDate	2008-01-15
+ym175461	hasLabel	Charlie Chan's Courage
+ym175461	wasCreatedOnDate	1934-07-06
+ym175552	hasLabel	The Census Taker
+ym175552	wasCreatedOnDate	1984-07-##
+ym175602	hasLabel	This Earth Is Mine
+ym175602	wasCreatedOnDate	1959-06-26
+ym175658	hasLabel	Easter Fever
+ym175658	wasCreatedOnDate	1980-03-##
+ym175678	hasLabel	Yes, My Darling Daughter (1939 film)
+ym175678	wasCreatedOnDate	1939-02-25
+ym175802	hasLabel	Derrière les murs
+ym175802	wasCreatedOnDate	2011-##-##
+ym175826	hasLabel	Kaadhal Solla Vandhen
+ym175826	wasCreatedOnDate	2010-08-13
+ym175850	hasLabel	Raging Sharks
+ym175917	hasLabel	The Brooklyn Heist
+ym175917	wasCreatedOnDate	2009-11-27
+ym175931	hasLabel	Charlie Chan's Murder Cruise
+ym175931	wasCreatedOnDate	1940-06-21
+ym175957	hasLabel	Cornered! (film)
+ym175957	wasCreatedOnDate	2010-05-25
+ym175967	hasLabel	Blessed (2008 film)
+ym175967	wasCreatedOnDate	2009-10-24
+ym175971	hasLabel	Ruchiki
+ym175971	wasCreatedOnDate	2010-##-##
+ym175990	hasLabel	Lafangey Parindey
+ym175990	wasCreatedOnDate	2010-08-20
+ym176009	hasLabel	Oh, to Be on the Bandwagon!
+ym176009	wasCreatedOnDate	1972-09-13
+ym176021	hasLabel	25 Hill
+ym176021	wasCreatedOnDate	2011-07-##
+ym176076	hasLabel	The Conscript
+ym176076	wasCreatedOnDate	1974-02-28
+ym176355	hasLabel	The Dry Gulch Kid
+ym176355	wasCreatedOnDate	2011-##-##
+ym176403	hasLabel	Penny Paradise
+ym176403	wasCreatedOnDate	1938-09-24
+ym176450	hasLabel	The Voice of Merrill
+ym176450	wasCreatedOnDate	1952-12-##
+ym176467	hasLabel	Sa 'yo Lamang
+ym176467	wasCreatedOnDate	2010-09-01
+ym176474	hasLabel	Ijé
+ym176474	wasCreatedOnDate	2010-04-01
+ym176513	hasLabel	Billa 2 - The Chase Continues
+ym176513	wasCreatedOnDate	2011-##-##
+ym176526	hasLabel	Nadodi
+ym176526	wasCreatedOnDate	1992-##-##
+ym176572	hasLabel	The Star Reporter
+ym176572	wasCreatedOnDate	1932-05-09
+ym176609	hasLabel	Betrayal (1981 film)
+ym176609	wasCreatedOnDate	1981-09-25
+ym176614	hasLabel	Blücher (film)
+ym176614	wasCreatedOnDate	1989-06-16
+ym176626	hasLabel	30 Minutes or Less
+ym176626	wasCreatedOnDate	2011-08-12
+ym176642	hasLabel	The Orchestra Conductor
+ym176642	wasCreatedOnDate	1980-03-24
+ym176645	hasLabel	Horrible Bosses
+ym176645	wasCreatedOnDate	2011-07-29
+ym176663	hasLabel	The Tourist (2010 film)
+ym176663	wasCreatedOnDate	2010-12-10
+ym176785	hasLabel	Voices of a Distant Star
+ym176785	wasCreatedOnDate	2002-02-02
+ym176823	hasLabel	Der Fuehrer's Face
+ym176823	wasCreatedOnDate	1943-01-01
+ym177105	hasLabel	The Place Promised in Our Early Days
+ym177105	wasCreatedOnDate	2004-11-20
+ym177246	hasLabel	One Day in September
+ym177246	wasCreatedOnDate	1999-10-22
+ym177260	hasLabel	Tenacious D in The Pick of Destiny
+ym177260	wasCreatedOnDate	2006-11-22
+ym177353	hasLabel	American Dream (film)
+ym177353	wasCreatedOnDate	1990-10-06
+ym177422	hasLabel	No Smoking (short film)
+ym177422	wasCreatedOnDate	1951-11-23
+ym177423	hasLabel	How to Play Baseball
+ym177423	wasCreatedOnDate	1942-09-04
+ym177424	hasLabel	How to Swim
+ym177424	wasCreatedOnDate	1942-10-23
+ym177443	hasLabel	Blue Movie
+ym177443	wasCreatedOnDate	1969-06-13
+ym177495	hasLabel	Birdcage Inn
+ym177495	wasCreatedOnDate	1998-10-31
+ym177522	hasLabel	Shaun the Sheep
+ym177562	hasLabel	Motor Mania
+ym177562	wasCreatedOnDate	1950-06-30
+ym177720	hasLabel	...To Save Us All from Satan's Power
+ym177728	hasLabel	Live Free or Die (The Sopranos)
+ym177780	hasLabel	Whoever Did This
+ym177931	hasLabel	5 Centimeters Per Second
+ym177931	wasCreatedOnDate	2007-03-03
+ym178419	hasLabel	Yogi's First Christmas
+ym178419	wasCreatedOnDate	1980-##-##
+ym179162	hasLabel	Joey (1985 film)
+ym179162	wasCreatedOnDate	1985-11-21
+ym179659	hasLabel	American Pie (film series)
+ym179803	hasLabel	The Song of Ceylon
+ym179803	wasCreatedOnDate	1937-08-15
+ym180112	hasLabel	Seawards the Great Ships
+ym180112	wasCreatedOnDate	1961-##-##
+ym180150	hasLabel	Gli Amanti di Ravello
+ym180150	wasCreatedOnDate	1951-##-##
+ym180157	hasLabel	The Sea (1933 film)
+ym180157	wasCreatedOnDate	1933-05-07
+ym180831	hasLabel	The Adventurer of Tortuga
+ym180831	wasCreatedOnDate	1965-08-13
+ym181110	hasLabel	A Fantastic Tale of Naruto
+ym181110	wasCreatedOnDate	1957-##-##
+ym181123	hasLabel	Floating Vessel
+ym181123	wasCreatedOnDate	2009-01-09
+ym181127	hasLabel	A Girl Isn't Allowed to Love
+ym181127	wasCreatedOnDate	2009-01-11
+ym181140	hasLabel	The Romance of Yushima
+ym181140	wasCreatedOnDate	2009-01-13
+ym181185	hasLabel	Dedication of the Great Buddha
+ym181185	wasCreatedOnDate	1952-03-20
+ym181211	hasLabel	Man of Africa
+ym181211	wasCreatedOnDate	1953-##-##
+ym181239	hasLabel	Roots (film)
+ym181239	wasCreatedOnDate	1955-06-10
+ym181413	hasLabel	Vertigine d'amore
+ym181413	wasCreatedOnDate	1949-02-23
+ym181738	hasLabel	Jujiro
+ym181738	wasCreatedOnDate	2009-05-14
+ym181943	hasLabel	Kidnapped to Mystery Island
+ym181943	wasCreatedOnDate	1965-##-##
+ym181995	hasLabel	La Strada finisce sul fiume
+ym181995	wasCreatedOnDate	1950-##-##
+ym182472	hasLabel	Men of Israel
+ym182472	wasCreatedOnDate	2009-##-##
+ym182959	hasLabel	Long Days of Hate
+ym182959	wasCreatedOnDate	1969-12-03
+ym182991	hasLabel	Goofy Gymnastics
+ym182991	wasCreatedOnDate	1949-09-23
+ym183121	hasLabel	Victory Through Air Power (film)
+ym183121	wasCreatedOnDate	1943-07-17
+ym183298	hasLabel	Where the Bullets Fly
+ym183298	wasCreatedOnDate	1966-##-##
+ym183532	hasLabel	Creature Comforts
+ym183532	wasCreatedOnDate	2003-##-##
+ym183658	hasLabel	Perazhagan
+ym183658	wasCreatedOnDate	2004-04-15
+ym183660	hasLabel	Kaadhal Kondein
+ym183660	wasCreatedOnDate	2003-03-20
+ym183665	hasLabel	Arinthum Ariyamalum
+ym183665	wasCreatedOnDate	2005-04-10
+ym183689	hasLabel	Oru Kalluriyin Kathai
+ym183689	wasCreatedOnDate	2005-08-04
+ym183691	hasLabel	Deepavali (film)
+ym183691	wasCreatedOnDate	2007-01-05
+ym183702	hasLabel	Sandakozhi
+ym183702	wasCreatedOnDate	2005-11-25
+ym183709	hasLabel	Puthiya Geethai
+ym183709	wasCreatedOnDate	2003-03-17
+ym183711	hasLabel	Azhagai Irukkirai Bayamai Irukkirathu
+ym183711	wasCreatedOnDate	2006-03-25
+ym183712	hasLabel	Dheena
+ym183712	wasCreatedOnDate	2000-12-23
+ym183713	hasLabel	Kattradhu Thamizh
+ym183713	wasCreatedOnDate	2007-10-05
+ym183740	hasLabel	Laaga Chunari Mein Daag
+ym183740	wasCreatedOnDate	2007-09-10
+ym183759	hasLabel	Tashan (film)
+ym183759	wasCreatedOnDate	2008-03-28
+ym183775	hasLabel	Kanda Naal Mudhal
+ym183775	wasCreatedOnDate	2005-08-16
+ym183780	hasLabel	The Land Unknown
+ym183780	wasCreatedOnDate	1957-12-06
+ym183782	hasLabel	Machakaaran
+ym183782	wasCreatedOnDate	2007-10-24
+ym183783	hasLabel	Chennai 600028
+ym183783	wasCreatedOnDate	2007-02-22
+ym183787	hasLabel	Bose (film)
+ym183787	wasCreatedOnDate	2004-08-09
+ym183788	hasLabel	April Maadhathil
+ym183788	wasCreatedOnDate	2002-10-06
+ym183808	hasLabel	Agaram (film)
+ym183808	wasCreatedOnDate	2005-12-12
+ym183810	hasLabel	Vel (film)
+ym183810	wasCreatedOnDate	2007-10-13
+ym183841	hasLabel	Thottal Poo Malarum
+ym183841	wasCreatedOnDate	2007-06-23
+ym183897	hasLabel	Manadhai Thirudivittai
+ym183897	wasCreatedOnDate	2001-09-22
+ym183901	hasLabel	Vaazhthugal
+ym183901	wasCreatedOnDate	2008-01-03
+ym183925	hasLabel	Thulluvadho Ilamai
+ym183925	wasCreatedOnDate	2001-03-01
+ym183927	hasLabel	Siva Manasula Sakthi
+ym183927	wasCreatedOnDate	2009-01-25
+ym184001	hasLabel	Vaamanan
+ym184001	wasCreatedOnDate	2009-04-09
+ym184034	hasLabel	Kunguma Poovum Konjum Puravum
+ym184034	wasCreatedOnDate	2009-04-24
+ym184117	hasLabel	Anthu Inthu Preethi Banthu
+ym184117	wasCreatedOnDate	2008-08-15
+ym184145	hasLabel	Gilli (film)
+ym184145	wasCreatedOnDate	2009-10-16
+ym186649	hasLabel	The Oprah Winfrey Show
+ym186649	wasCreatedOnDate	1986-##-##
+ym196999	hasLabel	Donkey Kong Country
+ym196999	wasCreatedOnDate	1994-11-21
+ym197001	hasLabel	Donkey Kong Land
+ym197001	wasCreatedOnDate	1995-06-26
+ym213406	hasGender	male
+ym213406	hasLabel	Weiß Kreuz
+ym213406	wasCreatedOnDate	2000-##-##
+ym215636	hasLabel	Star Fox Adventures
+ym215636	wasCreatedOnDate	2002-09-23
+ym217312	hasLabel	The Jamie Foxx Show
+ym217312	wasCreatedOnDate	1996-##-##
+ym219185	hasGender	male
+ym219185	hasLabel	Captain Skyhawk
+ym219185	wasCreatedOnDate	1990-##-##
+ym219190	hasLabel	Super R.C. Pro-Am
+ym219190	wasCreatedOnDate	1992-04-23
+ym219191	hasLabel	R.C. Pro-Am
+ym219191	wasCreatedOnDate	1988-04-15
+ym221948	hasLabel	Upstairs, Downstairs
+ym221948	wasCreatedOnDate	1971-##-##
+ym223101	hasLabel	Diddy Kong Racing
+ym223101	wasCreatedOnDate	1997-11-21
+ym224230	hasLabel	Ghostwatch
+ym224230	wasCreatedOnDate	1992-10-31
+ym230295	hasLabel	The House of Eliott
+ym230295	wasCreatedOnDate	1991-##-##
+ym232381	hasLabel	Battletoads & Double Dragon
+ym232381	wasCreatedOnDate	1993-12-01
+ym233331	hasLabel	Anticipation (video game)
+ym233331	wasCreatedOnDate	1988-11-##
+ym235913	hasLabel	Donkey Kong Land 2
+ym235913	wasCreatedOnDate	1996-09-01
+ym241045	hasLabel	Snake Rattle 'n' Roll
+ym241045	wasCreatedOnDate	1991-03-27
+ym241617	hasLabel	Wizards & Warriors
+ym241617	wasCreatedOnDate	1988-07-15
+ym242328	hasLabel	Who Framed Roger Rabbit (Nintendo Entertainment System)
+ym242328	wasCreatedOnDate	1989-09-##
+ym242472	hasLabel	R.C. Pro-Am II
+ym242472	wasCreatedOnDate	1992-##-##
+ym242684	hasLabel	Back in the Day (Missy Elliott song)
+ym242684	wasCreatedOnDate	2003-02-08
+ym250725	hasLabel	American Gothic (TV series)
+ym250725	wasCreatedOnDate	1995-##-##
+ym259610	hasLabel	Viva Variety
+ym259610	wasCreatedOnDate	1997-##-##
+ym263519	hasLabel	Over There (TV series)
+ym263519	wasCreatedOnDate	2005-##-##
+ym264565	hasLabel	Cry Me a River (Justin Timberlake song)
+ym264565	wasCreatedOnDate	2002-12-28
+ym269900	hasLabel	Beetlejuice (video game)
+ym269900	wasCreatedOnDate	1991-##-##
+ym270004	hasLabel	Mr. & Mrs. Smith (1996 TV series)
+ym270004	wasCreatedOnDate	1996-##-##
+ym272016	hasLabel	I Love Rock 'n' Roll
+ym272016	wasCreatedOnDate	1982-01-20
+ym283252	hasLabel	Battletoads (arcade game)
+ym283252	wasCreatedOnDate	1994-##-##
+ym284507	hasLabel	DK Jamz
+ym284507	wasCreatedOnDate	1995-03-01
+ym285855	hasLabel	Who Is She 2 U
+ym285855	wasCreatedOnDate	2004-07-27
+ym285984	hasLabel	Make Me a Song
+ym285984	wasCreatedOnDate	2003-05-06
+ym287003	hasLabel	Don't Know What to Tell Ya
+ym287003	wasCreatedOnDate	2003-05-20
+ym288535	hasLabel	Get on the Bus (song)
+ym288535	wasCreatedOnDate	1999-02-23
+ym288706	hasLabel	Try Again
+ym288706	wasCreatedOnDate	2000-02-29
+ym292926	hasLabel	Dirt off Your Shoulder
+ym292926	wasCreatedOnDate	2004-03-02
+ym294240	hasLabel	Afterlife (TV series)
+ym294240	wasCreatedOnDate	2005-##-##
+ym295427	hasLabel	Unpredictable (Jamie Foxx album)
+ym295427	wasCreatedOnDate	2005-12-27
+ym303868	hasLabel	Georgia (song)
+ym303868	wasCreatedOnDate	2005-10-09
+ym303881	hasFamilyName	Company
+ym303881	hasGender	male
+ym303881	hasGivenName	Bad
+ym303881	hasLabel	Bad Company (comics)
+ym303881	wasCreatedOnDate	2005-##-##
+ym304314	hasLabel	WWF WrestleMania Challenge
+ym304314	wasCreatedOnDate	1990-10-##
+ym304447	hasLabel	Cobra Triangle
+ym304447	wasCreatedOnDate	1989-07-##
+ym306757	hasLabel	Monster Max
+ym306757	wasCreatedOnDate	1995-01-##
+ym309188	hasLabel	Peep This
+ym309188	wasCreatedOnDate	1994-07-19
+ym314407	hasLabel	The Powers of Matthew Star
+ym314407	wasCreatedOnDate	1982-##-##
+ym314773	hasLabel	Frisky Dingo
+ym314773	wasCreatedOnDate	2006-##-##
+ym316053	hasLabel	WWF WrestleMania (video game)
+ym316053	wasCreatedOnDate	1989-01-##
+ym318539	hasLabel	Off Centre
+ym318539	wasCreatedOnDate	2001-##-##
+ym327983	hasLabel	Wild C.A.T.s (TV series)
+ym327983	wasCreatedOnDate	1994-##-##
+ym332785	hasLabel	Wait a Minute (Pussycat Dolls song)
+ym332785	wasCreatedOnDate	2006-12-04
+ym333531	hasLabel	Slalom (video game)
+ym333531	wasCreatedOnDate	1987-10-15
+ym334757	hasLabel	SexyBack
+ym334757	wasCreatedOnDate	2006-07-07
+ym335898	hasLabel	Say It Right
+ym335898	wasCreatedOnDate	2006-10-31
+ym340110	hasFamilyName	Ball
+ym340110	hasGivenName	Super
+ym340110	hasLabel	Super Glove Ball
+ym340110	wasCreatedOnDate	1990-10-##
+ym342044	hasLabel	Mosley Music Group
+ym342044	wasCreatedOnDate	2006-##-##
+ym343186	hasLabel	The Jump Off
+ym343186	wasCreatedOnDate	2003-01-28
+ym344535	hasLabel	Forever Jolina
+ym344535	wasCreatedOnDate	2004-01-##
+ym344539	hasLabel	Tuloy Pa Rin Ang Awit
+ym344539	wasCreatedOnDate	2006-02-##
+ym347442	hasLabel	Hull High
+ym347442	wasCreatedOnDate	1990-##-##
+ym349127	hasLabel	Can I Take U Home
+ym349127	wasCreatedOnDate	2006-##-##
+ym349617	hasLabel	Get Ur Freak On
+ym349617	wasCreatedOnDate	2001-03-06
+ym351395	hasLabel	Are You That Somebody?
+ym351395	wasCreatedOnDate	1998-06-16
+ym352499	hasLabel	Live in the Sky
+ym352499	wasCreatedOnDate	2006-09-##
+ym353108	hasLabel	My Love (Justin Timberlake song)
+ym353108	wasCreatedOnDate	2006-09-12
+ym354645	hasLabel	Unpredictable (song)
+ym354645	wasCreatedOnDate	2006-04-10
+ym354968	hasLabel	Time Lord (video game)
+ym354968	wasCreatedOnDate	1989-##-##
+ym355942	hasLabel	Slow Jamz
+ym355942	wasCreatedOnDate	2003-12-02
+ym356978	hasLabel	Hot Boyz (song)
+ym356978	wasCreatedOnDate	1999-11-09
+ym360191	hasLabel	Pony (Ginuwine song)
+ym360191	wasCreatedOnDate	1996-08-20
+ym360193	hasLabel	If Your Girl Only Knew
+ym360193	wasCreatedOnDate	1996-08-13
+ym361231	hasLabel	Nigga What, Nigga Who (Originator 99)
+ym361231	wasCreatedOnDate	1999-11-30
+ym362748	hasLabel	What Goes Around.../...Comes Around
+ym362748	wasCreatedOnDate	2007-01-08
+ym366446	hasLabel	Rollout (My Business)
+ym366446	wasCreatedOnDate	2001-10-16
+ym368507	hasLabel	Headsprung
+ym368507	wasCreatedOnDate	2004-10-12
+ym370162	hasLabel	LoveStoned
+ym370162	wasCreatedOnDate	2007-06-14
+ym372889	hasLabel	Give It to Me (Timbaland song)
+ym372889	wasCreatedOnDate	2007-02-06
+ym372911	hasLabel	Ice Box (song)
+ym372911	wasCreatedOnDate	2006-10-31
+ym374545	hasLabel	One in a Million (Aaliyah song)
+ym374545	wasCreatedOnDate	1996-12-10
+ym374553	hasLabel	4 Page Letter
+ym374553	wasCreatedOnDate	1997-03-11
+ym374558	hasLabel	Hot like Fire
+ym374558	wasCreatedOnDate	1997-09-16
+ym387930	hasLabel	Extravaganza (song)
+ym387930	wasCreatedOnDate	2006-06-19
+ym387931	hasLabel	DJ Play a Love Song
+ym387931	wasCreatedOnDate	2006-09-11
+ym392115	hasLabel	Are You Feelin' Me?
+ym392115	wasCreatedOnDate	2000-04-##
+ym392117	hasLabel	I Care 4 U (song)
+ym392117	wasCreatedOnDate	2002-08-06
+ym392119	hasLabel	We Need a Resolution
+ym392119	wasCreatedOnDate	2001-04-24
+ym392124	hasLabel	More than a Woman (Aaliyah song)
+ym392124	wasCreatedOnDate	2001-11-13
+ym393802	hasLabel	Joan Jett (album)
+ym393802	wasCreatedOnDate	1980-##-##
+ym393805	hasLabel	Bad Reputation (Joan Jett album)
+ym393805	wasCreatedOnDate	1981-01-23
+ym393807	hasLabel	I Love Rock 'n' Roll (album)
+ym393807	wasCreatedOnDate	1981-11-18
+ym394254	hasLabel	Anonymous (Bobby Valentino song)
+ym394254	wasCreatedOnDate	2007-04-##
+ym395768	hasLabel	The Luv Show
+ym395768	wasCreatedOnDate	1995-11-##
+ym396957	hasLabel	Earth Intruders
+ym396957	wasCreatedOnDate	2007-04-09
+ym401322	hasLabel	Beaterator
+ym401322	wasCreatedOnDate	2009-09-29
+ym401531	hasLabel	Painkiller Jane (TV series)
+ym401531	wasCreatedOnDate	2007-##-##
+ym403253	hasLabel	Ringo (song)
+ym403253	wasCreatedOnDate	1964-##-##
+ym404224	hasLabel	Big Pimpin'
+ym404224	wasCreatedOnDate	2000-04-11
+ym404236	hasLabel	Ching Ching
+ym404236	wasCreatedOnDate	2002-##-##
+ym404905	hasLabel	Summer Love (Justin Timberlake song)
+ym404905	wasCreatedOnDate	2007-04-10
+ym407327	hasLabel	Innocence (Björk song)
+ym407327	wasCreatedOnDate	2007-07-23
+ym409419	hasLabel	Until the End of Time (Justin Timberlake song)
+ym409419	wasCreatedOnDate	2007-11-13
+ym418577	hasLabel	Oprah's Big Give
+ym418577	wasCreatedOnDate	2008-##-##
+ym419055	hasLabel	Evil Stig
+ym419055	wasCreatedOnDate	1995-##-##
+ym425474	hasLabel	Hey Papi
+ym425474	wasCreatedOnDate	2000-07-18
+ym427812	hasLabel	Give It Up to Me
+ym427812	wasCreatedOnDate	2009-11-10
+ym432486	hasLabel	Hit Em wit da Hee
+ym432486	wasCreatedOnDate	1998-04-04
+ym433540	hasLabel	Apologize (song)
+ym433540	wasCreatedOnDate	2007-11-06
+ym433541	hasLabel	Release (Timbaland song)
+ym433541	wasCreatedOnDate	2008-##-##
+ym435779	hasLabel	Falling Down (Duran Duran song)
+ym435779	wasCreatedOnDate	2007-11-12
+ym439890	hasLabel	Rehab (Rihanna song)
+ym439890	wasCreatedOnDate	2008-12-10
+ym452967	hasLabel	Scream (Timbaland song)
+ym452967	wasCreatedOnDate	2007-12-11
+ym453499	hasLabel	4 Minutes (Madonna song)
+ym453499	wasCreatedOnDate	2008-03-17
+ym460872	hasLabel	Elevator (Flo Rida song)
+ym460872	wasCreatedOnDate	2008-02-12
+ym461858	hasLabel	Lud, zbunjen, normalan
+ym461858	wasCreatedOnDate	2007-##-##
+ym463205	hasLabel	From G's to Gents (season 1)
+ym463205	wasCreatedOnDate	2008-##-##
+ym466951	hasLabel	I Hate Myself for Loving You
+ym466951	wasCreatedOnDate	1988-##-##
+ym484319	hasLabel	Dangerous (M. Pokora song)
+ym484319	wasCreatedOnDate	2008-03-22
+ym492366	hasLabel	Miles Away (Madonna song)
+ym492366	wasCreatedOnDate	2008-10-17
+ym498943	hasLabel	Please Excuse My Hands
+ym498943	wasCreatedOnDate	2008-06-10
+ym504135	hasLabel	Miss Independent (Ne-Yo song)
+ym504135	wasCreatedOnDate	2008-09-05
+ym505722	hasLabel	Battletoads
+ym505722	wasCreatedOnDate	1993-02-18
+ym510282	hasLabel	Bad Reputation (Joan Jett song)
+ym510282	wasCreatedOnDate	1981-##-##
+ym513201	hasLabel	Long Gone
+ym513201	wasCreatedOnDate	2008-07-29
+ym514197	hasLabel	Scream (Chris Cornell song)
+ym514197	wasCreatedOnDate	2008-09-09
+ym520222	hasLabel	Destiny (Jolina Magdangal album)
+ym520222	wasCreatedOnDate	2008-07-##
+ym522748	hasLabel	Intuition (Jamie Foxx album)
+ym522748	wasCreatedOnDate	2008-12-16
+ym523208	hasLabel	Just Like Me (Jamie Foxx song)
+ym523208	wasCreatedOnDate	2008-11-11
+ym532747	hasLabel	Blame It
+ym532747	wasCreatedOnDate	2009-01-26
+ym534350	hasLabel	Return the Favor
+ym534350	wasCreatedOnDate	2008-10-07
+ym544927	hasLabel	I Don't Need It
+ym544927	wasCreatedOnDate	2009-05-06
+ym547499	hasLabel	Pretty Songs & Ugly Stories
+ym547499	wasCreatedOnDate	2006-12-##
+ym552330	hasLabel	Michael & Michael Have Issues
+ym552330	wasCreatedOnDate	2009-##-##
+ym553447	hasLabel	Digital Girl
+ym553447	wasCreatedOnDate	2009-07-06
+ym554883	hasLabel	The Blast (album)
+ym554883	wasCreatedOnDate	1999-07-23
+ym557322	hasLabel	House of Fire
+ym557322	wasCreatedOnDate	1989-##-##
+ym565305	hasLabel	One Logologo Line
+ym565305	wasCreatedOnDate	2004-12-11
+ym569968	hasLabel	Morning After Dark
+ym569968	wasCreatedOnDate	2009-10-26
+ym573590	hasLabel	Say Something (song)
+ym573590	wasCreatedOnDate	2009-11-03
+ym574137	hasLabel	Ryde or Die, Bitch
+ym574137	wasCreatedOnDate	1999-##-##
+ym576764	hasLabel	Carry Out
+ym576764	wasCreatedOnDate	2009-12-01
+ym577667	hasLabel	Shock Value II
+ym577667	wasCreatedOnDate	2009-12-04
+ym578893	hasLabel	If We Ever Meet Again
+ym578893	wasCreatedOnDate	2010-02-15
+ym579786	hasLabel	Goa (soundtrack)
+ym579786	wasCreatedOnDate	2010-01-04
+ym590964	hasLabel	Winner (Jamie Foxx song)
+ym590964	wasCreatedOnDate	2010-04-07
+ym590965	hasLabel	Body (album)
+ym590965	wasCreatedOnDate	2010-##-##
+ym591734	hasLabel	Cherry Bomb (song)
+ym591734	wasCreatedOnDate	1976-##-##
+ym596824	hasLabel	Blue Bloods (TV series)
+ym596824	wasCreatedOnDate	2010-##-##
+ym597495	hasLabel	Queens of Noise (song)
+ym597495	wasCreatedOnDate	1977-##-##
+ym598187	hasLabel	The Man (Lorne Greene album)
+ym598187	wasCreatedOnDate	1965-##-##
+ym599390	hasLabel	Thuli Thuli
+ym599390	wasCreatedOnDate	2009-11-22
+ym600923	hasLabel	Music of Mobile Suit Gundam Wing
+ym600923	wasCreatedOnDate	1995-07-07
+ym601701	hasLabel	Marchin On
+ym601701	wasCreatedOnDate	2010-06-18
+ym606210	hasLabel	Cheers 2 U (song)
+ym606210	wasCreatedOnDate	1998-03-10
+ym610156	hasGender	male
+ym610156	hasLabel	Hellblazer
+ym610939	hasGender	male
+ym610939	hasLabel	Shade, the Changing Man
+ym613007	hasLabel	Stella (TV series)
+ym614358	hasLabel	Timbaland discography
+ym614685	hasLabel	Oprah After the Show
+ym615612	hasLabel	All Due Respect (The Sopranos)
+ym615638	hasLabel	He Is Risen (The Sopranos)
+ym615648	hasLabel	Irregular Around the Margins
+ym615656	hasLabel	Cold Cuts (The Sopranos)
+ym615702	hasLabel	Employee of the Month (The Sopranos)
+ym615791	hasLabel	University (The Sopranos)
+ym615882	hasLabel	Do Not Resuscitate (The Sopranos)
+ym615907	hasLabel	Full Leather Jacket
+ym615951	hasLabel	Down Neck
+ym615953	hasLabel	Boca (The Sopranos)
+ym615960	hasLabel	Bust Out
+ym615961	hasLabel	The Knight in White Satin Armor
+ym615980	hasLabel	Isabella (The Sopranos)
+ym616004	hasLabel	Calling All Cars (The Sopranos)
+ym616007	hasLabel	Whitecaps (The Sopranos)
+ym616022	hasLabel	Pie-O-My
+ym616152	hasLabel	The Strong, Silent Type
+ym619800	hasGender	male
+ym619800	hasLabel	Pilot (Stella)
+ym619904	hasLabel	A Tree Grows in Guadalajara
+ym620412	hasLabel	Betty's Wait Problem
+ym621016	hasLabel	Bananas for Betty
+ym623454	hasLabel	Crush'd
+ym623880	hasLabel	Joan Jett discography
+ym624109	hasLabel	Pocketbook (song)
+ym624583	hasLabel	Curveball (Ugly Betty)
+ym624927	hasLabel	The Blame It Tour
+ym625010	hasLabel	A Chorus Lie
+ym625591	hasLabel	Backseat Betty
+ym625861	hasFamilyName	Hunt
+ym625861	hasGender	male
+ym625861	hasGivenName	Mole
+ym625861	hasLabel	Mole Hunt
+ym625995	hasLabel	Back Up, Dancer
+ym626056	hasLabel	Training Day (Archer)
+ym626561	hasLabel	From G's to Gents (season 2)
+yp52496	hasLabel	Harpo Productions
+yp52496	wasCreatedOnDate	1986-##-##
